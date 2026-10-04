@@ -1,0 +1,40 @@
+{
+  "name": "ks-abroad",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/dev-server.mjs",
+    "build": "next build",
+    "start": "next start --hostname 0.0.0.0 --port 43127",
+    "lint": "eslint",
+    "db:start": "node scripts/dev-postgres.mjs start",
+    "db:stop": "node scripts/dev-postgres.mjs stop",
+    "db:status": "node scripts/dev-postgres.mjs status",
+    "db:up": "node scripts/dev-postgres.mjs start",
+    "db:migrate": "tsx scripts/migrate-portal-json.ts",
+    "test:portal": "tsx scripts/test-portal-store.ts",
+    "enrichment:backup": "tsx scripts/backup-enrichment.ts",
+    "reminders:generate": "tsx scripts/generate-reminders.ts"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.544.0",
+    "next": "16.3.4",
+    "postgres": "^3.4.9",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "tailwind-merge": "^3.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "embedded-postgres": "^18.4.0-beta.17",
+    "eslint": "^9",
+    "eslint-config-next": "16.3.4",
+    "tailwindcss": "^4",
+    "tsx": "^4.23.15",
+    "typescript": "^5"
+  }
+}

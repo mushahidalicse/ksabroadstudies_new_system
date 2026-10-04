@@ -1,0 +1,296 @@
+{
+  "lastUpdated": "2026-09-08",
+  "note": "English-taught single-cycle (ciclo unico) programmes at Italian PUBLIC universities for A.Y. 2026/27, from official MUR DM 1005/2026 (IMAT Medicine/Dentistry/Veterinary) and official university pages (Pharmacy). Private universities in Tabella B (Cattolica, Humanitas, UniCamillus, San Raffaele, Campus Bio-Medico, Neuromed) are listed in MUR seats but omitted here as non-public. English Medicine/Dentistry/Veterinary remain on the national IMAT path; Italian-taught LM-41/46/42 use the Semestre Aperto/filter semester (excluded by D.Lgs. 71/2025 art. 8.3). Non-EU residents abroad compete only on the local ranking of the university where they completed Universitaly pre-enrolment.",
+  "imat": {
+    "what": "National admission test (prova di ammissione) for English-taught single-cycle Master's degrees in Medicine and Surgery (LM-41), Dentistry and Dental Prosthodontics (LM-46), and Veterinary Medicine (LM-42). One identical paper-based test at all Italian and foreign centres: 60 five-option MCQs in 100 minutes (4 reading/general knowledge, 5 logical reasoning, 23 biology, 15 chemistry, 13 physics & maths). Scoring: +1.5 correct, −0.4 wrong, 0 omitted (max 90). Prepared/managed by CINECA for MUR. At registration candidates irrevocably choose Medicine+Dentistry OR Veterinary (separate national rankings for EU/EU-equivalent).",
+    "whoNeedsIt": "All applicants to English-taught public (and participating private) LM-41 / LM-46 / LM-42 programmes: EU citizens, non-EU residents in Italy (art. 39/26 categories), and non-EU residents abroad. Non-EU abroad sit the same test but compete only for the reserved local seats of the university where they pre-enrolled on Universitaly. Minimum score: 20 points for EU/EU-equivalent; non-EU abroad need score > 0 (blank papers excluded). Pharmacy English programmes do NOT use IMAT.",
+    "typicalTimeline": "A.Y. 2026/27 (DM 1005/2026): Universitaly IMAT registration 26 Aug 2026–9 Sep 2026 15:00 GMT+2; test 29 Sep 2026 (Italian centres 13:30); anonymous scores by label code 8 Oct 2026; personal paper/score view 19 Oct 2026; national named rankings + first assignment 26 Oct 2026; then scrolling with 4-day enrolment windows. Separately, non-EU abroad must complete Universitaly pre-enrolment (university-specific deadlines, often earlier than IMAT registration) and study-visa applications by 30 Nov 2026 for A.Y. 2026/27.",
+    "registrationPortal": "https://www.universitaly.it/",
+    "universitalyNote": "IMAT registration is exclusively on Universitaly (Accesso programmato / English Medicine–Dentistry–Veterinary section). Candidates register, pay the participation fee as shown on the portal, declare university preferences (irrevocable after close), optional Annex-3 English certificates (tie-break only), and test venue. If sitting in Italy, the first Italian preference is the test centre. Non-EU residents abroad must ALSO complete Universitaly international pre-enrolment (https://www.universitaly.it/studenti-stranieri) at their chosen university before competing for that university’s non-EU quota; without pre-enrolment they cannot convert an IMAT score into a non-EU seat.",
+    "documents": [
+      "Valid identity document (type, number, issuing authority, validity dates) declared on Universitaly registration",
+      "Personal/fiscal data required by Universitaly (name, birthplace/date, citizenship, residence, codice fiscale where applicable, email)",
+      "Upper secondary-school diploma or equivalent foreign qualification recognised as suitable (verified at enrolment / pre-enrolment; country-specific rules in Universitaly Allegato 1)",
+      "Universitaly pre-enrolment dossier for non-EU residents abroad (passport, school documents, translations/legalisations as required by the chosen university and Italian consulate)",
+      "Optional: recognised English language certificate (Annex 3 of DM 1005: Cambridge, IELTS, TOEFL, Trinity ISE, Pearson PTE, etc., B2+) — used for tie-breaking and often required by universities at enrolment",
+      "If claiming accommodations: disability/invalidity or DSA certification (legalised + sworn translation if issued abroad)",
+      "Study visa / residence permit process after assignment (visa applications for A.Y. 2026/27 by 30 Nov 2026 per Universitaly procedures)"
+    ],
+    "officialSources": [
+      "https://www.mur.gov.it/it/atti-e-normativa/decreto-ministeriale-n-1005-del-06-08-2026",
+      "https://www.mur.gov.it/sites/default/files/2026-08/Decreto%20Ministeriale%20n.%201005%20del%2006-08-2026.pdf",
+      "https://www.mur.gov.it/sites/default/files/2026-08/Decreto%20Ministeriale%20n.%201005%20Allegati%201_2_3.pdf",
+      "https://www.mur.gov.it/sites/default/files/2026-08/Decreto%20Ministeriale%20n.%201005%20Tabella%20B%20posti.pdf",
+      "https://www.mur.gov.it/it/news/martedi-07072026/universita-fissate-le-date-delle-prove-dammissione-le-facolta-ad-accesso",
+      "https://www.universitaly.it/",
+      "https://www.universitaly.it/studenti-stranieri",
+      "https://www.universitaly.it/it/imat"
+    ]
+  },
+  "singleCycle": [
+    {
+      "universityId": "university-of-bari",
+      "universityName": "University of Bari Aldo Moro",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "years": 6,
+      "entryTest": "IMAT",
+      "applyUrl": "https://www.universitaly.it/",
+      "portalNotes": "Public LM-41 English; Bari seat. MUR 2026/27 seats: 89 EU/EU-equivalent + 11 non-EU abroad. IMAT registration on Universitaly; non-EU abroad pre-enrol via Universitaly for Bari.",
+      "source": "https://www.mur.gov.it/sites/default/files/2026-08/Decreto%20Ministeriale%20n.%201005%20Tabella%20B%20posti.pdf"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "universityName": "University of Bologna",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "years": 6,
+      "entryTest": "IMAT",
+      "applyUrl": "https://corsi.unibo.it/singlecycle/MedicineAndSurgery/how-to-enrol",
+      "portalNotes": "Fully English LM-41 in Bologna. MUR seats 2026/27: 140 EU/EU-equivalent + 20 non-EU abroad. Register for the national test on Universitaly 26 Aug–9 Sep 2026; then enrol via Studenti Online if assigned.",
+      "source": "https://corsi.unibo.it/singlecycle/MedicineAndSurgery"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "universityName": "University of Bologna",
+      "name": "Veterinary Medicine",
+      "field": "Veterinary",
+      "years": 5,
+      "entryTest": "IMAT",
+      "applyUrl": "https://corsi.unibo.it/singlecycle/VeterinaryMedicine",
+      "portalNotes": "English LM-42 at Ozzano dell'Emilia. Same national IMAT as Medicine/Dentistry but candidates must choose the Veterinary track at Universitaly registration (irrevocable). MUR seats 2026/27: 45 EU/EU-equivalent + 5 non-EU abroad.",
+      "source": "https://www.mur.gov.it/sites/default/files/2026-08/Decreto%20Ministeriale%20n.%201005%20Tabella%20B%20posti.pdf"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "universityName": "University of Bologna",
+      "name": "Pharmacy",
+      "field": "Pharmacy",
+      "years": 5,
+      "entryTest": "university test",
+      "applyUrl": "https://corsi.unibo.it/singlecycle/Pharmacy-Rimini",
+      "portalNotes": "English LM-13 at Rimini campus. Restricted access via CISIA CEnT-S (not IMAT). Separate university call/enrolment from Medicine.",
+      "source": "https://corsi.unibo.it/singlecycle/Pharmacy-Rimini"
+    },
+    {
+      "universityId": "university-of-cagliari",
+      "universityName": "University of Cagliari",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "years": 6,
+      "entryTest": "IMAT",
+      "applyUrl": "https://www.universitaly.it/",
+      "portalNotes": "Public LM-41 English; Cagliari seat. MUR 2026/27 seats: 80 EU/EU-equivalent + 18 non-EU abroad. Confirm annual bando on unica.it / Medicine faculty site; IMAT + Universitaly pre-enrolment for non-EU.",
+      "source": "https://www.mur.gov.it/sites/default/files/2026-08/Decreto%20Ministeriale%20n.%201005%20Tabella%20B%20posti.pdf"
+    },
+    {
+      "universityId": "university-of-campania-luigi-vanvitelli",
+      "universityName": "University of Campania Luigi Vanvitelli",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "years": 6,
+      "entryTest": "IMAT",
+      "applyUrl": "https://www.medicina.unicampania.it/",
+      "portalNotes": "English LM-41 (Napoli seat). MUR 2026/27 seats: 70 EU/EU-equivalent + 50 non-EU abroad. National IMAT via Universitaly; follow Vanvitelli Medicine School notices for enrolment.",
+      "source": "https://www.mur.gov.it/sites/default/files/2026-08/Decreto%20Ministeriale%20n.%201005%20Tabella%20B%20posti.pdf"
+    },
+    {
+      "universityId": "university-of-catania",
+      "universityName": "University of Catania",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "years": 6,
+      "entryTest": "IMAT",
+      "applyUrl": "https://www.unict.it/it/didattica/lauree-magistrali-ciclo-unico/2025-2026/medicine-and-surgery",
+      "portalNotes": "English LM-41 in Catania. MUR 2026/27 seats: 40 EU/EU-equivalent + 40 non-EU abroad. IMAT on Universitaly; SmartEdu/university call for post-test enrolment and non-EU procedures.",
+      "source": "https://www.unict.it/it/didattica/lauree-magistrali-ciclo-unico/2025-2026/medicine-and-surgery"
+    },
+    {
+      "universityId": "university-of-florence",
+      "universityName": "University of Florence",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "years": 6,
+      "entryTest": "IMAT",
+      "applyUrl": "https://www.medicina.unifi.it/",
+      "portalNotes": "New English LM-41 marked *in fase di accreditamento* in MUR Tabella B. Seats 2026/27: 50 EU/EU-equivalent + 0 non-EU abroad. Assignment conditioned on successful initial accreditation (DM 1005 art. 7.2).",
+      "source": "https://www.mur.gov.it/sites/default/files/2026-08/Decreto%20Ministeriale%20n.%201005%20Tabella%20B%20posti.pdf"
+    },
+    {
+      "universityId": "university-of-messina",
+      "universityName": "University of Messina",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "years": 6,
+      "entryTest": "IMAT",
+      "applyUrl": "https://international.unime.it/study-us/english-taught-programmes/imat-test-info-page",
+      "portalNotes": "English LM-41. MUR 2026/27 seats: 55 EU/EU-equivalent + 61 non-EU abroad. UniME requires application on both the UniME Application Portal and Universitaly by the pre-enrolment deadline stated in the call (e.g. 20 Jul 2026 for 2026/27) before IMAT registration.",
+      "source": "https://international.unime.it/study-us/english-taught-programmes/imat-test-info-page"
+    },
+    {
+      "universityId": "university-of-milan",
+      "universityName": "University of Milan",
+      "name": "Medicine and Surgery (International Medical School)",
+      "field": "Medicine",
+      "years": 6,
+      "entryTest": "IMAT",
+      "applyUrl": "https://ims.cdl.unimi.it/en/enrolment",
+      "portalNotes": "English LM-41 International Medical School. MUR 2026/27 seats: 60 EU/EU-equivalent + 15 non-EU abroad. National IMAT; enrolment instructions on IMS site after ranking.",
+      "source": "https://ims.cdl.unimi.it/en"
+    },
+    {
+      "universityId": "university-of-milano-bicocca",
+      "universityName": "University of Milano-Bicocca",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "years": 6,
+      "entryTest": "IMAT",
+      "applyUrl": "https://www.medicina.unimib.it/it",
+      "portalNotes": "English LM-41 taught at Bergamo seat. MUR 2026/27 seats: 40 EU/EU-equivalent + 20 non-EU abroad. IMAT via Universitaly; check UniMiB Medicine Department / annual bando for enrolment.",
+      "source": "https://www.mur.gov.it/sites/default/files/2026-08/Decreto%20Ministeriale%20n.%201005%20Tabella%20B%20posti.pdf"
+    },
+    {
+      "universityId": "university-of-naples-federico-ii",
+      "universityName": "University of Naples Federico II",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "years": 6,
+      "entryTest": "IMAT",
+      "applyUrl": "https://www.international.unina.it/",
+      "portalNotes": "English LM-41 (Napoli). MUR 2026/27 seats: 35 EU/EU-equivalent + 45 non-EU abroad. National IMAT; non-EU pre-enrolment on Universitaly validated by UNINA.",
+      "source": "https://www.mur.gov.it/sites/default/files/2026-08/Decreto%20Ministeriale%20n.%201005%20Tabella%20B%20posti.pdf"
+    },
+    {
+      "universityId": "university-of-naples-federico-ii",
+      "universityName": "University of Naples Federico II",
+      "name": "Veterinary Medicine",
+      "field": "Veterinary",
+      "years": 5,
+      "entryTest": "IMAT",
+      "applyUrl": "https://www.international.unina.it/",
+      "portalNotes": "New English LM-42 (*in fase di accreditamento*). MUR 2026/27 seats: 18 EU/EU-equivalent + 2 non-EU abroad. Separate Veterinary preference on Universitaly IMAT registration. Seats conditioned on accreditation.",
+      "source": "https://www.mur.gov.it/sites/default/files/2026-08/Decreto%20Ministeriale%20n.%201005%20Tabella%20B%20posti.pdf"
+    },
+    {
+      "universityId": "university-of-padua",
+      "universityName": "University of Padua",
+      "name": "Medicine and Surgery (Venice)",
+      "field": "Medicine",
+      "years": 6,
+      "entryTest": "IMAT",
+      "applyUrl": "https://apply.unipd.it/courses/course/36-medicine-and-surgery",
+      "portalNotes": "English LM-41; from cohort 2025/26 teaching location Venice (Ospedale SS. Giovanni e Paolo). MUR 2026/27 seats: 75 EU/EU-equivalent + 25 non-EU abroad. IMAT + UniPD call; School of Medicine international desk for non-EU.",
+      "source": "https://apply.unipd.it/courses/course/36-medicine-and-surgery"
+    },
+    {
+      "universityId": "university-of-padua",
+      "universityName": "University of Padua",
+      "name": "Medicine and Surgery – MedTech",
+      "field": "Medicine",
+      "years": 6,
+      "entryTest": "IMAT",
+      "applyUrl": "https://www.medicinachirurgia.unipd.it/informazioni-chi-studia/medicine-and-surgery-medtech/presentation",
+      "portalNotes": "New English LM-41 MedTech (Padova seat), integrating biomedical engineering/AI; *in fase di accreditamento*. MUR 2026/27 seats: 70 EU/EU-equivalent + 15 non-EU abroad. Same national IMAT; seats conditioned on accreditation.",
+      "source": "https://www.medicinachirurgia.unipd.it/informazioni-chi-studia/medicine-and-surgery-medtech/presentation"
+    },
+    {
+      "universityId": "university-of-parma",
+      "universityName": "University of Parma",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "years": 6,
+      "entryTest": "IMAT",
+      "applyUrl": "https://mc.unipr.it/en",
+      "portalNotes": "English LM-41 taught in Piacenza. MUR 2026/27 seats: 80 EU/EU-equivalent + 50 non-EU abroad. Official call (e.g. Bando IMAT ENG on mc.unipr.it) requires B2 English certificate at enrolment; Universitaly for test + non-EU pre-enrolment.",
+      "source": "https://www.mur.gov.it/sites/default/files/2026-08/Decreto%20Ministeriale%20n.%201005%20Tabella%20B%20posti.pdf"
+    },
+    {
+      "universityId": "university-of-pavia",
+      "universityName": "University of Pavia",
+      "name": "Medicine and Surgery (Harvey Course)",
+      "field": "Medicine",
+      "years": 6,
+      "entryTest": "IMAT",
+      "applyUrl": "https://medicineandsurgeryharvey.cdl.unipv.it/en/enroll/admission-test",
+      "portalNotes": "Harvey Medical Course, fully English LM-41 in Pavia. MUR 2026/27 seats: 103 EU/EU-equivalent + 40 non-EU abroad. Book IMAT on Universitaly; non-EU pre-enrolment deadline typically 31 Aug; foreign diploma evaluation via university platform.",
+      "source": "https://medicineandsurgeryharvey.cdl.unipv.it/en"
+    },
+    {
+      "universityId": "marche-polytechnic",
+      "universityName": "Università Politecnica delle Marche",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "years": 6,
+      "entryTest": "IMAT",
+      "applyUrl": "https://www.univpm.it/Entra/Internazionale/Medicine_and_Surgery",
+      "portalNotes": "English LM-41 in Ancona. MUR 2026/27 seats: 30 EU/EU-equivalent + 50 non-EU abroad. National programmed access (IMAT); follow UNIVPM annual norms/admission test page.",
+      "source": "https://www.univpm.it/Entra/Internazionale/Medicine_and_Surgery"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "universityName": "Sapienza University of Rome",
+      "name": "Medicine and Surgery \"F\"",
+      "field": "Medicine",
+      "years": 6,
+      "entryTest": "IMAT",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/course/33454",
+      "portalNotes": "English LM-41 Medicine and Surgery 'F' (programme code 33454). MUR 2026/27 seats: 52 EU/EU-equivalent + 13 non-EU abroad. Combined Sapienza call with Dentistry; Infostud enrolment after ranking.",
+      "source": "https://corsidilaurea.uniroma1.it/en/course/33454"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "universityName": "Sapienza University of Rome",
+      "name": "Dentistry and Dental Prosthodontics",
+      "field": "Dentistry",
+      "years": 6,
+      "entryTest": "IMAT",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/course/33563",
+      "portalNotes": "English LM-46 (programme code 33563). Same IMAT paper and Medicine+Dentistry national ranking as LM-41. MUR 2026/27 seats: 19 EU/EU-equivalent + 6 non-EU abroad.",
+      "source": "https://corsidilaurea.uniroma1.it/sites/default/files/offertaformativa/documenti_ufficiali/187/33454_e.pdf"
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "universityName": "University of Rome Tor Vergata",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "years": 6,
+      "entryTest": "IMAT",
+      "applyUrl": "https://web.uniroma2.it/it/percorso/offerta_formativa/sezione/medicine_and_surgery",
+      "portalNotes": "English LM-41 (code N39). MUR 2026/27 seats: Rome 65 EU/EU-equivalent + 20 non-EU abroad; Tirana branch 0 EU + 320 non-EU abroad. Official bando/allegati published on Tor Vergata portal; IMS site http://medschool.uniroma2.it/",
+      "source": "https://web.uniroma2.it/it/percorso/offerta_formativa/sezione/medicine_and_surgery"
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "universityName": "University of Rome Tor Vergata",
+      "name": "Pharmacy",
+      "field": "Pharmacy",
+      "years": 5,
+      "entryTest": "university test",
+      "applyUrl": "https://farmacia.uniroma2.it/call-for-applications-a-y-2026-2027/",
+      "portalNotes": "English LM-13 five-year Pharmacy. Not IMAT: CISIA CEnT-S plus university oral interview per annual call. Apply via Pharmacy programme site / Delphi as specified in the call.",
+      "source": "https://farmacia.uniroma2.it/"
+    },
+    {
+      "universityId": "university-of-turin",
+      "universityName": "University of Turin",
+      "name": "Medicine and Surgery (MedInTO)",
+      "field": "Medicine",
+      "years": 6,
+      "entryTest": "IMAT",
+      "applyUrl": "https://en.unito.it/studying-unito/programs/degree-programs/medicine-and-surgery-0",
+      "portalNotes": "English LM-41 at Orbassano (MedInTO). MUR 2026/27 seats: 73 EU/EU-equivalent + 32 non-EU abroad. IMAT registration Universitaly; UniTO enrolment pages for Medicine in English; B2 English required.",
+      "source": "https://www.medinto.unito.it/do/home.pl/View?doc=Admission_requirements.html"
+    },
+    {
+      "universityId": "university-of-siena",
+      "universityName": "University of Siena",
+      "name": "Dentistry and Dental Prosthodontics",
+      "field": "Dentistry",
+      "years": 6,
+      "entryTest": "IMAT",
+      "applyUrl": "https://dentistry.unisi.it/en/applyenroll/admission-test",
+      "portalNotes": "English LM-46 (first English dentistry course in Italy). MUR 2026/27 seats: 30 EU/EU-equivalent + 5 non-EU abroad. Non-EU abroad must obtain nulla osta from Admission Office and complete Universitaly pre-enrolment to sit the test.",
+      "source": "https://dentistry.unisi.it/en"
+    }
+  ]
+}

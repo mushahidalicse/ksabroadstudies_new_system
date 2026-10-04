@@ -1,0 +1,17 @@
+{
+  "name": "KS Abroad Studies",
+  "short_name": "KS Abroad",
+  "description": "Study in Italy — English programmes, scholarships, visa guides, and student portal.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f1ea",
+  "theme_color": "#0f6a6f",
+  "icons": [
+    {
+      "src": "/ks-abroad-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
