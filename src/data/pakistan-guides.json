@@ -1,0 +1,268 @@
+{
+  "lastUpdated": "2026-09-08",
+  "universitalyPreEnrolmentDeadline": "2026-11-30",
+  "universitalyDeadlineLabel": "30 November 2026",
+  "universitalyNote": "Universitaly pre-enrolment for non-EU students must be completed by the deadline published by the Italian Ministry of Education (MUR). For this cycle the deadline is 30 November 2026. Always confirm on Universitaly and your university portal.",
+  "documentChain": {
+    "title": "Educational document verification (Pakistan)",
+    "intro": "Complete this chain before CIMEA / DOV and visa. Keep originals plus enough attested photocopies.",
+    "steps": [
+      {
+        "title": "Board attestation (Matric / Intermediate)",
+        "body": "Attest original Matric and Intermediate certificates plus mark sheets/transcripts from your relevant education board. Boards usually keep one copy for IBCC. Budget several working days."
+      },
+      {
+        "title": "IBCC",
+        "body": "After board verification, attest the same school documents at IBCC (often inside the board building). Take originals and sealed photocopy sets as required."
+      },
+      {
+        "title": "University verification (degree holders)",
+        "body": "For bachelor/master degrees, verify degree and transcript from your awarding university first (fees and timelines vary)."
+      },
+      {
+        "title": "HEC",
+        "body": "Book an HEC appointment for degree/transcript attestation. HEC typically expects Matric and Intermediate already verified. Attest at the Islamabad head office or your regional office."
+      },
+      {
+        "title": "MOFA / Apostille",
+        "body": "Take educational documents (and usually FRC + sponsor tax letters where needed) to the Ministry of Foreign Affairs or a CAMP / liaison office. MOFA now uses QR coding / apostille workflows; postal stamps may no longer be required—follow the challan process at the counter."
+      },
+      {
+        "title": "Italian translation (authorised only)",
+        "body": "Translate only through embassy-listed authorised translators/agencies. Unofficial translations are commonly rejected for DOV and visa."
+      },
+      {
+        "title": "CIMEA (when the university asks)",
+        "body": "Register on the CIMEA Diplome portal. After applying, courier IBCC/HEC-verified photocopies to CIMEA as instructed. Some universities accept DOV instead of (or in addition to) CIMEA—follow your offer letter."
+      },
+      {
+        "title": "Bank statement",
+        "body": "Maintain a strong sponsor/student bank statement for the period required by the consulate (commonly several months). Prefer a clean student/sponsor account history before the visa file."
+      }
+    ]
+  },
+  "apostille": {
+    "title": "MOFA Apostille / attestation counter flow",
+    "steps": [
+      "Fee challan — take originals and copies to the MOFA challan initiator; pay the generated challan.",
+      "Documents review — assistant consular reviews documents against your token and feeds data into the system.",
+      "Documents forward — scans are attached and sent to the competent authority.",
+      "Documents approval — authority verifies the issuing body against official databases.",
+      "Apostille print — system-generated apostille is printed and attached.",
+      "Apostille issue — collect documents from the delivery section with token and paid challan."
+    ]
+  },
+  "dovChecklist": {
+    "title": "DOV checklist — Sindh & Balochistan qualifications",
+    "intro": "Applicants who obtained qualifications in Sindh or Balochistan typically process Declaration of Value (DOV) via BLS Karachi / the Italian Consulate Karachi. Punjab, KPK, Islamabad and Gilgit usually use the Italian Embassy Islamabad track. Always use the latest consulate checklist.",
+    "items": [
+      "Pre-enrolment / admission letter with a specific request for DOV from the Italian institution",
+      "Secondary school certificate + transcript — originals apostilled by MOFA (Karachi/Quetta liaison) + 2 copy sets made after the apostille stamp",
+      "Higher secondary certificate + transcript — same apostille + copy rule",
+      "Bachelor/Master degree + transcript (if applicable) — apostilled originals + 2 post-apostille copy sets",
+      "Cambridge / foreign qualifications — IBCC or HEC equivalence, apostilled, plus post-apostille copies",
+      "Copy of domicile (Sindh/Balochistan) or CNIC showing residence in Sindh/Balochistan",
+      "Valid passport copy + recent photograph"
+    ],
+    "submissionNote": "After completing the file, submit at BLS Italy Visa Application Centre, Plot No. 11C, near Coffee Bean, Bukhari Commercial, DHA Phase-6, Karachi — or as updated on blsitalypakistan.com."
+  },
+  "postAdmission": {
+    "title": "Post-admission: DOV / CIMEA and visa",
+    "intro": "After you receive an admission letter, prepare DOV or CIMEA (as required), then the national study visa file. Scholarship and visa are separate processes — do not mix them.",
+    "islamabadTrack": [
+      "Prepare attested + translated educational documents and Forms A & C.",
+      "Book the Italian Embassy Islamabad appointment as soon as the portal opens (windows often open around April–July — confirm each year).",
+      "On appointment day you typically complete interview steps and DOV handling together — arrive with both DOV and visa documents ready.",
+      "Bring a fresh bank statement (not older than about 15 days) on interview day."
+    ],
+    "karachiTrack": [
+      "Email the Italian Consulate Karachi (segreteria.karachi@esteri.it) for the current DOV requirement list once you have admission.",
+      "Submit DOV documents at BLS Karachi; collect DOV when notified.",
+      "Prepare the full visa file in parallel; submit visa documents at BLS after DOV is ready.",
+      "Wait for the consulate call for visa interview / passport collection. The full post-admission cycle can take several months."
+    ],
+    "visaDocuments": [
+      "Visa application form + data form",
+      "CNIC copy",
+      "Admission / acceptance letter",
+      "DOV and/or CIMEA as required",
+      "Attested educational documents + copies + authorised Italian translations",
+      "Forms A & C",
+      "Polio certificate (as required)",
+      "IELTS / English certificate if required by the university or mission",
+      "Dummy / reservation ticket (often dated about one month after application)",
+      "Accommodation proof (e.g. booking.com reservation for at least one month)",
+      "Full Schengen travel insurance (not single-country only)",
+      "Sponsor affidavit of support + sponsor ID",
+      "Sponsor bank statement and account maintenance certificate",
+      "Family Registration Certificate (FRC) from NADRA",
+      "Original passport + photocopies",
+      "CV",
+      "White-background photos",
+      "Optional: course contents verified by your previous university"
+    ],
+    "cimeaLinks": {
+      "register": "https://mywallet.cimea-diplome.it/#/auth/register",
+      "bls": "https://blsitalypakistan.com/"
+    }
+  },
+  "scholarshipPakistan": {
+    "title": "Regional scholarship documents for Pakistani students (LazioDisco focus)",
+    "intro": "Every Italian region runs a right-to-study (DSU) scholarship with similar benefit levels but different portals and paper rules. Lazio (Rome and nearby cities) uses LazioDisco / DiSCo Lazio. Calls are typically announced around June–July. Scholarship ≠ visa: for visa you must still prove sufficient funds.",
+    "steps": [
+      {
+        "title": "Apply online when the bando opens",
+        "body": "Complete the regional portal application as soon as the call is published."
+      },
+      {
+        "title": "Print, sign and courier the receipt",
+        "body": "Print the final receipt, sign it, and courier it to the scholarship office in Italy with a passport copy. One applicant per envelope. Pakistan Post is fine if timelines allow."
+      },
+      {
+        "title": "Insert the PIN",
+        "body": "When the office receives your packet they SMS a PIN to your Pakistani number. Log in and enter the PIN — without this step the application stays incomplete."
+      },
+      {
+        "title": "Check the ranking / winner list",
+        "body": "Winner lists are usually published around August–September. “Winner” means you are eligible; you still must submit economic documents in Italy."
+      }
+    ],
+    "documentsBeforeTravel": [
+      "Property certificate from tehsildar / DC / mukhtiarkar (or provincial equivalent)",
+      "Income certificate on FBR letterhead (tax-free zone students: prepare income certificate and attest via tehsildar + foreign office)",
+      "Family Registration Certificate (FRC) from NADRA"
+    ],
+    "italyLegalisation": [
+      "Get the three documents MOFA-attested in Pakistan before travel (QR/apostille rules apply).",
+      "Do not submit LazioDisco economic documents at the Italian Embassy in Pakistan.",
+      "In Italy, take the three documents to the Pakistan Embassy in Rome for an official summary/translation certificate.",
+      "Legalise that certificate at the Prefettura with a €16 marca da bollo sticker.",
+      "Submit the legalised package at the LazioDisco / DiSCo office."
+    ],
+    "moneyNotes": [
+      "First scholarship instalment often arrives after 4–5 months — keep roughly €2,000–2,200 for early living costs, permesso fees, transport and food.",
+      "Benefits are commonly paid in two instalments; amounts and housing deductions depend on whether you accept DSU housing or provide a private rental contract.",
+      "For year two you usually need enough CFU (often ~30) plus updated economic documents.",
+      "Always re-check the current regional bando PDF — figures change by year."
+    ]
+  },
+  "islamabadVisaChecklist": {
+    "title": "Study visa checklist — Italian Embassy Islamabad",
+    "intro": "Typical documents for study visa applications via the Italian Embassy Islamabad track. The embassy may update the list — confirm before filing.",
+    "items": [
+      "Visa application form in English or Italian (block capitals), signed and dated",
+      "Two recent colour passport photos (white background); one glued on the form",
+      "Passport valid at least 18 months from application date, machine-readable, 2 blank pages + previous passports",
+      "Acceptance / enrolment letter stating course duration and start date",
+      "Form A (pre-enrolment) with photo if pre-enrolment is required",
+      "If an entry test is required in Italy: short Schengen C-type may apply instead of long-stay D-type — follow the acceptance letter",
+      "Degree + transcript and related certificates attested by HEC/IBCC and MOFA (QR/apostille) + copies",
+      "Written confirmation whether Dichiarazione di Valore (DOV) is required; if yes, DOV request form + DOV checklist docs",
+      "Tuition fee payment receipts if required",
+      "Economic file: sponsor affidavit, bank statement + bank letter, relationship proof, 2 years tax returns, income proof",
+      "IELTS or other English certificate if required + copy",
+      "Family Registration Certificate (NADRA) + copy",
+      "Board and lodging proof in Italy",
+      "Flight booking (round-trip for ≤90 days; one-way for longer stay)",
+      "Travel medical insurance (min. €30,000) — 1 year for D-type or 15 days for C-type"
+    ]
+  },
+  "karachiVisaInfo": {
+    "title": "Pre-enrolment, CIMEA & study visa — Karachi consulate notes",
+    "intro": "Guidance aligned with Consulate of Italy Karachi information for university pre-enrolment and study visa (confirm each academic year).",
+    "steps": [
+      "Register on Universitaly and keep the registration receipt.",
+      "Obtain a CIMEA comparability certificate when required (many universities accept CIMEA instead of DOV).",
+      "Book BLS Italy Karachi for residents of Sindh and Balochistan only.",
+      "Submit the study visa file ideally at least 90 days before classes start, and within the MUR / Universitaly window for your cycle (for 2026 track: by 30 November 2026 unless your mission publishes a different cut-off)."
+    ],
+    "visaDocuments": [
+      "Signed application form + two white-background photos",
+      "CNIC copy (Sindh / Balochistan residents)",
+      "Motivational letter for study visa",
+      "Individual medical insurance (€30,000+, 1 year for D-type) — no family/group policies",
+      "Confirmed flight booking",
+      "Accommodation for at least 45 days (campus, rental, hotel, or dichiarazione di ospitalità)",
+      "Universitaly pre-enrolment letter",
+      "CIMEA comparability / equivalency certificate when required",
+      "Educational originals apostilled by MOFA Karachi/Quetta + photocopy set",
+      "Tuition / registration payment receipts if required",
+      "Subsistence proof in PKR (6-month bank statement + AMC of personal/parents’ PK account; foreign sponsorship alone is often not accepted)",
+      "Sponsor affidavit, salary evidence, 2 years tax returns, FRC relationship proof",
+      "Repatriation means / return ticket proof",
+      "Valid passport (validity rules as published) + copies of prior visas"
+    ],
+    "scamWarning": "The Consulate has no agreement with travel agencies or consultants who sell “guaranteed” pre-enrolment, admission, or visas. Report scams to consolare.karachi@esteri.it and visti.karachi@esteri.it."
+  },
+  "motivationLetter": {
+    "title": "How to write a strong motivation letter",
+    "intro": "Use one clear story: why this programme, why this university/consortium, why you, and what you will do next. Keep it honest, specific, and easy to skim.",
+    "structure": [
+      { "title": "Opening (3–4 lines)", "body": "State the exact programme name and intake. One sentence on your academic background. One sentence on the problem or goal that drives you." },
+      { "title": "Academic fit", "body": "Link 2–3 courses, labs, or projects from your degree to modules in the target programme. Name professors, labs, or mobility tracks only if you truly researched them." },
+      { "title": "Experience & evidence", "body": "Add internships, research, competitions, teaching, or community work with outcomes (what you built, measured, or learned) — not a second CV dump." },
+      { "title": "Why Italy / this consortium", "body": "Explain mobility, language, industry links, or research strengths that match your plan. Avoid generic “Europe is advanced” lines." },
+      { "title": "Career plan", "body": "Show a realistic 2–5 year path (further research, industry role, Pakistan/Italy link). Connect the degree to that path." },
+      { "title": "Close", "body": "Reaffirm readiness for the workload and mobility. Thank the committee. Sign with full name and contact." }
+    ],
+    "tips": [
+      "Length: usually 1 page (max 1.5) unless the call asks for more.",
+      "Write a fresh letter per university / Erasmus programme — copy-paste is obvious.",
+      "Prefer concrete nouns (“thesis on wastewater membranes”) over adjectives (“passionate hardworking student”).",
+      "Match keywords from the programme page without stuffing.",
+      "Ask a mentor to cut 20% — shorter letters rank cleaner.",
+      "For visa motivational letters, add course start date, Universitaly/pre-enrolment status, and funding plan in plain language.",
+      "Never invent rankings, scholarships, or supervisor invitations.",
+      "Proofread names of universities and programmes carefully."
+    ],
+    "mistakes": [
+      "Repeating the entire CV in paragraph form",
+      "Using the same letter for Medicine and Engineering programmes",
+      "Blaming your previous university or country",
+      "Focusing only on migration or salary goals",
+      "Submitting without programme-specific research"
+    ]
+  },
+  "downloads": [
+    {
+      "label": "DOV checklist (Sindh & Balochistan)",
+      "href": "/guides/dov-checklist-sindh-balochistan.pdf"
+    },
+    {
+      "label": "Apostille / MOFA procedure",
+      "href": "/guides/apostille-procedure.pdf"
+    },
+    {
+      "label": "Document verification steps",
+      "href": "/guides/study-in-italy-document-steps.pdf"
+    },
+    {
+      "label": "Scholarship guide (Lazio focus)",
+      "href": "/guides/scholarship-guide-lazio.pdf"
+    },
+    {
+      "label": "Post-admission guide (complete)",
+      "href": "/guides/post-admission-guide-complete.pdf"
+    },
+    {
+      "label": "Pre-enrolment, DOV & study visa info",
+      "href": "/guides/pre-enrollment-dov-study-visa-info.pdf"
+    },
+    {
+      "label": "Study visa checklist — Islamabad",
+      "href": "/guides/study-visa-checklist-islamabad.pdf"
+    },
+    {
+      "label": "Authorised translation companies",
+      "href": "/guides/translation-companies-islamabad.pdf"
+    },
+    {
+      "label": "How to write your motivation letter (PDF)",
+      "href": "/guides/how-to-write-motivation-letter.pdf"
+    },
+    {
+      "label": "Consultancy agreement (PDF)",
+      "href": "/guides/consultancy-agreement.pdf"
+    }
+  ]
+}

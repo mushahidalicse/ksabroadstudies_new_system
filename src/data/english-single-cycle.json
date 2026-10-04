@@ -1,0 +1,243 @@
+{
+  "lastUpdated": "2026-09-08",
+  "note": "English-taught single-cycle (laurea magistrale a ciclo unico) programmes at Italian PUBLIC universities for A.Y. 2026/2027. IMAT Medicine/Dentistry/Veterinary seats verified against MUR Decreto Ministeriale n. 1005 del 6 agosto 2026 (Tabella B). English Pharmacy (not IMAT) included where confirmed (Bologna–Rimini; Tor Vergata). Private institutions (Humanitas, San Raffaele, UniCamillus, Campus Bio-Medico, Cattolica, Neuromed) are excluded. Palermo and Sassari have no English Medicine seats in Tabella B for 2026/27. Seats and dates change yearly—confirm on MUR/Universitaly and each university call.",
+  "imat": {
+    "fullName": "International Medical Admissions Test",
+    "whatItIs": "National paper-based admission test (English) for English-taught single-cycle degrees in Medicine and Surgery (LM-41), Dentistry and Dental Prosthodontics (LM-46), and Veterinary Medicine (LM-42) at Italian universities. For A.Y. 2026/2027 the test is regulated by MUR DM n. 1005 of 6 August 2026; questions are prepared by CINECA (not Cambridge Assessment).",
+    "whoNeedsIt": "Anyone applying to English-taught public (and participating private) Medicine, Dentistry, or Veterinary single-cycle programmes covered by the national call. Italian-taught Medicine uses a different access model (semestre filtro) and does not use IMAT. English Pharmacy (e.g. Bologna–Rimini) does not use IMAT.",
+    "registrationPortal": "https://www.universitaly.it/",
+    "universitaly": "https://www.universitaly.it/",
+    "universitalyNote": "IMAT registration is on Universitaly only. Non-EU residents abroad must ALSO complete Universitaly international pre-enrolment (https://www.universitaly.it/studenti-stranieri) for the university whose non-EU seats they want; without validated pre-enrolment an IMAT score cannot convert into a non-EU seat. Confirm annual deadlines on Universitaly and each university call.",
+    "typicalTimeline": [
+      "Registration on Universitaly: 26 August 2026 – 9 September 2026 at 15:00 (GMT+2) — confirm annually",
+      "Test day: 29 September 2026 (Italian venues start 13:30 local; foreign venues adjust for time zone) — confirm annually",
+      "Anonymous scores by barcode: 8 October 2026 — confirm annually",
+      "Personal paper/score/anagraphic sheet on Universitaly: 19 October 2026 — confirm annually",
+      "Named national rankings and first assignments (EU/EU-equivalent): 26 October 2026 — confirm annually",
+      "First subsequent scrolling round: 3 November 2026 — confirm annually"
+    ],
+    "sections": [
+      "Reading skills and knowledge acquired in studies — 4 questions",
+      "Logical reasoning and problems — 5 questions",
+      "Biology — 23 questions",
+      "Chemistry — 15 questions",
+      "Physics and mathematics — 13 questions"
+    ],
+    "notes": [
+      "60 multiple-choice questions, 5 options each, 100 minutes; max score 90 (+1.5 correct, −0.4 wrong, 0 omitted).",
+      "At registration choose irrevocably Medicine+Dentistry track OR Veterinary track (separate national rankings for EU/EU-equivalent).",
+      "Non-EU residents abroad compete on each university’s local ranking for reserved non-EU seats; they must also complete Universitaly pre-enrolment for the chosen university (see https://www.universitaly.it/studenti-stranieri).",
+      "EU/EU-equivalent minimum eligibility score: 20/90. Non-EU abroad: score > 0 (candidates with all answers blank are not ranked).",
+      "English language certificates are not required to sit IMAT; they may be used only for tie-breaking (Annex 3 of the decree).",
+      "Some 2026/27 courses are marked *in fase di accreditamento* in Tabella B (Florence Medicine; Padua MedTech; Naples Federico II Veterinary)—final seat delivery depends on accreditation.",
+      "IMAT is distinct from the Italian-taught ‘semestre filtro’ reform."
+    ],
+    "officialSources": [
+      "https://www.mur.gov.it/it/atti-e-normativa/decreto-ministeriale-n-1005-del-06-08-2026",
+      "https://www.universitaly.it/",
+      "https://www.universitaly.it/studenti-stranieri"
+    ]
+  },
+  "programs": [
+    {
+      "universityId": "university-of-bari",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "applyUrl": "https://www.uniba.it/en/courses/medicine-and-surgery",
+      "admissionTest": "IMAT",
+      "notes": "Public LM-41 English. Tabella B 2026/27: 89 EU/EU-eq + 11 non-EU abroad (Bari)."
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "applyUrl": "https://corsi.unibo.it/singlecycle/MedicineAndSurgery",
+      "admissionTest": "IMAT",
+      "notes": "Public LM-41 English (Bologna). Tabella B 2026/27: 140 EU/EU-eq + 20 non-EU abroad."
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Veterinary Medicine",
+      "field": "Veterinary",
+      "applyUrl": "https://corsi.unibo.it/singlecycle/VeterinaryMedicine",
+      "admissionTest": "IMAT",
+      "notes": "Public LM-42 English at Ozzano dell’Emilia. Tabella B 2026/27: 45 EU/EU-eq + 5 non-EU abroad. Same IMAT paper; separate Veterinary ranking/track."
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Pharmacy",
+      "field": "Pharmacy",
+      "applyUrl": "https://corsi.unibo.it/singlecycle/Pharmacy-Rimini/how-to-enrol",
+      "admissionTest": "CEnT-S",
+      "notes": "Public LM-13 English single-cycle at Rimini campus. Not IMAT; restricted access via university selection (CEnT-S). Confirm annual call on the programme site."
+    },
+    {
+      "universityId": "university-of-cagliari",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "applyUrl": "https://www.unica.it/unica/en/ateneo_s07_ss01.page",
+      "admissionTest": "IMAT",
+      "notes": "Public LM-41 English. Tabella B 2026/27: 80 EU/EU-eq + 18 non-EU abroad (Cagliari)."
+    },
+    {
+      "universityId": "university-of-campania-luigi-vanvitelli",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "applyUrl": "https://www.medicina.unicampania.it/",
+      "admissionTest": "IMAT",
+      "notes": "Public LM-41 English (Napoli). Tabella B 2026/27: 70 EU/EU-eq + 50 non-EU abroad."
+    },
+    {
+      "universityId": "university-of-catania",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "applyUrl": "https://www.unict.it/en",
+      "admissionTest": "IMAT",
+      "notes": "Public LM-41 English. Tabella B 2026/27: 40 EU/EU-eq + 40 non-EU abroad (Catania)."
+    },
+    {
+      "universityId": "university-of-florence",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "applyUrl": "https://www.medicina.unifi.it/",
+      "admissionTest": "IMAT",
+      "notes": "Public LM-41 English listed in Tabella B 2026/27 as *in fase di accreditamento*: 50 EU/EU-eq + 0 non-EU abroad (Firenze). Confirm accreditation and call before applying."
+    },
+    {
+      "universityId": "university-of-messina",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "applyUrl": "https://international.unime.it/study-us/english-taught-programmes/imat-test-info-page",
+      "admissionTest": "IMAT",
+      "notes": "Public LM-41 English (International Medical School). Tabella B 2026/27: 55 EU/EU-eq + 61 non-EU abroad (Messina)."
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "applyUrl": "https://ims.cdl.unimi.it/en",
+      "admissionTest": "IMAT",
+      "notes": "Public LM-41 English — International Medical School (IMS), Statale. Tabella B 2026/27: 60 EU/EU-eq + 15 non-EU abroad (Milano)."
+    },
+    {
+      "universityId": "university-of-milano-bicocca",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "applyUrl": "https://en.unimib.it/single-cycle/medicine-and-surgery",
+      "admissionTest": "IMAT",
+      "notes": "Public LM-41 English — School of Medicine and Surgery (SMS), taught in Bergamo. Tabella B 2026/27: 40 EU/EU-eq + 20 non-EU abroad."
+    },
+    {
+      "universityId": "university-of-naples-federico-ii",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "applyUrl": "https://www.international.unina.it/",
+      "admissionTest": "IMAT",
+      "notes": "Public LM-41 English. Tabella B 2026/27: 35 EU/EU-eq + 45 non-EU abroad (Napoli). University call cites DM 1005/2026."
+    },
+    {
+      "universityId": "university-of-naples-federico-ii",
+      "name": "Veterinary Medicine",
+      "field": "Veterinary",
+      "applyUrl": "https://www.international.unina.it/",
+      "admissionTest": "IMAT",
+      "notes": "Public LM-42 English listed in Tabella B 2026/27 as *in fase di accreditamento*: 18 EU/EU-eq + 2 non-EU abroad (Napoli). Confirm accreditation."
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "applyUrl": "https://www.unipd.it/en/medicine-and-surgery-venice",
+      "admissionTest": "IMAT",
+      "notes": "Public LM-41 English; teaching location Venice (from cohort 2025/26). Tabella B 2026/27: 75 EU/EU-eq + 25 non-EU abroad (Venezia)."
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Medicine and Surgery - MedTech",
+      "field": "Medicine",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/medicine-and-surgery-medtech",
+      "admissionTest": "IMAT",
+      "notes": "Public LM-41 English MedTech track (Padova). Tabella B 2026/27 *in fase di accreditamento*: 70 EU/EU-eq + 15 non-EU abroad."
+    },
+    {
+      "universityId": "university-of-parma",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "applyUrl": "https://mc.unipr.it/en",
+      "admissionTest": "IMAT",
+      "notes": "Public LM-41 English; seat of delivery Piacenza. Tabella B 2026/27: 80 EU/EU-eq + 50 non-EU abroad."
+    },
+    {
+      "universityId": "university-of-pavia",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "applyUrl": "https://medicineandsurgeryharvey.cdl.unipv.it/en",
+      "admissionTest": "IMAT",
+      "notes": "Public LM-41 English — Harvey Medicine course (Pavia). Tabella B 2026/27: 103 EU/EU-eq + 40 non-EU abroad."
+    },
+    {
+      "universityId": "marche-polytechnic",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "applyUrl": "https://www.univpm.it/Entra/International/Medicine_and_Surgery",
+      "admissionTest": "IMAT",
+      "notes": "Public LM-41 English (Ancona — Università Politecnica delle Marche). Tabella B 2026/27: 30 EU/EU-eq + 50 non-EU abroad."
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33454/home",
+      "admissionTest": "IMAT",
+      "notes": "Public LM-41 English — Medicine and Surgery ‘F’. Tabella B 2026/27: 52 EU/EU-eq + 13 non-EU abroad (Roma)."
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Dentistry and Dental Prosthodontics",
+      "field": "Dentistry",
+      "applyUrl": "https://www.corsidilaurea.uniroma1.it/en/course/33563/organization",
+      "admissionTest": "IMAT",
+      "notes": "Public LM-46 English. Tabella B 2026/27: 19 EU/EU-eq + 6 non-EU abroad. Shares Medicine/Dentistry IMAT track and ranking logic with Medicine preferences."
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "applyUrl": "https://medschool.uniroma2.it/",
+      "admissionTest": "IMAT",
+      "notes": "Public LM-41 English (Roma). Tabella B 2026/27: 65 EU/EU-eq + 20 non-EU abroad."
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "name": "Medicine and Surgery (Tirana campus)",
+      "field": "Medicine",
+      "applyUrl": "https://medschool.uniroma2.it/",
+      "admissionTest": "IMAT",
+      "notes": "Tor Vergata English Medicine seat in Tirana (Albania). Tabella B 2026/27: 0 EU/EU-eq + 320 non-EU abroad. Confirm campus logistics and enrolment rules on the university call."
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "name": "Pharmacy",
+      "field": "Pharmacy",
+      "applyUrl": "https://farmacia.uniroma2.it/",
+      "admissionTest": "CEnT-S",
+      "notes": "Public LM-13 English 5-year single-cycle. Not IMAT; admission via CEnT (CISIA) / university call. 2026/27 call: 60 EU/EU-eq + 20 non-EU abroad seats (confirm on farmacia.uniroma2.it)."
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Medicine and Surgery",
+      "field": "Medicine",
+      "applyUrl": "https://en.unito.it/studying-unito/programs/degree-programs/medicine-and-surgery-0",
+      "admissionTest": "IMAT",
+      "notes": "Public LM-41 English — MedInTO / Orbassano campus. Tabella B 2026/27: 73 EU/EU-eq + 32 non-EU abroad. Enrolment info: https://en.unito.it/studying-unito/enrolment-procedure/5-or-6-year-postgraduate-degrees-restricted-number-places-0"
+    },
+    {
+      "universityId": "university-of-siena",
+      "name": "Dentistry and Dental Prosthodontics",
+      "field": "Dentistry",
+      "applyUrl": "https://dentistry.unisi.it/en/course",
+      "admissionTest": "IMAT",
+      "notes": "Public LM-46 English. Tabella B 2026/27: 30 EU/EU-eq + 5 non-EU abroad (Siena). Apply portal: https://apply.unisi.it/courses/course/120-scm-dentistry-and-dental-prosthodontics"
+    }
+  ]
+}

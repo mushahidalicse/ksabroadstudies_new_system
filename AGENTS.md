@@ -10,4 +10,6 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 
 # KS Abroad Studies
 
+New device: read `CURSOR-RESTORE.md` before changing anything. Follow it to reset local generated files and run this site the same way it runs on the original machine.
+
 Project index (routes, files, data counts, edit map): `docs/INDEX.md`

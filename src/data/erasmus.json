@@ -1,0 +1,80 @@
+{
+  "lastUpdated": "2026-09-08",
+  "intake": "2027 (applications autumn 2026)",
+  "officialCatalogue": "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters",
+  "officialStudentPage": "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters",
+  "ecNews": "https://erasmus-plus.ec.europa.eu/whats-new/news/87-projects-selected-under-erasmus-mundus-in-latest-call-for-proposals",
+  "selectedProjects2026": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/erasmus-mundus-joint-masters-projects-selected-under-2026-erasmus-call-for-proposals",
+  "headline": "Erasmus Mundus Joint Masters — 2027 intake",
+  "intro": "Erasmus Mundus Joint Masters (EMJM) are EU-funded master’s programmes run by university consortia across Europe (and partners worldwide). Top-ranked students can receive a full scholarship. There is no single application portal — you apply on each programme’s own website.",
+  "cycle2027": {
+    "title": "What is new for 2026–2027",
+    "points": [
+      "On 16 July 2026 the European Commission selected 37 new Erasmus Mundus Joint Masters (plus 50 Design Measures) under the latest Erasmus+ call.",
+      "These new Masters will be added to the official Erasmus Mundus catalogue and open for student applications in autumn 2026.",
+      "First study editions of the newly selected programmes generally start in September 2027.",
+      "Existing catalogue programmes also open on their own calendars — typically between October and January for the following academic year."
+    ],
+    "exampleNewFields": [
+      "Water Vulnerability Engineering in Spatial Sciences",
+      "Medical Image Analysis",
+      "Semiconductor Chips Integration and Innovation",
+      "Law, Data and Artificial Intelligence",
+      "Advanced Microscopy with Artificial Intelligence",
+      "European Master in Animation",
+      "Infectious Diseases and One Health",
+      "Large Scale Accelerators and Lasers"
+    ]
+  },
+  "timeline": [
+    { "when": "Now – Sep 2026", "what": "Shortlist 6–10 programmes from the official catalogue; prepare transcripts, CV, motivation letter, and referees." },
+    { "when": "Autumn 2026", "what": "New 2027 EMJM programmes begin publishing portals; many existing programmes reopen." },
+    { "when": "Oct 2026 – Jan 2027", "what": "Typical scholarship application window (each consortium sets its own deadline)." },
+    { "when": "Early–mid 2027", "what": "Evaluations, interviews, and scholarship ranking results." },
+    { "when": "Sep 2027", "what": "Many new programme editions start." }
+  ],
+  "scholarship": {
+    "title": "What the scholarship usually covers",
+    "items": [
+      "Participation / tuition costs for scholarship holders (programme rules apply)",
+      "Monthly living contribution (commonly cited up to about €1,400 / month under current EMJM rules — confirm each call)",
+      "Travel and installation support as defined by the programme",
+      "Study mobility across partner universities (joint or multiple degree)"
+    ],
+    "note": "Exact amounts and duration (12 / 18 / 24 months) are programme-specific. Always read the current call on the consortium website."
+  },
+  "howToApply": [
+    "Open the official Erasmus Mundus catalogue and filter by field / country.",
+    "Open each programme site — note deadline, documents, English rules, and whether scholarship and self-funded tracks differ.",
+    "Prepare one strong academic file: degree + transcripts, passport, CV, motivation letter tailored per programme, 2 recommendation letters.",
+    "Submit separately on each portal before that programme’s deadline — missing one deadline does not affect other applications.",
+    "If shortlisted, prepare for online interviews; keep bank / passport details ready for scholarship admin later."
+  ],
+  "englishWithoutIelts": {
+    "title": "English requirements — IELTS is not universal",
+    "intro": "There is no single Erasmus Mundus English rule. Each consortium decides. Many programmes accept an official Medium of Instruction (MOI) letter from your university stating your bachelor’s was taught and examined in English. Others still require IELTS / TOEFL / Cambridge.",
+    "tips": [
+      "Never assume “without IELTS” — check the 2026/27 admission PDF for that exact programme.",
+      "If MOI is accepted, request a signed letter on university letterhead early (often with stamp and registrar signature).",
+      "Some consortia only waive tests for degrees from listed English-speaking countries; Pakistani degrees usually need either a test or an explicit MOI rule.",
+      "Self-tests inside an application form (where offered) are not the same as a waiver — read the small print.",
+      "Archive 2023 “without IELTS” lists are outdated — use them only as historical examples of programme types, not as live deadlines."
+    ]
+  },
+  "documents": [
+    "Bachelor degree (or proof you will graduate before enrolment)",
+    "Full transcripts (and certified translations if required)",
+    "Passport bio page",
+    "CV (Europass or clean academic CV)",
+    "Motivation / cover letter (programme-specific)",
+    "Two academic recommendation letters",
+    "English proof (IELTS/TOEFL/Cambridge or MOI if allowed)",
+    "Proof of residence / nationality where asked",
+    "Portfolio or GRE only if that programme requires it"
+  ],
+  "archivesNote": "Older KS Abroad PDFs from the 2023–2024 cycle are kept as archives only. Deadlines and programme lists from 2023 are not valid for the 2027 intake.",
+  "downloads": [
+    { "label": "Archive — Erasmus open scholarship list (2023 cycle)", "href": "/guides/erasmus-open-scholarship-archive-2023.pdf" },
+    { "label": "Archive — programmes noted without IELTS (2023 cycle)", "href": "/guides/erasmus-without-ielts-archive-2023.pdf" }
+  ]
+}

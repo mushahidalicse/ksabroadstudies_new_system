@@ -1,0 +1,714 @@
+{
+  "lastUpdated": "2026-09-08",
+  "note": "English-taught 3-year bachelor (Laurea Triennale) programmes compiled from official university pages. Medicine/Dentistry/Veterinary/Pharmacy single-cycle programmes are excluded from this list.",
+  "bachelors": [
+    {
+      "universityId": "roma-tre",
+      "name": "International Studies",
+      "field": "Political Science",
+      "applyUrl": "https://www.uniroma3.it/en/"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Applied Computer Science and Artificial Intelligence",
+      "field": "Computer Science",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Bioinformatics",
+      "field": "Life Sciences",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Business Administration and Management (English curriculum)",
+      "field": "Business",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2024/32930/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Business Sciences",
+      "field": "Business",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Classics",
+      "field": "Humanities",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Economics and Finance",
+      "field": "Economics",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Global Humanities",
+      "field": "Humanities",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Molecular Biology, Medicinal Chemistry and Computer Science for Pharmaceutical Applications",
+      "field": "Life Sciences",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Sustainable Building Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Sustainable Building Engineering (Rieti)",
+      "field": "Engineering",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en"
+    },
+    {
+      "universityId": "university-of-cassino",
+      "name": "Economics and Business",
+      "field": "Business",
+      "applyUrl": "https://www.unicas.it/"
+    },
+    {
+      "universityId": "university-of-cassino",
+      "name": "Economics with Data Science",
+      "field": "Economics",
+      "applyUrl": "https://eds.unicas.it/home"
+    },
+    {
+      "universityId": "university-of-cassino",
+      "name": "Industrial Engineering Technology",
+      "field": "Engineering",
+      "applyUrl": "https://www.iet.unicas.it/"
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "name": "Business Administration and Economics",
+      "field": "Business",
+      "applyUrl": "https://economia.uniroma2.it/ba/business-administration-economics/"
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "name": "Engineering Sciences",
+      "field": "Engineering",
+      "applyUrl": "https://web.uniroma2.it/en/contenuto/engineering_sciences-38793"
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "name": "Global Governance",
+      "field": "Political Science",
+      "applyUrl": "https://web.uniroma2.it/en/contenuto/global_governance-35476"
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "name": "Innovation Tourism for Made in Italy",
+      "field": "Tourism",
+      "applyUrl": "https://web.uniroma2.it/en/contenuto/innovation-tourism-for-made-in-italy"
+    },
+    {
+      "universityId": "university-of-bari",
+      "name": "Earth System and Global Changes",
+      "field": "Earth Sciences",
+      "applyUrl": "https://apply.uniba.it/uk_UA/courses/course/43-bachelors-degree-earth-system-and-global-changes-l-34"
+    },
+    {
+      "universityId": "university-of-messina",
+      "name": "Business Management",
+      "field": "Business",
+      "applyUrl": "https://international.unime.it/study-us/english-taught-programmes"
+    },
+    {
+      "universityId": "university-of-messina",
+      "name": "Civil Engineering (English track)",
+      "field": "Engineering",
+      "applyUrl": "https://ingegneria-civile.cdl.unime.it/en/course"
+    },
+    {
+      "universityId": "university-of-messina",
+      "name": "Data Analysis",
+      "field": "Computer Science",
+      "applyUrl": "https://international.unime.it/study-us/english-taught-programmes"
+    },
+    {
+      "universityId": "university-of-messina",
+      "name": "Heritage Innovation Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://international.unime.it/study-us/english-taught-programmes"
+    },
+    {
+      "universityId": "university-of-messina",
+      "name": "Marine Biology and Blue Biotechnologies",
+      "field": "Biology",
+      "applyUrl": "https://international.unime.it/study-us/english-taught-programmes"
+    },
+    {
+      "universityId": "university-of-messina",
+      "name": "Political Sciences and International Relations",
+      "field": "Political Science",
+      "applyUrl": "https://international.unime.it/study-us/english-taught-programmes"
+    },
+    {
+      "universityId": "university-of-messina",
+      "name": "Transnational and European Legal Studies",
+      "field": "Law",
+      "applyUrl": "https://international.unime.it/study-us/english-taught-programmes"
+    },
+    {
+      "universityId": "university-of-naples-federico-ii",
+      "name": "Biology for One Health",
+      "field": "Biology",
+      "applyUrl": "https://www.dipartimentodibiologia.unina.it/biology-for-one-health/"
+    },
+    {
+      "universityId": "university-of-naples-federico-ii",
+      "name": "Biology for One-Health",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unina.it/en_GB/"
+    },
+    {
+      "universityId": "university-of-naples-federico-ii",
+      "name": "Civil and Environmental Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unina.it/en_GB/"
+    },
+    {
+      "universityId": "university-of-naples-federico-ii",
+      "name": "Electrical Engineering and Information Technology",
+      "field": "Engineering",
+      "applyUrl": "https://www.unina.it/en_GB/"
+    },
+    {
+      "universityId": "university-of-naples-federico-ii",
+      "name": "Electrical Engineering and Information Technology (EEIT)",
+      "field": "Engineering",
+      "applyUrl": "https://eeit.dieti.unina.it/index.php/admission"
+    },
+    {
+      "universityId": "university-of-naples-parthenope",
+      "name": "Business Administration",
+      "field": "Business",
+      "applyUrl": "https://www.uniparthenope.it/"
+    },
+    {
+      "universityId": "university-of-naples-parthenope",
+      "name": "Business Administration (Management in English curriculum)",
+      "field": "Business",
+      "applyUrl": "https://international.uniparthenope.it/all-courses/business-administration"
+    },
+    {
+      "universityId": "university-of-naples-parthenope",
+      "name": "International Business Administration and Management",
+      "field": "Business",
+      "applyUrl": "https://international.uniparthenope.it/all-courses/international-business-administrator-and-management/"
+    },
+    {
+      "universityId": "university-of-teramo",
+      "name": "Biotechnology",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unite.it/UniTE/"
+    },
+    {
+      "universityId": "university-of-camerino",
+      "name": "Biosciences and Biotechnology",
+      "field": "Life Sciences",
+      "applyUrl": "https://international.unicam.it/courses/undergraduate"
+    },
+    {
+      "universityId": "university-of-camerino",
+      "name": "Computer Science",
+      "field": "Computer Science",
+      "applyUrl": "https://international.unicam.it/courses/undergraduate"
+    },
+    {
+      "universityId": "university-of-macerata",
+      "name": "International, European and Comparative Legal Studies (IECoLS)",
+      "field": "Law",
+      "applyUrl": "https://apply.unimc.it/en_GB/courses/course/18-iecols-international-european-and-comparative-legal-studies"
+    },
+    {
+      "universityId": "university-of-perugia",
+      "name": "Engineering Management",
+      "field": "Engineering",
+      "applyUrl": "https://www.unipg.it/en/"
+    },
+    {
+      "universityId": "university-of-siena",
+      "name": "Biotech Engineering for Health",
+      "field": "Biotechnology",
+      "applyUrl": "https://apply.unisi.it/"
+    },
+    {
+      "universityId": "university-of-siena",
+      "name": "Economics",
+      "field": "Economics",
+      "applyUrl": "https://en.unisi.it/"
+    },
+    {
+      "universityId": "university-of-siena",
+      "name": "Economics and Management",
+      "field": "Economics",
+      "applyUrl": "https://apply.unisi.it/"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Ancient Civilisations for the Contemporary World",
+      "field": "Humanities",
+      "applyUrl": "https://www.unive.it/"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Ancient Civilizations for the Contemporary World (inter-university with University of Milan)",
+      "field": "Humanities",
+      "applyUrl": "https://apply.unive.it/"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Business Administration and Management",
+      "field": "Business",
+      "applyUrl": "https://www.unive.it/"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Computer Science (Data Science curriculum)",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unive.it/"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Computer Science – Data Science curriculum",
+      "field": "Computer Science",
+      "applyUrl": "https://apply.unive.it/"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Digital Management",
+      "field": "Business",
+      "applyUrl": "https://www.unive.it/"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Economics and Business",
+      "field": "Economics",
+      "applyUrl": "https://www.unive.it/"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Hospitality Innovation and e-Tourism",
+      "field": "Tourism",
+      "applyUrl": "https://www.unive.it/"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Italian and Mediterranean Studies",
+      "field": "Humanities",
+      "applyUrl": "https://www.unive.it/"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Philosophy, International and Economic Studies",
+      "field": "Humanities",
+      "applyUrl": "https://www.unive.it/"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Computer Science",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unibz.it/en/faculties/engineering/bachelor-computer-science"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Computer Science (trilingual IT/DE/EN)",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unibz.it/en/faculties/engineering/bachelor-computer-science"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Design and Art – Major in Design",
+      "field": "Design",
+      "applyUrl": "https://www.unibz.it/en/faculties/design-art/bachelor-design"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Design and Art – Major in Design (trilingual IT/DE/EN)",
+      "field": "Design",
+      "applyUrl": "https://www.unibz.it/en/"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Economics and Management",
+      "field": "Business",
+      "applyUrl": "https://www.unibz.it/en/faculties/economics-management/bachelor-economics-management"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Economics and Management (trilingual IT/DE/EN)",
+      "field": "Economics",
+      "applyUrl": "https://www.unibz.it/en/"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Economics, Politics and Ethics",
+      "field": "Economics",
+      "applyUrl": "https://www.unibz.it/en/faculties/economics-management/bachelor-economics-politics-ethics"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Electronic and Information Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unibz.it/en/faculties/engineering/bachelor-electronic-information-engineering"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Industrial and Mechanical Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unibz.it/en/faculties/engineering/bachelor-industrial-mechanical-engineering"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Informatics and Management of Digital Business",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unibz.it/en/faculties/engineering/bachelor-informatics-management-digital-business"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Tourism, Sport and Event Management",
+      "field": "Tourism",
+      "applyUrl": "https://www.unibz.it/en/faculties/economics-management/bachelor-tourism-sport-event-management"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Architectural Design",
+      "field": "Architecture",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/architectural-design"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Civil Engineering (English)",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/engineering"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Engineering Science",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/engineering-science"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Industrial Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/industrial-engineering"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Process Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/process-engineering"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Architecture",
+      "field": "Architecture",
+      "applyUrl": "https://www.polito.it/en/education/bachelor-s-degree-programmes"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Automotive Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polito.it/en/education/bachelor-s-degree-programmes"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Civil and Environmental Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polito.it/en/education/bachelor-s-degree-programmes"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Computer Engineering",
+      "field": "Computer Science",
+      "applyUrl": "https://www.polito.it/en/education/bachelor-s-degree-programmes"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Electronic and Communications Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polito.it/en/education/bachelor-s-degree-programmes"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Food Tech for Ecological Transition",
+      "field": "Engineering",
+      "applyUrl": "https://www.polito.it/en/education/bachelor-s-degree-programmes"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Mechanical Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polito.it/en/education/bachelor-s-degree-programmes/mechanical-engineering/programme-details"
+    },
+    {
+      "universityId": "university-of-bergamo",
+      "name": "Business Administration (English major / curriculum)",
+      "field": "Business",
+      "applyUrl": "https://lt-ea.unibg.it/it/il-corso/major-business-administration"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Biology of Human and Environmental Health",
+      "field": "Biology",
+      "applyUrl": "https://www.unibo.it/en/study/first-and-single-cycle-degree"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Building Construction Engineering (Ravenna)",
+      "field": "Engineering",
+      "applyUrl": "https://corsi.unibo.it/1cycle/Building/overview"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Business and Economics (CLABE)",
+      "field": "Business",
+      "applyUrl": "https://corsi.unibo.it/1cycle/CLaBE/how-to-enrol"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Business Economics – Financial and Business Management curriculum (Rimini)",
+      "field": "Business",
+      "applyUrl": "https://corsi.unibo.it/1cycle/FinancialBusinessManagement"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Economics and Finance",
+      "field": "Economics",
+      "applyUrl": "https://corsi.unibo.it/1cycle/EconomicsFinance/overview"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Economics of Tourism and Cities (Rimini)",
+      "field": "Economics",
+      "applyUrl": "https://www.unibo.it/en/study/first-and-single-cycle-degree"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Economics, Politics and Social Sciences",
+      "field": "Economics",
+      "applyUrl": "https://www.unibo.it/en/study/first-and-single-cycle-degree"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "European Studies",
+      "field": "Political Science",
+      "applyUrl": "https://www.unibo.it/en/study/first-and-single-cycle-degree"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Genomics",
+      "field": "Biotechnology",
+      "applyUrl": "https://corsi.unibo.it/1cycle/Genomics/prospects"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "International Studies (Forlì)",
+      "field": "Political Science",
+      "applyUrl": "https://www.unibo.it/en/study/first-and-single-cycle-degree"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Management and Economics (Forlì)",
+      "field": "Business",
+      "applyUrl": "https://scienzeaziendali.unibo.it/en/teaching/degree"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Statistical Sciences – Stats and Maths curriculum",
+      "field": "Statistics",
+      "applyUrl": "https://www.unibo.it/en/study/first-and-single-cycle-degree"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Ancient Civilizations for the Contemporary World (inter-university with Ca' Foscari)",
+      "field": "Humanities",
+      "applyUrl": "https://www.unimi.it/en/international/coming-abroad/enrol-programme/programmes-english"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Artificial Intelligence (inter-university; administrative HQ Pavia)",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unimi.it/en/education/bachelor/artificial-intelligence"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Economics: Behavior, Data and Policy",
+      "field": "Economics",
+      "applyUrl": "https://www.unimi.it/en/education/bachelor/economics-behavior-data-and-policy"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "International Politics, Law and Economics (IPLE)",
+      "field": "Political Science",
+      "applyUrl": "https://www.unimi.it/en/education/degree-programme-courses/international-politics-law-and-economics"
+    },
+    {
+      "universityId": "university-of-milano-bicocca",
+      "name": "Artificial Intelligence",
+      "field": "Computer Science",
+      "applyUrl": "https://en.unimib.it/education"
+    },
+    {
+      "universityId": "university-of-milano-bicocca",
+      "name": "Artificial Intelligence (inter-university; administrative HQ Pavia)",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unimi.it/en/education/bachelor/artificial-intelligence"
+    },
+    {
+      "universityId": "university-of-milano-bicocca",
+      "name": "Economics and Science for Environmental Sustainability",
+      "field": "Economics",
+      "applyUrl": "https://en.unimib.it/education"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Animal Care",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unipd.it/en/english-degrees"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Biology of Human and Environmental Health",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unipd.it/en/english-degrees"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Earth and Climate Dynamics",
+      "field": "Science",
+      "applyUrl": "https://www.unipd.it/en/english-degrees"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Economics, Governance and Decision-Making",
+      "field": "Economics",
+      "applyUrl": "https://www.unipd.it/en/english-degrees"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Food Safety for Global Health (new 2027/2028, to be approved)",
+      "field": "Life Sciences",
+      "applyUrl": "https://apply.unipd.it/"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Information Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unipd.it/en/english-degrees"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Innovative Technologies in Agriculture (new 2027/2028, to be approved)",
+      "field": "Agriculture",
+      "applyUrl": "https://apply.unipd.it/"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Italian Medieval and Renaissance Studies",
+      "field": "Humanities",
+      "applyUrl": "https://www.unipd.it/en/english-degrees"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Management, Finance and Business Analytics (new 2027/2028, to be approved)",
+      "field": "Business",
+      "applyUrl": "https://apply.unipd.it/"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Physics for Technology (new 2027/2028, to be approved)",
+      "field": "Physics",
+      "applyUrl": "https://apply.unipd.it/"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Psychological Science",
+      "field": "Psychology",
+      "applyUrl": "https://www.unipd.it/en/english-degrees"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Techniques and Methods in Psychological Science",
+      "field": "Psychology",
+      "applyUrl": "https://www.unipd.it/en/english-degrees"
+    },
+    {
+      "universityId": "university-of-pavia",
+      "name": "Artificial Intelligence (inter-university; administrative HQ Pavia)",
+      "field": "Computer Science",
+      "applyUrl": "https://en.unipv.it/en/education/bachelors-and-masters-degree-programs/first-cycle-degree-course/artificial-intelligence"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Comparative European and International Legal Studies (CEILS)",
+      "field": "Law",
+      "applyUrl": "https://international.unitn.it/"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Comparative, European and International Legal Studies (CEILS)",
+      "field": "Law",
+      "applyUrl": "https://corsi.unitn.it/en/comparative-european-and-international-legal-studies/enrollment/admission-and-enrollment"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Computer Science",
+      "field": "Computer Science",
+      "applyUrl": "https://international.unitn.it/"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Computer, Communications and Electronic Engineering (English curriculum)",
+      "field": "Engineering",
+      "applyUrl": "https://corsi.unitn.it/en/computer-communications-and-electronic-engineering"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Economics and Management",
+      "field": "Business",
+      "applyUrl": "https://international.unitn.it/"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Business & Management",
+      "field": "Business",
+      "applyUrl": "https://www.unito.it/en"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Economics and Finance with Data Science",
+      "field": "Economics",
+      "applyUrl": "https://apply.unito.it/"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Global Law and Transnational Legal Studies",
+      "field": "Law",
+      "applyUrl": "https://www.unito.it/en"
+    },
+    {
+      "universityId": "university-of-verona",
+      "name": "Biotechnology",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.univr.it/en/"
+    },
+    {
+      "universityId": "university-of-verona",
+      "name": "Languages, Cultures and Literatures for Publishing",
+      "field": "Languages",
+      "applyUrl": "https://www.univr.it/en/"
+    }
+  ]
+}

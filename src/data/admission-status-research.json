@@ -1,0 +1,466 @@
+{
+  "lastUpdated": "2026-09-08",
+  "universitalyPreEnrolmentDeadline": "2026-11-30",
+  "note": "Snapshot for non-EU/visa-applicant international admissions as of ~2026-09-08. Most A.Y. 2026/27 university application windows for non-EU students closed between Feb–Jul 2026; many portals still support Universitaly/enrolment for already-admitted candidates. A.Y. 2027/28 is only newly opening at a few universities (notably Padua from 15 Sep 2026). Status reflects whether new applications from non-EU students residing abroad are currently accepted; residual EU/resident-only rounds are not counted as open. Individual programme calls can differ—always re-check the cited source.",
+  "universities": [
+    {
+      "universityId": "politecnico-di-milano",
+      "status": "soon",
+      "estimatedOpenDate": "2026-10-01",
+      "deadline": null,
+      "intakeNote": "2027/28 expected; 2026/27 closed",
+      "source": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-magistrale/foreign-qualification/deadlines",
+      "evidence": "A.Y. 2026/27 foreign-qualification MSc calls closed (Engineering 2nd semester ended 18 Jun 2026). 2027/28 call not yet published; historical early-bird pattern starts 1 Oct."
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "status": "closed",
+      "estimatedOpenDate": null,
+      "deadline": "2026-10-05",
+      "intakeNote": "2026/27 enrolment phase",
+      "source": "https://www.polito.it/sites/default/files/2026-07/Ms_Enrolment_Guidelines.pdf",
+      "evidence": "Foreign-qualification MSc applicants are in enrolment (pay/upload by 5 Oct 2026; Type D visa by 30 Nov 2026). Non-EU bachelor language deadline was 22 May 2026; new applications closed."
+    },
+    {
+      "universityId": "university-of-bologna",
+      "status": "closed",
+      "estimatedOpenDate": null,
+      "deadline": null,
+      "intakeNote": "2026/27",
+      "source": "https://www.unibo.it/en/study/enrolment-fees-and-other-procedures/degree-programmes/enrolling-in-first-cycle-and-single-cycle-degree-programmes/enrolling-in-a-first-cycle-or-single-cycle-degree-programme-if-you-come-from-a-non-eu-country",
+      "evidence": "Portal focuses on 26_27 matriculation/document upload. Sample English MSc calls closed non-EU intakes by spring/summer 2026; later intakes often EU-only."
+    },
+    {
+      "universityId": "university-of-padua",
+      "status": "soon",
+      "estimatedOpenDate": "2026-09-15",
+      "deadline": "2026-11-15",
+      "intakeNote": "2027/28",
+      "source": "https://apply.unipd.it/news/new/72-new-intake-academic-year-20272028-open-15-september-2026",
+      "evidence": "The new intake for Academic Year 2027/2028 will open on 15 September 2026! First call closes 15 November 2026 for most programmes."
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "status": "closed",
+      "estimatedOpenDate": "estimated late Dec 2026 for 2027/28 MoveIN",
+      "deadline": "2026-05-15",
+      "intakeNote": "2026/27 closed for non-EU",
+      "source": "https://www.uniroma1.it/en/node/256794/",
+      "evidence": "Deadline for Non-EU candidates (visa applicants) expired on May 15, 2026. Process remained open only for EU/EU-equivalent until 31 Jul 2026."
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "status": "closed",
+      "estimatedOpenDate": "estimated Dec 2026–early 2027 for 2027/28",
+      "deadline": "2026-05-29",
+      "intakeNote": "2026/27",
+      "source": "https://economia.uniroma2.it/master-science/economics/f-a-q/",
+      "evidence": "Sample English MSc Economics: non-EU visa deadline 29 May 2026; EEBL non-EU intakes ended 29 May 2026. Universitaly pre-enrolment deadline cited as 31 Jul 2026."
+    },
+    {
+      "universityId": "university-of-milan",
+      "status": "closed",
+      "estimatedOpenDate": "estimated Jan 2027 for 2027/28",
+      "deadline": "2026-04-30",
+      "intakeNote": "2026/27",
+      "source": "https://www.unimi.it/en/study/bachelor-and-master-study/degree-programme-enrolment/enrolment-masters-programme/open-admission-master-programmes",
+      "evidence": "Non-EU students VISA applicants can apply for admission until 30 April 2026. Portal Apply Now banners remain for limited-enrolment tracks but non-EU visa window closed."
+    },
+    {
+      "universityId": "university-of-milano-bicocca",
+      "status": "soon",
+      "estimatedOpenDate": "2026-11-01",
+      "deadline": null,
+      "intakeNote": "2027/28 expected",
+      "source": "https://en.unimib.it/study/information-international-students/access-students-international-qualification",
+      "evidence": "Starting from November you can apply to our Bachelor’s and Master’s programs with open admission. From January, limited-seat programmes also available. Exact 2027/28 dates not yet listed."
+    },
+    {
+      "universityId": "university-of-trento",
+      "status": "soon",
+      "estimatedOpenDate": "estimated Dec 2026–Mar 2027",
+      "deadline": null,
+      "intakeNote": "2027/28 expected",
+      "source": "https://www.unitn.it/en/admission-courses-taught-english",
+      "evidence": "Non-EU: submit online application between December and March of each year, complying with programme call deadlines. 2027/28 calls not yet published."
+    },
+    {
+      "universityId": "university-of-florence",
+      "status": "closed",
+      "estimatedOpenDate": "estimated Dec 2026 for 2027/28 masters",
+      "deadline": "2026-04-17",
+      "intakeNote": "2026/27 masters; bachelors via other routes",
+      "source": "https://apply.unifi.it/news/new/28-20262027-academic-year-intake-rounds",
+      "evidence": "Non-EU abroad intakes 1–2 ended 6 Feb and 17 Apr 2026. Third intake (15 Jun–31 Aug 2026) open only to EU/residents—not non-EU abroad. Masters portal only."
+    },
+    {
+      "universityId": "university-of-pisa",
+      "status": "open",
+      "estimatedOpenDate": null,
+      "deadline": null,
+      "intakeNote": "2026/27 (limited programmes)",
+      "source": "https://applymscenglish.unipi.it/downloads/downloadpdf/bandicdl/2026/bando_10_wgf-lm_en.pdf",
+      "evidence": "Most English MSc non-EU calls closed 5 Feb 2026. Exploration and Applied Geophysics states no formal deadline (opened 28 Nov 2025); non-EU advised to apply ASAP. Bachelors also via same portal—confirm programme list."
+    },
+    {
+      "universityId": "university-of-siena",
+      "status": "closed",
+      "estimatedOpenDate": "estimated Nov–Dec 2026 for 2027/28",
+      "deadline": "2026-05-06",
+      "intakeNote": "2026/27",
+      "source": "https://admission.unisi.it/?p=3003",
+      "evidence": "Non-EU visa: Winter Intake until 6 May 2026; Summer Intake Not Allowed for both bachelor and master general calendars."
+    },
+    {
+      "universityId": "university-of-turin",
+      "status": "closed",
+      "estimatedOpenDate": "estimated Nov 2026 for 2027/28 postgraduate",
+      "deadline": "2026-04-15",
+      "intakeNote": "2026/27",
+      "source": "https://www.en.unito.it/studying-unito/international-degree-seeking-students/application-international-students",
+      "evidence": "Postgraduate 25 Nov 2025–29 Jan 2026; undergraduate 19 Feb–15 Apr 2026. Later calls reserved to Italians/EU/residents. Universitaly non-EU by 15 Jul 2026."
+    },
+    {
+      "universityId": "university-of-genoa",
+      "status": "closed",
+      "estimatedOpenDate": "estimated Nov 2026 for 2027/28 visa fall session",
+      "deadline": "2026-03-20",
+      "intakeNote": "2026/27",
+      "source": "https://unige.it/en/international-enrolment",
+      "evidence": "Fall session for visa applicants CLOSED (26 Nov 2025–20 Mar 2026). Spring session for resident students only."
+    },
+    {
+      "universityId": "university-of-pavia",
+      "status": "closed",
+      "estimatedOpenDate": "estimated Nov 2026 for 2027/28 non-restricted",
+      "deadline": "2026-06-11",
+      "intakeNote": "2026/27",
+      "source": "https://apply.unipv.eu/en_GB/news/new/72-application-calendar-202627",
+      "evidence": "Non-restricted windows for non-EU abroad ended with 4th call 11 Jun 2026 (subject to seats). 5th call 1–8 Sep 2026 for EU/residents in Italy only."
+    },
+    {
+      "universityId": "university-of-parma",
+      "status": "closed",
+      "estimatedOpenDate": "estimated early–mid 2027 for 2027/28",
+      "deadline": null,
+      "intakeNote": "2026/27",
+      "source": "https://www.unipr.it/en",
+      "evidence": "Secondary reports place English/master international calls closing Apr 2026; no live 2027/28 open call verified on 2026-09-08."
+    },
+    {
+      "universityId": "university-of-verona",
+      "status": "closed",
+      "estimatedOpenDate": "estimated early 2027 for 2027/28",
+      "deadline": "2026-03-31",
+      "intakeNote": "2026/27",
+      "source": "https://www.univr.it/en/our-services/international-degree-seeking-students",
+      "evidence": "International Master’s pre-admission call for non-Italian citizens not already resident in Italy closed on 31 March 2026."
+    },
+    {
+      "universityId": "university-of-catania",
+      "status": "closed",
+      "estimatedOpenDate": "estimated Feb 2027 for 2027/28 non-EU English masters",
+      "deadline": "2026-03-17",
+      "intakeNote": "2026/27",
+      "source": "https://www.unict.it/it/corsi-numero-programmato/2026-2027/public-selection-admission-non-eu-students-living-abroad-english",
+      "evidence": "Non-EU English Master’s public selection: applications 10 Feb–17 Mar 2026. Universitaly cited by 31 Jul 2026 for admitted students."
+    },
+    {
+      "universityId": "university-of-messina",
+      "status": "closed",
+      "estimatedOpenDate": "estimated Dec 2026–early 2027 for 2027/28",
+      "deadline": "2026-05-10",
+      "intakeNote": "2026/27",
+      "source": "https://international.unime.it/study-us/application-and-admission",
+      "evidence": "Non-EU study-visa pre-evaluation calls ended 10 May 2026 (Medicine English to 20 Jul 2026). Jul–20 Nov 2026 call for non-visa/EU-equivalent only."
+    },
+    {
+      "universityId": "university-of-naples-federico-ii",
+      "status": "closed",
+      "estimatedOpenDate": "estimated spring 2027 for 2027/28",
+      "deadline": "2026-06-15",
+      "intakeNote": "2026/27",
+      "source": "https://www.international.unina.it/education/admission-regulation/",
+      "evidence": "JUNE – 15 – 2026 – Pre-enrolment application deadline… After this date no programme changes are permitted (restricted-access exceptions only)."
+    },
+    {
+      "universityId": "university-of-campania-luigi-vanvitelli",
+      "status": "tba",
+      "estimatedOpenDate": "estimated early 2027 for 2027/28",
+      "deadline": null,
+      "intakeNote": "2026/27 unclear",
+      "source": "https://www.unicampania.it/",
+      "evidence": "Homepage shows Semestre Aperto a.a. 2026/2027 info but no clear non-EU English degree application window verified on 2026-09-08."
+    },
+    {
+      "universityId": "university-of-bari",
+      "status": "closed",
+      "estimatedOpenDate": "estimated early 2027 for 2027/28",
+      "deadline": "2026-06-30",
+      "intakeNote": "2026/27",
+      "source": "https://www.uniba.it/en/students/international-students/announcements/evaluation-of-qualifications-for-the-academic-year-2026-2027",
+      "evidence": "Non-EU students must submit DreamApply evaluation by 30/06/2026. EU/equivalent until 30/09/2026. Universitaly open-access visa apps by 30 Sep 2026 for already-evaluated candidates."
+    },
+    {
+      "universityId": "university-of-cagliari",
+      "status": "closed",
+      "estimatedOpenDate": "estimated spring 2027 for 2027/28",
+      "deadline": "2026-08-31",
+      "intakeNote": "2026/27",
+      "source": "https://unica.dreamapply.com/",
+      "evidence": "DreamApply used for career evaluations; faculty pages cite pre-assessment windows and Universitaly by 31 Aug 2026. New non-EU application cycle not confirmed open."
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "status": "soon",
+      "estimatedOpenDate": "late fall 2026",
+      "deadline": null,
+      "intakeNote": "2027/28",
+      "source": "https://apply.unive.it/",
+      "evidence": "Masters: no longer possible to apply for 2026/2027. Non-EU bachelor visa applicants: check back in late fall for 2027/2028. Only non-visa bachelor applicants still able for 2026/27."
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "status": "closed",
+      "estimatedOpenDate": "estimated Mar 2027 for 2027/28 Early Bird",
+      "deadline": "2026-04-28",
+      "intakeNote": "2026/27",
+      "source": "https://www.unibz.it/en/applicants/international/international-degree-seeking-applicants/degree-seeking-non-eu-citizens-living-abroad",
+      "evidence": "Non-EU living abroad can only apply during Early Bird (02 Mar–28 Apr 2026). Late/Additional sessions EU-only (Additional ended 4 Sep 2026)."
+    },
+    {
+      "universityId": "university-of-camerino",
+      "status": "closed",
+      "estimatedOpenDate": "estimated early 2027 for 2027/28 pre-admission",
+      "deadline": "2026-03-31",
+      "intakeNote": "2026/27",
+      "source": "https://international.unicam.it/admissions/pre-admissions-2026-2027",
+      "evidence": "The Call for Pre-Admission is now closed for Non-EU students only. Deadline was 31 March 2026."
+    },
+    {
+      "universityId": "university-of-cassino",
+      "status": "tba",
+      "estimatedOpenDate": "estimated early 2027 for 2027/28",
+      "deadline": null,
+      "intakeNote": "unclear",
+      "source": "https://www.unicas.it/international-unicas/international-office/international-welcome-service/prospective-international-students-unicas/pre-admission-admission-enrollment/",
+      "evidence": "Pre-admission/enrolment info page available; no clear current non-EU open/closed dates verified on 2026-09-08."
+    },
+    {
+      "universityId": "roma-tre",
+      "status": "tba",
+      "estimatedOpenDate": "estimated spring–summer 2027 for 2027/28",
+      "deadline": null,
+      "intakeNote": "unclear; page outdated",
+      "source": "https://portalestudente.uniroma3.it/en/enrollment/enrollment-with-a-foreign-qualification/",
+      "evidence": "Page still cites Universitaly deadline of September 15, 2024 and older recognition windows—cannot verify live 2026/27 or 2027/28 non-EU English application status."
+    },
+    {
+      "universityId": "university-of-tuscia",
+      "status": "tba",
+      "estimatedOpenDate": "estimated early 2027 for 2027/28",
+      "deadline": null,
+      "intakeNote": "unclear",
+      "source": "https://www.unitus.it/en/",
+      "evidence": "No verified current non-EU English application window found on official pages as of 2026-09-08."
+    },
+    {
+      "universityId": "polytechnic-university-of-bari",
+      "status": "tba",
+      "estimatedOpenDate": "estimated early 2027 for 2027/28",
+      "deadline": null,
+      "intakeNote": "unclear",
+      "source": "https://www.poliba.it/en",
+      "evidence": "English portal present; specific non-EU degree-seeking call status not verified on 2026-09-08."
+    },
+    {
+      "universityId": "university-of-basilicata",
+      "status": "tba",
+      "estimatedOpenDate": "estimated early 2027 for 2027/28",
+      "deadline": null,
+      "intakeNote": "unclear",
+      "source": "https://portale.unibas.it/site/home.html",
+      "evidence": "No verified current international English admission window found."
+    },
+    {
+      "universityId": "university-of-calabria",
+      "status": "closed",
+      "estimatedOpenDate": "estimated spring 2027 for 2027/28",
+      "deadline": "2026-05-15",
+      "intakeNote": "2026/27",
+      "source": "https://unical.esse3.cineca.it/",
+      "evidence": "Workspace prior cycle noted 2026/27 Phase 1 by 15 May 2026; no later non-EU open call verified—treat as closed pending new bando."
+    },
+    {
+      "universityId": "university-of-foggia",
+      "status": "tba",
+      "estimatedOpenDate": "estimated early 2027 for 2027/28",
+      "deadline": null,
+      "intakeNote": "unclear",
+      "source": "https://www.unifg.it/en",
+      "evidence": "No verified current non-EU English application window found."
+    },
+    {
+      "universityId": "university-of-laquila",
+      "status": "tba",
+      "estimatedOpenDate": "estimated early 2027 for 2027/28 English Master's call",
+      "deadline": null,
+      "intakeNote": "unclear",
+      "source": "https://www.univaq.it/en/section.php?id=2062",
+      "evidence": "International section present; live 2026/27 residual vs 2027/28 open status not confirmed."
+    },
+    {
+      "universityId": "university-of-naples-parthenope",
+      "status": "tba",
+      "estimatedOpenDate": "estimated early 2027 for 2027/28",
+      "deadline": null,
+      "intakeNote": "unclear",
+      "source": "https://www.uniparthenope.it/en",
+      "evidence": "No verified current non-EU English application window found."
+    },
+    {
+      "universityId": "university-of-palermo",
+      "status": "tba",
+      "estimatedOpenDate": "estimated early 2027 for 2027/28",
+      "deadline": null,
+      "intakeNote": "unclear",
+      "source": "https://www.unipa.it/english/",
+      "evidence": "English site present; specific non-EU call status not verified on 2026-09-08."
+    },
+    {
+      "universityId": "university-of-salento",
+      "status": "tba",
+      "estimatedOpenDate": "estimated Feb 2027 for 2027/28 extraordinary English calls",
+      "deadline": null,
+      "intakeNote": "unclear",
+      "source": "https://studenti.unisalento.it/",
+      "evidence": "Esse3 portal; extraordinary English calls often from February—no current open call verified."
+    },
+    {
+      "universityId": "university-of-salerno",
+      "status": "tba",
+      "estimatedOpenDate": "estimated early 2027 for 2027/28",
+      "deadline": null,
+      "intakeNote": "unclear",
+      "source": "https://web.unisa.it/en",
+      "evidence": "No verified current non-EU English application window found."
+    },
+    {
+      "universityId": "university-of-sassari",
+      "status": "tba",
+      "estimatedOpenDate": "estimated early 2027 for 2027/28",
+      "deadline": null,
+      "intakeNote": "unclear",
+      "source": "https://www.uniss.it/en",
+      "evidence": "No verified current non-EU English application window found."
+    },
+    {
+      "universityId": "university-of-teramo",
+      "status": "tba",
+      "estimatedOpenDate": "estimated early 2027 for 2027/28",
+      "deadline": null,
+      "intakeNote": "unclear",
+      "source": "https://www.unite.it/English/Studying_at_UniTe/How_to_apply",
+      "evidence": "How-to-apply page present; live deadline status not confirmed."
+    },
+    {
+      "universityId": "marche-polytechnic",
+      "status": "tba",
+      "estimatedOpenDate": "estimated early 2027 for 2027/28",
+      "deadline": null,
+      "intakeNote": "unclear",
+      "source": "https://www.univpm.it/Entra/",
+      "evidence": "No verified current non-EU English application window found."
+    },
+    {
+      "universityId": "university-of-macerata",
+      "status": "tba",
+      "estimatedOpenDate": "estimated early 2027 for 2027/28",
+      "deadline": null,
+      "intakeNote": "unclear",
+      "source": "https://www.unimc.it/en",
+      "evidence": "No verified current non-EU English application window found."
+    },
+    {
+      "universityId": "university-of-perugia",
+      "status": "tba",
+      "estimatedOpenDate": "estimated early 2027 for 2027/28",
+      "deadline": null,
+      "intakeNote": "unclear",
+      "source": "https://www.unipg.it/en/international-students/becoming-a-unipg-student",
+      "evidence": "International students page present; current call open/closed status not confirmed."
+    },
+    {
+      "universityId": "university-of-bergamo",
+      "status": "soon",
+      "estimatedOpenDate": "estimated Nov 2026 for 2027/28",
+      "deadline": null,
+      "intakeNote": "2027/28 expected",
+      "source": "https://apply.unibg.it/",
+      "evidence": "2026/27 first call was 24 Nov 2025–15 Jan 2026 (closed). Next cycle typically opens November; 2027/28 dates not yet published."
+    },
+    {
+      "universityId": "university-of-brescia",
+      "status": "tba",
+      "estimatedOpenDate": "estimated early 2027 for 2027/28 non-EU pre-evaluation",
+      "deadline": null,
+      "intakeNote": "unclear",
+      "source": "https://www.unibs.it/en/international/degree-seeking-students/admission/pre-evaluation-masters-degrees",
+      "evidence": "Masters pre-evaluation page present; current non-EU round status not confirmed."
+    },
+    {
+      "universityId": "university-of-eastern-piedmont",
+      "status": "tba",
+      "estimatedOpenDate": "estimated early 2027 for 2027/28",
+      "deadline": null,
+      "intakeNote": "unclear",
+      "source": "https://www.uniupo.it/en/international",
+      "evidence": "No verified current non-EU English application window found."
+    },
+    {
+      "universityId": "university-of-ferrara",
+      "status": "closed",
+      "estimatedOpenDate": "estimated Jan 2027 for 2027/28 English masters",
+      "deadline": null,
+      "intakeNote": "2026/27",
+      "source": "https://apply.unife.it/",
+      "evidence": "2026/27 English masters window historically from 12 Jan 2026; no residual non-EU open call verified in Sep 2026."
+    },
+    {
+      "universityId": "university-of-insubria",
+      "status": "tba",
+      "estimatedOpenDate": "estimated early 2027 for 2027/28",
+      "deadline": null,
+      "intakeNote": "unclear",
+      "source": "https://www.uninsubria.eu/services/all-services/enrollment-procedures",
+      "evidence": "Enrolment procedures page present; live international call status not confirmed."
+    },
+    {
+      "universityId": "university-of-modena-and-reggio-emilia",
+      "status": "tba",
+      "estimatedOpenDate": "estimated early 2027 for 2027/28",
+      "deadline": null,
+      "intakeNote": "unclear",
+      "source": "https://www.unimore.it/en/education/enrolment-and-admission",
+      "evidence": "Enrolment and admission page present; current non-EU English window not verified."
+    },
+    {
+      "universityId": "university-of-trieste",
+      "status": "tba",
+      "estimatedOpenDate": "estimated early 2027 for 2027/28",
+      "deadline": null,
+      "intakeNote": "unclear",
+      "source": "https://www.units.it/en",
+      "evidence": "No verified current non-EU English application window found."
+    },
+    {
+      "universityId": "university-of-udine",
+      "status": "tba",
+      "estimatedOpenDate": "estimated early 2027 for 2027/28",
+      "deadline": null,
+      "intakeNote": "unclear",
+      "source": "https://www.uniud.it/en",
+      "evidence": "No verified current non-EU English application window found."
+    }
+  ]
+}

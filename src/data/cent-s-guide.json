@@ -1,0 +1,56 @@
+{
+  "lastUpdated": "2026-09-08",
+  "fullName": "CEnT-S (CISIA English Test – Sciences)",
+  "whatItIs": "CEnT-S is the unified CISIA English admission test for many English-taught bachelor (and some single-cycle scientific) programmes in Italy. From November 2025 it replaces the old English TOLC types (English TOLC-I, English TOLC-E, English TOLC-F) for Engineering, Economics, Pharmacy, and other scientific fields taught mainly in English.",
+  "whoNeedsIt": "Students applying to English-taught first-cycle degrees in Engineering, Economics / Business / Management, Pharmacy, Biotechnology / Biology, and many other science programmes where the university call requires CEnT-S. It is NOT the Medicine test — Medicine / Dentistry / Veterinary use IMAT. Politecnico di Torino engineering programmes use TIL-I instead of CEnT-S.",
+  "registrationPortal": "https://cisiaonline.it/en/cent/all-about-CEnT/booking-a-CEnT",
+  "cisiaHome": "https://cisiaonline.it/en/cent/all-about-CEnT/all-about-CEnT",
+  "feeEuro": 55,
+  "formats": [
+    "CEnT@UNI — in a university classroom",
+    "CEnT@HOME — remotely (online proctored)"
+  ],
+  "macroPeriods": [
+    "November – January (1st macro-period)",
+    "February – March (2nd macro-period)",
+    "April – June (3rd macro-period)",
+    "September – October (4th macro-period)"
+  ],
+  "structure": {
+    "totalQuestions": 55,
+    "durationMinutes": 110,
+    "sections": [
+      { "name": "Mathematics", "durationMinutes": 30, "topics": "Algebra, functions, geometry, probability and statistics" },
+      { "name": "Reasoning on Texts and Data", "durationMinutes": 30, "topics": "Analytical reading, data interpretation, logical reasoning" },
+      { "name": "Biology", "durationMinutes": 20, "topics": "Cell biology, genetics, human physiology, ecology" },
+      { "name": "Chemistry", "durationMinutes": 20, "topics": "Atomic structure, bonding, stoichiometry, acids/bases, organic basics" },
+      { "name": "Physics", "durationMinutes": 10, "topics": "Mechanics, energy, thermodynamics, waves" }
+    ]
+  },
+  "scoringNote": "You see raw correct / incorrect / blank counts immediately. The final normalised score appears in the CISIA Student Area only at the end of the macro-period (by 30 Jan / 31 Mar / 30 Jun / 30 Oct depending on period). One attempt per macro-period; you may sit again in later periods.",
+  "howToUseScore": "Book CEnT-S on the CISIA portal (you can sit at any participating venue, not only your target university). Apply separately on each university portal / call. Some universities use only selected sections (for example Mathematics + Reasoning). Always read the programme admission notice.",
+  "typicalFields": [
+    "Engineering",
+    "Economics & Management",
+    "Business / Finance",
+    "Pharmacy (English single-cycle where stated)",
+    "Biotechnology / Biology / Life Sciences",
+    "Other English-taught scientific bachelor programmes"
+  ],
+  "exceptions": [
+    "Politecnico di Torino English engineering bachelor programmes → TIL-I (not CEnT-S)",
+    "Medicine / Dentistry / Veterinary English single-cycle → IMAT via Universitaly",
+    "Some humanities / law / psychology English tracks may use different selection rules — confirm the call"
+  ],
+  "notes": [
+    "English TOLC-I / TOLC-E / TOLC-F names on older pages are outdated for A.Y. 2026/27 — expect CEnT-S in new calls.",
+    "Fee is €55 per attempt (credit card or Italian MAV).",
+    "Score validity and which sections count are set by each university call — confirm deadlines before booking.",
+    "Pharmacy English at Bologna–Rimini and Tor Vergata typically use CEnT-S (or university selection based on it), not IMAT."
+  ],
+  "officialSources": [
+    "https://cisiaonline.it/en/cent/all-about-CEnT/all-about-CEnT",
+    "https://www.cisiaonline.it/en/news/cent-s-new-unified-cisia-english-test",
+    "https://cisiaonline.it/en/cent/all-about-CEnT/booking-a-CEnT"
+  ]
+}

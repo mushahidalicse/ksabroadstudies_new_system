@@ -1,0 +1,1144 @@
+{
+  "lastUpdated": "2026-09-08",
+  "cycle": "XLII",
+  "academicYear": "2026/2027",
+  "generalProcedure": {
+    "summary": "Italian Dottorato di Ricerca (PhD) admissions for cycle XLII (A.Y. 2026/2027) are competitive public selections (concorso). Most Lazio and Southern universities published calls between May and August 2026; many main deadlines have already closed by early September 2026, with a minority of late windows still open (e.g. Cagliari to 28 Sep 2026; Calabria to 21 Sep 2026; Foggia/Sassari chemistry around 8 Sep 2026). Applications are almost always online via PICA (pica.cineca.it/<slug>/...), Esse3/student portals, or university-specific systems (Infostud, Delphi, GOMP, Roma Tre apps). Standard requirements: second-cycle degree (Laurea Magistrale/Specialistica or equivalent foreign EQF-7) by a call-specific date (often 31 Oct 2026); ID; CV; degree certificate/transcript (IT/EN); often a research project; application fee via PagoPA (typically €20–€35). Selection is usually evaluation of qualifications ± research project + oral interview; English proficiency is commonly assessed at interview and many STEM/social-science boards allow interviews/thesis in English. Scholarships (borsa) follow MUR decree amounts (~€16,243 gross/year) with possible 50% increase for approved research abroad; funded and unfunded seats are listed per programme annex.",
+    "typicalNationalStipend": "€16,243 gross/year (DM 247/2022), subject to INPS separate management contributions",
+    "notes": "English-taught Italian PhDs are rarely labelled as fully English degree programmes; more often research, seminars, and interviews can be conducted in English. Prefer English-named programmes and annexes that explicitly allow English. Always re-check the official bando/annex for the chosen course before applying. Non-EU winners typically need Universitaly pre-enrolment and a postgraduate study visa."
+  },
+  "universities": [
+    {
+      "universityId": "roma-tre",
+      "name": "Roma Tre University",
+      "phdHubUrl": "https://www.uniroma3.it/en/research/phd/",
+      "applicationPortal": "https://apps.uniroma3.it/public/bando2026/",
+      "portalType": "own",
+      "cycleNote": "XLII cycle a.y. 2026/2027 (courses start 1 Jan 2027)",
+      "typicalDeadlineWindow": "Closed 14 July 2026, 14:00 Italian time",
+      "englishNote": "Official English page lists one PhD delivered in English: Law and Social Change: the challenges of transnational regulation. Broader PhD course units in English also exist. Documents for foreign degrees may be submitted in Italian or English.",
+      "programmes": [
+        {
+          "name": "Law and Social Change: the challenges of transnational regulation",
+          "field": "Law",
+          "language": "English",
+          "applyUrl": "https://www.uniroma3.it/en/international/study-at-roma-tre/courses-in-english/",
+          "notes": "Listed by Roma Tre as a PhD programme delivered in English; apply via XLII own portal."
+        },
+        {
+          "name": "Ingegneria civile",
+          "field": "Engineering",
+          "language": "Italian (English-friendly research possible; verify annex)",
+          "applyUrl": "https://apps.uniroma3.it/public/bando2026/",
+          "notes": "Verified in XLII call annex listings with funded seats."
+        },
+        {
+          "name": "Ingegneria meccanica e industriale",
+          "field": "Engineering",
+          "language": "Italian (English-friendly research possible; verify annex)",
+          "applyUrl": "https://apps.uniroma3.it/public/bando2026/",
+          "notes": "Verified in XLII call with Roma Tre scholarships and seats without scholarship."
+        },
+        {
+          "name": "Fisica",
+          "field": "Physics",
+          "language": "Italian/English-friendly (INFN/ERC-linked seats; verify annex)",
+          "applyUrl": "https://apps.uniroma3.it/public/bando2026/",
+          "notes": "XLII call lists multiple funded seats including INFN and ERC-related scholarships."
+        }
+      ],
+      "requirements": [
+        "Laurea Magistrale/Specialistica or pre-DM 509 four-year degree by 31 Dec 2026 (admission with reserve if graduating later)",
+        "Open to all nationalities/ages",
+        "One application per PhD course/curriculum",
+        "Foreign degree documentation in Italian or English; Dichiarazione di Valore at enrolment if admitted",
+        "Participation fee paid by deadline via PagoPA"
+      ],
+      "selection": "Public selection per course annex (qualifications and exams/interview as specified per PhD); exam agendas published on the application portal.",
+      "scholarshipNote": "Mix of Roma Tre funded seats, project/FIS seats, and some seats without scholarship listed per course in the XLII call.",
+      "sources": [
+        "https://www.uniroma3.it/en/research/phd/",
+        "https://apps.uniroma3.it/public/bando2026/",
+        "https://www.uniroma3.it/en/international/study-at-roma-tre/courses-in-english/",
+        "https://www.uniroma3.it/ricerca/dottorati-di-ricerca/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Sapienza University of Rome",
+      "phdHubUrl": "https://www.uniroma1.it/en/pagina/phd-programmes",
+      "applicationPortal": "https://www.uniroma1.it/en/pagina/phd-programmes",
+      "portalType": "own",
+      "cycleNote": "42nd cycle / XLII a.y. 2026/2027 (94 PhD programmes)",
+      "typicalDeadlineWindow": "Closed 17 June 2026, 14:00 CET",
+      "englishNote": "English informational call available. Many programmes publish English catalogue pages; Doctoral School courses for Chemical Processes are completely taught in English. Interviews/foreign-language tests vary by programme page. Thesis/docs often accepted in English.",
+      "programmes": [
+        {
+          "name": "Chemical Processes for Industry and Environment",
+          "field": "Chemical Engineering / Industrial Chemistry",
+          "language": "English (doctoral school courses completely taught in English)",
+          "applyUrl": "https://www.uniroma1.it/en/offerta-formativa/dottorato/2026/chemical-processes-industry-and-environment",
+          "notes": "Official page states Doctoral School courses are completely taught in English."
+        },
+        {
+          "name": "Studies in English Literatures, Cultures, Language, and Translation",
+          "field": "English studies / Translation",
+          "language": "English",
+          "applyUrl": "https://www.uniroma1.it/en/offerta-formativa/dottorato/2026/studies-english-literatures-cultures-language-and-translation",
+          "notes": "English-domain PhD with linguistics, literature, and translation curricula."
+        },
+        {
+          "name": "Data Science",
+          "field": "Data Science / ICT",
+          "language": "English-friendly (verify programme admission page)",
+          "applyUrl": "https://www.uniroma1.it/en/offerta-formativa/dottorato/2026/data-science",
+          "notes": "Listed in Sapienza 2026 PhD catalogue with 42nd-cycle rankings published."
+        },
+        {
+          "name": "Cybersecurity",
+          "field": "Computer Science / Security",
+          "language": "English-friendly (verify programme admission page)",
+          "applyUrl": "https://www.uniroma1.it/en/offerta-formativa/dottorato/2026/cybersecurity",
+          "notes": "42nd-cycle call programme with industrial reserved seats."
+        },
+        {
+          "name": "European Ph.D. in Socio-economic and Statistical Studies",
+          "field": "Economics / Statistics",
+          "language": "English-friendly international programme (verify board language)",
+          "applyUrl": "https://www.uniroma1.it/en/offerta-formativa/dottorato/2026/european-phd-socio-economic-and-statistical-studies",
+          "notes": "International/European framing in official English catalogue."
+        },
+        {
+          "name": "Computer Science",
+          "field": "Computer Science",
+          "language": "English-friendly (verify programme page)",
+          "applyUrl": "https://www.uniroma1.it/en/offerta-formativa/dottorato/2026/computer-science",
+          "notes": "English catalogue entry for 2026 cycle."
+        },
+        {
+          "name": "Physics",
+          "field": "Physics",
+          "language": "English-friendly (verify programme page)",
+          "applyUrl": "https://www.uniroma1.it/en/offerta-formativa/dottorato/2026/physics",
+          "notes": "English catalogue entry; STEM boards commonly allow English interviews."
+        },
+        {
+          "name": "Bioinformatics and Computational Biology",
+          "field": "Life sciences / Computational biology",
+          "language": "English-friendly (verify programme page)",
+          "applyUrl": "https://www.uniroma1.it/en/offerta-formativa/dottorato/2026/bioinformatics-and-computational-biology",
+          "notes": "English catalogue entry for 2026."
+        }
+      ],
+      "requirements": [
+        "Second-cycle Italian degree or suitable foreign EQF-7 qualification by 31 Oct 2026",
+        "Online application closed/submitted with fee by deadline",
+        "Degree self-certification or foreign certificate with exams/grades in Italian or English (non-EU: apostille/legalization as required)",
+        "May apply to multiple PhDs paying a fee for each",
+        "Programme-specific attachments on each PhD web page"
+      ],
+      "selection": "Qualifications and examinations, or examinations only, as specified per programme Annex A / Concorso di ammissione page; foreign language test may be required.",
+      "scholarshipNote": "Sapienza-funded and third-party/project scholarships; annual amount €16,243 gross; income limit €16,243 excluding the scholarship; stamp duty €16 + regional tax €140 at enrolment.",
+      "sources": [
+        "https://www.uniroma1.it/en/pagina/phd-programmes",
+        "https://www.uniroma1.it/sites/default/files/field_file_allegati/call_for_applications_phd_42nd_cycle.pdf",
+        "https://www.uniroma1.it/en/offerta-formativa/dottorato/2026/chemical-processes-industry-and-environment",
+        "https://www.uniroma1.it/it/pagina/dottorati-di-ricerca"
+      ],
+      "confidence": "high"
+    },
+    {
+      "universityId": "university-of-cassino",
+      "name": "University of Cassino and Southern Lazio",
+      "phdHubUrl": "https://www.unicas.it/ateneo/bandi-di-concorso/corsi-di-dottorato-di-ricerca-aa-20262027-xlii-ciclo/",
+      "applicationPortal": "https://gomp.unicas.it",
+      "portalType": "own",
+      "cycleNote": "XLII cycle a.y. 2026/2027 (DR 572/24 Jul 2026)",
+      "typicalDeadlineWindow": "Closed 31 August 2026, 12:00 Italian time (rankings expected by ~12 Oct 2026)",
+      "englishNote": "Official English courtesy translation of the call and Annex A published on the bandi page. Research-project templates provided per course; English use for interview/docs depends on annex (not all programmes are fully English-taught).",
+      "programmes": [
+        {
+          "name": "Economia e management per l'innovazione e la sostenibilità",
+          "field": "Economics / Management",
+          "language": "Italian (English annex available; verify interview language)",
+          "applyUrl": "https://www.unicas.it/ateneo/bandi-di-concorso/corsi-di-dottorato-di-ricerca-aa-20262027-xlii-ciclo/",
+          "notes": "3 scholarship seats (Dept. of Economics and Law)."
+        },
+        {
+          "name": "Metodi, modelli e tecnologie per l'ingegneria",
+          "field": "Engineering",
+          "language": "Italian (English annex available; STEM often English-friendly)",
+          "applyUrl": "https://www.unicas.it/ateneo/bandi-di-concorso/corsi-di-dottorato-di-ricerca-aa-20262027-xlii-ciclo/",
+          "notes": "12 scholarship seats (Civil and Mechanical Engineering)."
+        },
+        {
+          "name": "Modelli e contesti educativi: Sport, Inclusione e Tecnologie",
+          "field": "Education / Sport sciences",
+          "language": "Italian (verify annex)",
+          "applyUrl": "https://www.unicas.it/ateneo/bandi-di-concorso/corsi-di-dottorato-di-ricerca-aa-20262027-xlii-ciclo/",
+          "notes": "5 scholarship seats."
+        },
+        {
+          "name": "Pubblica amministrazione e imprese per l'innovazione e lo sviluppo del territorio",
+          "field": "Public administration / Local development",
+          "language": "Italian (verify annex)",
+          "applyUrl": "https://www.unicas.it/ateneo/bandi-di-concorso/corsi-di-dottorato-di-ricerca-aa-20262027-xlii-ciclo/",
+          "notes": "3 scholarship seats."
+        },
+        {
+          "name": "Studi umanistici",
+          "field": "Humanities",
+          "language": "Italian (verify annex)",
+          "applyUrl": "https://www.unicas.it/ateneo/bandi-di-concorso/corsi-di-dottorato-di-ricerca-aa-20262027-xlii-ciclo/",
+          "notes": "4 scholarship seats."
+        }
+      ],
+      "requirements": [
+        "Laurea Magistrale/Specialistica, pre-reform degree, AFAM second-level, or suitable foreign degree",
+        "Online application via GOMP with annex-required documents (CV, research project schemas)",
+        "Helpdesk closed 10–21 Aug 2026 but portal remained open"
+      ],
+      "selection": "Qualifications and research project + oral examinations as detailed in Annex A; calendars published on the bandi page.",
+      "scholarshipNote": "27 positions, all with scholarship, across the five PhD courses.",
+      "sources": [
+        "https://www.unicas.it/ateneo/bandi-di-concorso/corsi-di-dottorato-di-ricerca-aa-20262027-xlii-ciclo/",
+        "https://gomp.unicas.it"
+      ],
+      "confidence": "high"
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "name": "University of Rome Tor Vergata",
+      "phdHubUrl": "https://dottorati.uniroma2.it/42-ciclo_p10363.aspx",
+      "applicationPortal": "https://dottorati.delphi.uniroma2.it/piattaformaDottorati/jsp/welcome.jsp?language=EN",
+      "portalType": "own",
+      "cycleNote": "XLII / 42nd cycle a.y. 2026/2027 (DR 1387/2026; integrations DR 1536/2026)",
+      "typicalDeadlineWindow": "Main call closed 9 June 2026, 12:00 (applications from 8 May 2026); limited integrations to 22 June 2026 for specified courses; €35 fee by same-day 23:59",
+      "englishNote": "English summary of the call and EN Delphi application UI available. Several programmes have English titles (e.g. Computer Science, Control and Geoinformation; Data Science; Materials for Sustainable Development). Linguistic competence requirements are stated per course page.",
+      "programmes": [
+        {
+          "name": "Computer Science, Control and Geoinformation",
+          "field": "Computer Science / Control / Geoinformation",
+          "language": "English title; verify competence requirements on course page",
+          "applyUrl": "https://dottorati.uniroma2.it/corsi-di-dottorato-xlii_p10365.aspx",
+          "notes": "Listed among XLII competition courses."
+        },
+        {
+          "name": "Data Science",
+          "field": "Data Science",
+          "language": "English title; verify course page",
+          "applyUrl": "https://dottorati.uniroma2.it/corsi-di-dottorato-xlii_p10365.aspx",
+          "notes": "Listed among XLII courses."
+        },
+        {
+          "name": "Materials for Sustainable Development",
+          "field": "Materials science",
+          "language": "English title; verify course page",
+          "applyUrl": "https://dottorati.uniroma2.it/corsi-di-dottorato-xlii_p10365.aspx",
+          "notes": "Listed among XLII courses."
+        },
+        {
+          "name": "Tissue Engineering and Remodeling Biotechnologies for Body Function",
+          "field": "Bioengineering / Biotechnology",
+          "language": "English title; verify course page",
+          "applyUrl": "https://dottorati.uniroma2.it/corsi-di-dottorato-xlii_p10365.aspx",
+          "notes": "Listed among XLII courses."
+        },
+        {
+          "name": "Social, Occupational and Medico-Legal Sciences",
+          "field": "Social / Occupational / Medico-legal sciences",
+          "language": "English title; verify course page",
+          "applyUrl": "https://dottorati.uniroma2.it/corsi-di-dottorato-xlii_p10365.aspx",
+          "notes": "Listed among XLII courses."
+        },
+        {
+          "name": "Biochimica e Biologia Molecolare",
+          "field": "Biochemistry / Molecular biology",
+          "language": "English-friendly admissions page available",
+          "applyUrl": "https://dottoratobiochimica.uniroma2.it/admissions/",
+          "notes": "Programme admissions page in English for 42nd cycle (start Nov 2026)."
+        },
+        {
+          "name": "Fisica",
+          "field": "Physics",
+          "language": "Italian/English-friendly (verify course page)",
+          "applyUrl": "https://dottorati.uniroma2.it/corsi-di-dottorato-xlii_p10365.aspx",
+          "notes": "Listed among XLII courses."
+        },
+        {
+          "name": "Economia e Finanza",
+          "field": "Economics / Finance",
+          "language": "Italian/English-friendly (Faculty PhD culture often English; verify)",
+          "applyUrl": "https://dottorati.uniroma2.it/corsi-di-dottorato-xlii_p10365.aspx",
+          "notes": "Listed among XLII courses."
+        }
+      ],
+      "requirements": [
+        "Online Delphi application only",
+        "€35 PagoPA participation fee by deadline",
+        "Degree by call deadlines (typically by 31 Oct 2026 for enrolment; verify per course)",
+        "Course-specific documents and language self-declarations (Model C etc.)"
+      ],
+      "selection": "Per-course competition sheets: titles evaluation and exams/interview; diaries and evaluation grids published on each PhD page.",
+      "scholarshipNote": "Multiple funding types: MUR/Ateneo, departmental, external public/private, national/EU research programmes, foreign-state self-funded seats, executive/apprenticeship seats, and limited fee-waiver (esonerato) seats.",
+      "sources": [
+        "https://dottorati.uniroma2.it/42-ciclo_p10363.aspx",
+        "https://dottorati.uniroma2.it/corsi-di-dottorato-xlii_p10365.aspx",
+        "https://dottorati.delphi.uniroma2.it/piattaformaDottorati/jsp/welcome.jsp?language=EN",
+        "https://dottoratobiochimica.uniroma2.it/admissions/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "universityId": "university-of-tuscia",
+      "name": "University of Tuscia (Unitus)",
+      "phdHubUrl": "https://www.unitus.it/en/post-graduation/phd-opportunities/",
+      "applicationPortal": "https://www.unitus.it/post-laurea/dottorati-di-ricerca/ammissione-al-dottorato/bandi-ciclo-xlii/",
+      "portalType": "own",
+      "cycleNote": "42nd / XLII cycle a.y. 2026/27",
+      "typicalDeadlineWindow": "Closed 18 August 2026, 14:00",
+      "englishNote": "English PhD opportunities hub. Admission exams assess aptitude and knowledge of at least one foreign language; thesis may be in a foreign language. Engineering for Energy and Environment uses an English programme title. Oral exams via videoconference possible for residents abroad.",
+      "programmes": [
+        {
+          "name": "Engineering for Energy and Environment",
+          "field": "Engineering / Energy / Environment",
+          "language": "English title; training often English-friendly (verify scheda)",
+          "applyUrl": "https://www.unitus.it/post-laurea/dottorati-di-ricerca/ammissione-al-dottorato/bandi-ciclo-xlii/",
+          "notes": "Appears in XLII enrolment/results lists on the bandi page."
+        },
+        {
+          "name": "Welfare, Diversity and Gender Studies",
+          "field": "Social sciences / Gender studies",
+          "language": "Includes Academic Writing in English module; not fully English-taught",
+          "applyUrl": "https://www.unitus.it/en/post-graduation/phd-opportunities/ongoing-phd-programs/welfare-diversity-and-gender-studies/",
+          "notes": "Joint/associated framing with other universities; English academic writing training listed."
+        },
+        {
+          "name": "Economics, Management and Quantitative Methods",
+          "field": "Economics / Management",
+          "language": "Italian with B2 English skills training",
+          "applyUrl": "https://www.unitus.it/en/post-graduation/phd-opportunities/ongoing-phd-programs/economics-management-and-quantitative-methods/",
+          "notes": "English catalogue page; linguistic skills include B2 English course."
+        },
+        {
+          "name": "Ecologia e gestione sostenibile delle risorse ambientali",
+          "field": "Ecology / Environmental sciences",
+          "language": "Italian (verify scheda)",
+          "applyUrl": "https://www.unitus.it/post-laurea/dottorati-di-ricerca/ammissione-al-dottorato/bandi-ciclo-xlii/",
+          "notes": "Listed in XLII results/enrolment sections."
+        },
+        {
+          "name": "Scienze, tecnologie e biotecnologie per la sostenibilità",
+          "field": "Sustainability / Biotechnology",
+          "language": "Italian (verify scheda)",
+          "applyUrl": "https://www.unitus.it/post-laurea/dottorati-di-ricerca/ammissione-al-dottorato/bandi-ciclo-xlii/",
+          "notes": "Listed among active Unitus PhD schools / XLII enrolment."
+        }
+      ],
+      "requirements": [
+        "Master’s or equivalent foreign degree (or pre-509 bachelor)",
+        "Online application via student portal (do not use SPID for registration per Unitus instructions)",
+        "Research project using prescribed templates (constrained/unconstrained/company/no-scholarship)",
+        "Self-declarations and optional remote oral request for residents abroad"
+      ],
+      "selection": "Qualifications (with minimum scores to access oral) + oral exam discussing research project and foreign language; calendars/results published per course on XLII bandi page.",
+      "scholarshipNote": "Funded and unfunded seats per Allegato A course sheets; additional project/municipal/CaRiVit funding streams documented on Unitus PhD pages.",
+      "sources": [
+        "https://www.unitus.it/post-laurea/dottorati-di-ricerca/ammissione-al-dottorato/bandi-ciclo-xlii/",
+        "https://www.unitus.it/en/post-graduation/phd-opportunities/",
+        "https://www.unitus.it/en/post-graduation/phd-opportunities/ongoing-phd-programs/engineering-for-energy-and-environment/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "universityId": "polytechnic-university-of-bari",
+      "name": "Polytechnic University of Bari (PoliBa)",
+      "phdHubUrl": "https://www.poliba.it/it/dottorato-procedure-di-ammissione",
+      "applicationPortal": "https://pica.cineca.it/poliba/dottorato42/",
+      "portalType": "pica",
+      "cycleNote": "XLII cycle (Rectoral Decree no. 539/2026)",
+      "typicalDeadlineWindow": "Closed: PICA window 16 June 2026 15:00 – 16 July 2026 15:00",
+      "englishNote": "Full English call PDF published alongside Italian. CV, self-declarations, and research proposal templates available in English. Interviews/selection notices posted per doctoral course code.",
+      "programmes": [
+        {
+          "name": "DRIME (PhD course code on Poliba XLII notices)",
+          "field": "Engineering (verify full title on Poliba doctoral courses page)",
+          "language": "English call available; interview language per course notice",
+          "applyUrl": "https://www.poliba.it/it/dottorato-procedure-di-ammissione",
+          "notes": "XLII titles/interview notices published under DRIME."
+        },
+        {
+          "name": "DRISA",
+          "field": "Engineering / Applied sciences (verify full title)",
+          "language": "English call available",
+          "applyUrl": "https://www.poliba.it/it/dottorato-procedure-di-ammissione",
+          "notes": "Includes research-proposal evaluation notices for XLII."
+        },
+        {
+          "name": "DRSATE",
+          "field": "Engineering (verify full title)",
+          "language": "English call available",
+          "applyUrl": "https://www.poliba.it/it/dottorato-procedure-di-ammissione",
+          "notes": "XLII selection notices published."
+        },
+        {
+          "name": "DRIEI",
+          "field": "Electrical / Information engineering (verify full title)",
+          "language": "English call available",
+          "applyUrl": "https://www.poliba.it/it/dottorato-procedure-di-ammissione",
+          "notes": "XLII selection notices published."
+        },
+        {
+          "name": "DRIG",
+          "field": "Engineering (verify full title)",
+          "language": "English call available",
+          "applyUrl": "https://www.poliba.it/it/dottorato-procedure-di-ammissione",
+          "notes": "XLII selection notices published."
+        },
+        {
+          "name": "SSI",
+          "field": "Engineering / Systems (verify full title)",
+          "language": "English call available",
+          "applyUrl": "https://www.poliba.it/it/dottorato-procedure-di-ammissione",
+          "notes": "XLII selection notices published."
+        },
+        {
+          "name": "CTI",
+          "field": "Engineering (verify full title)",
+          "language": "English call available",
+          "applyUrl": "https://www.poliba.it/it/dottorato-procedure-di-ammissione",
+          "notes": "XLII selection notices published."
+        },
+        {
+          "name": "DRISS",
+          "field": "Engineering / Applied sciences (verify full title)",
+          "language": "English call available",
+          "applyUrl": "https://www.poliba.it/it/dottorato-procedure-di-ammissione",
+          "notes": "Includes research-proposal evaluation for XLII."
+        }
+      ],
+      "requirements": [
+        "Online PICA application (cod. dottorato42)",
+        "Self-declaration of access title, CV, other qualifications, research proposal (EN templates provided)",
+        "Administration fee payment (or declaration if failed payment form used as instructed)"
+      ],
+      "selection": "Evaluation of qualifications (± research proposal where required) + interview; results and acts-approval decree published (DR 755/2026).",
+      "scholarshipNote": "Scholarship and high-apprenticeship (PFI) positions referenced in call annexes/company PFIs; see English call PDF for seat tables.",
+      "sources": [
+        "https://www.poliba.it/it/dottorato-procedure-di-ammissione",
+        "https://pica.cineca.it/poliba/dottorato42/",
+        "https://pica.cineca.it/poliba/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "universityId": "university-of-bari",
+      "name": "University of Bari Aldo Moro",
+      "phdHubUrl": "https://www.uniba.it/it/dottorati",
+      "applicationPortal": "https://pica.cineca.it/uniba/",
+      "portalType": "pica",
+      "cycleNote": "XLII cycle a.y. 2026/2027 (DR 1897 of 9 June 2026)",
+      "typicalDeadlineWindow": "PICA open from 10 June 2026; closed 9 July 2026, 12:00 CET",
+      "englishNote": "International applicants have a dedicated vademecum on the PhD hub. Full English-taught PhD list not prominently published as a separate catalogue; many research interviews can be English-friendly—verify each course scheda. Brochure 2026 linked from hub.",
+      "programmes": [],
+      "requirements": [
+        "Public selection per XLII bando",
+        "Online application exclusively via PICA",
+        "Foreign-degree holders should follow Uniba international PhD vademecum",
+        "Contact: dottorato.ricerca@uniba.it"
+      ],
+      "selection": "Concorso per titoli ed esami (qualifications and exams) as detailed in the XLII call and course sheets.",
+      "scholarshipNote": "Funded seats defined in XLII bando/integrations; check FAQ and course annexes on Uniba dottorati pages.",
+      "sources": [
+        "https://www.uniba.it/it/dottorati",
+        "https://www.uniba.it/it/dottorati/dottorati/42-ciclo/bando-dottorato-di-ricerca-xlii-ciclo-a-a-2026-2027",
+        "https://pica.cineca.it/uniba/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "universityId": "university-of-basilicata",
+      "name": "University of Basilicata",
+      "phdHubUrl": "https://portale.unibas.it/site/home/didattica/dottorati-di-ricerca.html",
+      "applicationPortal": "https://pica.cineca.it/unibas/",
+      "portalType": "mixed",
+      "cycleNote": "PhD hub lists active programmes; XLII-specific bandi page not clearly verified at research time (prior cycle materials still linked)",
+      "typicalDeadlineWindow": "Unknown for XLII — re-check Unibas dottorati hub / Albo; historical calls annual via Euraxess/MIUR",
+      "englishNote": "At least one programme uses a bilingual title (Agricultural, forest and food sciences). No verified fully English-taught PhD catalogue found. International non-EU visa applicants referred to Universitaly rules.",
+      "programmes": [
+        {
+          "name": "Cities and landscapes: architecture, archaeology, cultural heritage, history and resources",
+          "field": "Architecture / Cultural heritage",
+          "language": "English title on official hub; verify delivery language",
+          "applyUrl": "https://portale.unibas.it/site/home/didattica/dottorati-di-ricerca.html",
+          "notes": "Listed among active Unibas PhD courses."
+        },
+        {
+          "name": "Scienze agrarie, forestali e degli alimenti / Agricultural, forest and food sciences",
+          "field": "Agriculture / Food sciences",
+          "language": "Bilingual title; verify delivery language",
+          "applyUrl": "https://portale.unibas.it/site/home/didattica/dottorati-di-ricerca.html",
+          "notes": "Listed among active Unibas PhD courses."
+        },
+        {
+          "name": "Ingegneria per l'innovazione e lo sviluppo sostenibile",
+          "field": "Engineering",
+          "language": "Italian (verify)",
+          "applyUrl": "https://portale.unibas.it/site/home/didattica/dottorati-di-ricerca.html",
+          "notes": "Listed among active Unibas PhD courses."
+        },
+        {
+          "name": "Scienze",
+          "field": "Sciences",
+          "language": "Italian (verify)",
+          "applyUrl": "https://portale.unibas.it/site/home/didattica/dottorati-di-ricerca.html",
+          "notes": "Listed among active Unibas PhD courses."
+        },
+        {
+          "name": "Storia, culture e saperi dell'Europa mediterranea dall'antichità all'età contemporanea",
+          "field": "History / Humanities",
+          "language": "Italian (verify)",
+          "applyUrl": "https://portale.unibas.it/site/home/didattica/dottorati-di-ricerca.html",
+          "notes": "Listed among active Unibas PhD courses."
+        }
+      ],
+      "requirements": [
+        "Access via public competition when annual bando is published",
+        "Second-cycle degree or equivalent",
+        "Follow enrolment instructions for year 1 / subsequent years on hub"
+      ],
+      "selection": "Public concorso as per annual call (details in XLII bando when published/located).",
+      "scholarshipNote": "National PhDs and prior PON scholarship documentation linked from hub; XLII seat table not verified here.",
+      "sources": [
+        "https://portale.unibas.it/site/home/didattica/dottorati-di-ricerca.html",
+        "https://pica.cineca.it/unibas/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "universityId": "university-of-cagliari",
+      "name": "University of Cagliari",
+      "phdHubUrl": "https://www.unica.it/unica/it/studenti_s01_ss05.page",
+      "applicationPortal": "https://pica.cineca.it/unica/dottoratixlii/",
+      "portalType": "pica",
+      "cycleNote": "XLII cycle a.y. 2026/2027",
+      "typicalDeadlineWindow": "Open/closing 7 Aug 2026 18:00 – 28 Sep 2026 23:59 local time",
+      "englishNote": "Bilingual notice and 'How to apply online – Guidelines for PICA' in English. Research project and reference-letter templates provided. Not all programmes are fully English-taught; check XLII course schede.",
+      "programmes": [],
+      "requirements": [
+        "Second-cycle degree or suitable foreign degree",
+        "Online application only via PICA (no email/PEC)",
+        "Upload evaluable documentation by deadline",
+        "Follow official PICA guidelines and research-project template"
+      ],
+      "selection": "As specified in XLII bando and descriptive course sheets (schede); typically titles + research project + interview.",
+      "scholarshipNote": "Seat/scholarship tables in XLII schede descrittive linked from Unica PhD hub.",
+      "sources": [
+        "https://www.unica.it/unica/it/studenti_s01_ss05.page",
+        "https://web.unica.it/unica/page/it/istruzioni_per_liscrizione_al_concorso_e_modulistica__bando_per_lammissione_ai_corsi_di_dottorato_del_xlii_ciclo_aa_20262027",
+        "https://pica.cineca.it/unica/dottoratixlii/",
+        "https://pica.cineca.it/unica/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "universityId": "university-of-calabria",
+      "name": "University of Calabria",
+      "phdHubUrl": "https://unical.portaleamministrazionetrasparente.it/archivio22_bandi-di-concorso_0_35736_874_1.html",
+      "applicationPortal": "https://unical.esse3.cineca.it/",
+      "portalType": "esse3",
+      "cycleNote": "XLII cycle a.y. 2026/2027 (DR 996 of 10 Aug 2026), co-funded by PR Calabria FESR FSE+ 2021-2027",
+      "typicalDeadlineWindow": "Closing 21 September 2026, 12:00 Italian time",
+      "englishNote": "No separate verified English-taught PhD catalogue found on the transparency notice. International applicants should check course annexes for interview language; English documentation commonly accepted in Italian PhD calls.",
+      "programmes": [],
+      "requirements": [
+        "Online application exclusively via Unical Esse3",
+        "Eligibility as per DR 996/2026 call",
+        "Courses start planned 1 Nov 2026"
+      ],
+      "selection": "Public selection for admission as detailed in the XLII bando (titles/exams per course annex).",
+      "scholarshipNote": "119 scholarship-funded positions, 2 reserved for foreign-state scholarship holders, 1 equivalent funding position under Horizon Europe MSCA project UNVEIL; funding from University, Regione Calabria PR, and external bodies.",
+      "sources": [
+        "https://unical.portaleamministrazionetrasparente.it/archivio22_bandi-di-concorso_0_35736_874_1.html",
+        "https://unical.esse3.cineca.it/",
+        "https://pica.cineca.it/unical/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "universityId": "university-of-campania-luigi-vanvitelli",
+      "name": "University of Campania Luigi Vanvitelli",
+      "phdHubUrl": "https://www.unicampania.it/index.php/didattica/dottorati-di-ricerca/iscriversi-ad-un-dottorato",
+      "applicationPortal": "https://pica.cineca.it/unicampania/dottorato42/",
+      "portalType": "pica",
+      "cycleNote": "XLII cycle a.y. 2026/2027",
+      "typicalDeadlineWindow": "Closed 18 June 2026 14:00 – 17 July 2026 14:00",
+      "englishNote": "Bilingual PICA calls: ordinary track and separate track reserved for foreign degrees (dottorato42-stra). Call/application pages in IT/EN. Fully English-taught programmes not separately verified—check course sheets annexed to the call.",
+      "programmes": [],
+      "requirements": [
+        "PICA application: https://pica.cineca.it/unicampania/dottorato42/domande (Italian degree track)",
+        "Foreign-degree reserved track: https://pica.cineca.it/unicampania/dottorato42-stra/domande",
+        "Follow call + errata corrige annexes"
+      ],
+      "selection": "Assessment of qualifications and interview; calendars/results published on each PhD website indicated in the course sheet.",
+      "scholarshipNote": "Scholarship allocation per annexed PhD course sheets in the XLII call.",
+      "sources": [
+        "https://www.unicampania.it/index.php/didattica/dottorati-di-ricerca/iscriversi-ad-un-dottorato",
+        "https://pica.cineca.it/unicampania/dottorato42/",
+        "https://pica.cineca.it/unicampania/dottorato42-stra/",
+        "https://www.unicampania.it/index.php/didattica/dottorati-di-ricerca"
+      ],
+      "confidence": "high"
+    },
+    {
+      "universityId": "university-of-catania",
+      "name": "University of Catania",
+      "phdHubUrl": "https://www.unict.it/it/didattica/dottorati-di-ricerca",
+      "applicationPortal": null,
+      "portalType": "unknown",
+      "cycleNote": "42nd cycle / a.y. 2026/2027 (25 programmes listed on hub)",
+      "typicalDeadlineWindow": "Not clearly extracted from hub snapshot — check Unict bandi/Albo for XLII application dates",
+      "englishNote": "Several 2026/27 programmes have English titles on the official dottorati page (e.g. Agricultural, Food and Environmental Science; Public Health and Clinical Research; Economics, Management and Decision Making). Delivery language still confirm on each course page; contact dottorati@unict.it.",
+      "programmes": [
+        {
+          "name": "Agricultural, Food and Environmental Science",
+          "field": "Agriculture / Environment",
+          "language": "English title on official list; verify teaching language",
+          "applyUrl": "https://www.unict.it/it/didattica/dottorati-di-ricerca",
+          "notes": "Listed under 2026/2027 PhD offer."
+        },
+        {
+          "name": "Basic and Applied Biomedical Sciences",
+          "field": "Biomedical sciences",
+          "language": "English title on official list; verify teaching language",
+          "applyUrl": "https://www.unict.it/it/didattica/dottorati-di-ricerca",
+          "notes": "Listed under 2026/2027 PhD offer."
+        },
+        {
+          "name": "Public Health and Clinical Research",
+          "field": "Public health / Clinical research",
+          "language": "English title on official list; verify teaching language",
+          "applyUrl": "https://www.unict.it/it/didattica/dottorati-di-ricerca",
+          "notes": "Listed under 2026/2027 PhD offer."
+        },
+        {
+          "name": "Economics, Management and Decision Making",
+          "field": "Economics / Management",
+          "language": "English title on official list; verify teaching language",
+          "applyUrl": "https://www.unict.it/it/didattica/dottorati-di-ricerca",
+          "notes": "Listed under 2026/2027 PhD offer."
+        },
+        {
+          "name": "Informatica",
+          "field": "Computer Science",
+          "language": "Italian/English-friendly (verify)",
+          "applyUrl": "https://www.unict.it/it/didattica/dottorati-di-ricerca",
+          "notes": "Listed under 2026/2027 PhD offer."
+        },
+        {
+          "name": "Pharmaceutical Science",
+          "field": "Pharmaceutical sciences",
+          "language": "English title on official list; verify teaching language",
+          "applyUrl": "https://www.unict.it/it/didattica/dottorati-di-ricerca",
+          "notes": "Listed under 2026/2027 PhD offer."
+        },
+        {
+          "name": "Neuroscienze",
+          "field": "Neurosciences",
+          "language": "Italian/English-friendly (verify)",
+          "applyUrl": "https://www.unict.it/it/didattica/dottorati-di-ricerca",
+          "notes": "Listed under 2026/2027 PhD offer."
+        },
+        {
+          "name": "Ingegneria dei sistemi, informatica e delle telecomunicazioni",
+          "field": "ICT / Systems engineering",
+          "language": "Italian/English-friendly (verify)",
+          "applyUrl": "https://www.unict.it/it/didattica/dottorati-di-ricerca",
+          "notes": "Listed under 2026/2027 PhD offer."
+        }
+      ],
+      "requirements": [
+        "Follow XLII bandi/regolamento linked from Unict PhD hub",
+        "Second-cycle degree or equivalent"
+      ],
+      "selection": "As per Unict XLII call (bandi section on hub); typically qualifications + exams/interview.",
+      "scholarshipNote": "Seat tables in XLII bandi; not fully extracted in this snapshot.",
+      "sources": [
+        "https://www.unict.it/it/didattica/dottorati-di-ricerca"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "universityId": "university-of-foggia",
+      "name": "University of Foggia",
+      "phdHubUrl": "https://www.unifg.it/sites/default/files/2026-07/dottorato-42ciclo-sc-umanistiche-bando-en_0.pdf",
+      "applicationPortal": "https://unifg.esse3.cineca.it/Home.do",
+      "portalType": "esse3",
+      "cycleNote": "42nd cycle a.y. 2026/2027",
+      "typicalDeadlineWindow": "Closing 8 September 2026, 13:00 Italian time",
+      "englishNote": "Official English call PDF. CV, research project, and reference letters may be in English. Oral interview includes English proficiency assessment and may be conducted entirely in English on request.",
+      "programmes": [
+        {
+          "name": "Basic and Clinical Neuroscience",
+          "field": "Neuroscience",
+          "language": "English-friendly (interview may be fully in English on request)",
+          "applyUrl": "https://unifg.esse3.cineca.it/Home.do",
+          "notes": "Annex A in English XLII call."
+        },
+        {
+          "name": "Biotechnology and Smart Practices for a Sustainable Management of Natural Resources, Food and Agriculture",
+          "field": "Biotechnology / Agriculture",
+          "language": "English-friendly",
+          "applyUrl": "https://unifg.esse3.cineca.it/Home.do",
+          "notes": "Annex B."
+        },
+        {
+          "name": "Law and Security",
+          "field": "Law",
+          "language": "English-friendly",
+          "applyUrl": "https://unifg.esse3.cineca.it/Home.do",
+          "notes": "Annex C."
+        },
+        {
+          "name": "Economics and Finance of Territorial Sustainability and Well-being",
+          "field": "Economics / Finance",
+          "language": "English-friendly",
+          "applyUrl": "https://unifg.esse3.cineca.it/Home.do",
+          "notes": "Annex D."
+        },
+        {
+          "name": "Medical Humanities and Welfare Policies",
+          "field": "Medical humanities / Welfare",
+          "language": "English-friendly",
+          "applyUrl": "https://unifg.esse3.cineca.it/Home.do",
+          "notes": "Annex E."
+        },
+        {
+          "name": "Education, Development and Learning Sciences",
+          "field": "Education",
+          "language": "English-friendly",
+          "applyUrl": "https://unifg.esse3.cineca.it/Home.do",
+          "notes": "Annex F."
+        },
+        {
+          "name": "Innovative Sciences and Technologies for Health and Active Ageing",
+          "field": "Health technologies / Ageing",
+          "language": "English-friendly; includes MSCA BIO-MICRO scholarships",
+          "applyUrl": "https://unifg.esse3.cineca.it/Home.do",
+          "notes": "Annex G; MSCA Doctoral Networks BIO-MICRO positions."
+        },
+        {
+          "name": "Economic and Social Sciences / Humanities",
+          "field": "Social sciences / Humanities",
+          "language": "English-friendly",
+          "applyUrl": "https://unifg.esse3.cineca.it/Home.do",
+          "notes": "Annexes H and I."
+        }
+      ],
+      "requirements": [
+        "Qualification specified in programme sheets by deadline; degree by enrolment and no later than 31 Oct",
+        "Esse3 online application only",
+        "Foreign degree translated into EN/FR/ES/DE; Dichiarazione di valore for enrolment",
+        "€30 PagoPA fee by deadline",
+        "PDF uploads (max 5 MB each)"
+      ],
+      "selection": "Titles (max 20) + research project or written test (max 40) + oral (max 60, includes English). Min 27/40 to access oral; min 41/60 to pass oral.",
+      "scholarshipNote": "Standard scholarship €16,243 gross/year; MSCA BIO-MICRO positions use EU salary tables (living/mobility/family allowances).",
+      "sources": [
+        "https://www.unifg.it/sites/default/files/2026-07/dottorato-42ciclo-sc-umanistiche-bando-en_0.pdf",
+        "https://unifg.esse3.cineca.it/Home.do",
+        "https://pica.cineca.it/unifg/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "universityId": "university-of-laquila",
+      "name": "University of L'Aquila",
+      "phdHubUrl": "https://www.univaq.it/en/",
+      "applicationPortal": "https://pica.cineca.it/univaq/",
+      "portalType": "pica",
+      "cycleNote": "XLII cycle expected for a.y. 2026/2027; specific XLII PhD call slug not clearly visible on current PICA listing snapshot",
+      "typicalDeadlineWindow": "Unknown from verified pages at research time — monitor Univaq bandi and pica.cineca.it/univaq/",
+      "englishNote": "English university portal exists. Fully English-taught PhD programmes not verified from official pages in this pass.",
+      "programmes": [],
+      "requirements": [
+        "Re-check Univaq official PhD/bandi pages for XLII call requirements when published/located"
+      ],
+      "selection": "Unknown for XLII (not verified).",
+      "scholarshipNote": "Not verified for XLII.",
+      "sources": [
+        "https://www.univaq.it/en/",
+        "https://pica.cineca.it/univaq/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "universityId": "university-of-messina",
+      "name": "University of Messina",
+      "phdHubUrl": "https://www.unime.it/bandi-e-concorsi",
+      "applicationPortal": "https://unime.esse3.cineca.it",
+      "portalType": "esse3",
+      "cycleNote": "XLII cycle a.y. 2026/2027 (15 home PhD courses; start 1 Nov 2026)",
+      "typicalDeadlineWindow": "Call references application deadline aligned with published bando (regional funding note cites mid-July 2026 context); confirm exact clock time on Unime bandi page / PDF",
+      "englishNote": "Esse3 available in Italian or English. Several programmes have English titles (Economics, Management and Statistics; Sustainability Sciences; Translational Molecular Medicine and Surgery). Oral exam verifies language required in annexes 1–15; remote interviews via Teams possible. Not all programmes are fully English-taught (e.g. Humanities written test in Italian).",
+      "programmes": [
+        {
+          "name": "Economics, Management and Statistics",
+          "field": "Economics / Management / Statistics",
+          "language": "English title; verify annex language rules",
+          "applyUrl": "https://unime.esse3.cineca.it",
+          "notes": "Listed in XLII Messina call annexes."
+        },
+        {
+          "name": "Sustainability Sciences",
+          "field": "Sustainability",
+          "language": "English title; verify annex",
+          "applyUrl": "https://unime.esse3.cineca.it",
+          "notes": "Listed in XLII call."
+        },
+        {
+          "name": "Translational Molecular Medicine and Surgery",
+          "field": "Medicine / Translational research",
+          "language": "English title; verify annex",
+          "applyUrl": "https://unime.esse3.cineca.it",
+          "notes": "Listed in XLII call."
+        },
+        {
+          "name": "Bioingegneria applicata alle scienze mediche",
+          "field": "Bioengineering",
+          "language": "Italian/English-friendly (verify annex)",
+          "applyUrl": "https://unime.esse3.cineca.it",
+          "notes": "Listed in XLII call."
+        },
+        {
+          "name": "Biologia applicata e medicina sperimentale",
+          "field": "Biology / Experimental medicine",
+          "language": "Italian/English-friendly (verify annex)",
+          "applyUrl": "https://unime.esse3.cineca.it",
+          "notes": "Listed in XLII call."
+        },
+        {
+          "name": "Fisica",
+          "field": "Physics",
+          "language": "Italian/English-friendly (verify annex)",
+          "applyUrl": "https://unime.esse3.cineca.it",
+          "notes": "Listed in XLII call."
+        },
+        {
+          "name": "Ingegneria",
+          "field": "Engineering",
+          "language": "Italian/English-friendly (verify annex)",
+          "applyUrl": "https://unime.esse3.cineca.it",
+          "notes": "Listed in XLII call."
+        },
+        {
+          "name": "Scienze chimiche",
+          "field": "Chemistry",
+          "language": "Italian/English-friendly (verify annex)",
+          "applyUrl": "https://unime.esse3.cineca.it",
+          "notes": "Listed in XLII call."
+        }
+      ],
+      "requirements": [
+        "Laurea Magistrale/Specialistica or equivalent foreign degree by deadline, or by 31 Oct 2026 if graduating later",
+        "Esse3 online application; €30 PagoPA fee (foreign residents may use bank transfer with specified IBAN)",
+        "Degree certificates translated into Italian or English as required",
+        "Separate application per PhD course"
+      ],
+      "selection": "Titles and exams; oral interview on doctoral topics plus language check; public orals, possibly multi-day; remote via Microsoft Teams possible.",
+      "scholarshipNote": "Annual scholarship €16,243 gross from 1 Jul 2022 framework; type A and co-tutoring scholarships; possible Sicily regional scholarships (Avviso 32/2026); constrained topic scholarships from companies/entities; 50% increase for approved research abroad.",
+      "sources": [
+        "https://www.unime.it/sites/default/files/2026-06/Bando%20Dottorati%20di%20Ricerca%2042%C2%B0%20ciclo%20con%20Schede_signed.pdf",
+        "https://unime.esse3.cineca.it",
+        "https://www.unime.it/bandi-e-concorsi",
+        "https://international.unime.it/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "universityId": "university-of-naples-federico-ii",
+      "name": "University of Naples Federico II",
+      "phdHubUrl": "https://www.international.unina.it/phd/",
+      "applicationPortal": "https://pica.cineca.it/unina/",
+      "portalType": "pica",
+      "cycleNote": "XLII cycle a.y. 2026/2027",
+      "typicalDeadlineWindow": "Closed 21 July 2026, 12:00 Italian time",
+      "englishNote": "International PhD courses page lists programmes in English. Documents must be translated if not in English. Good knowledge of a foreign language (EN/FR/ES/DE) required; some programmes require English oral. Thesis in Italian or English (or other language with board approval) with English summary.",
+      "programmes": [
+        {
+          "name": "Molecular Medicine and Medical Biotechnology",
+          "field": "Medicine / Biotechnology",
+          "language": "English-friendly (listed on international PhD page)",
+          "applyUrl": "https://www.international.unina.it/phd/",
+          "notes": "Listed on Unina international PhD courses page."
+        },
+        {
+          "name": "Translational Medical Sciences",
+          "field": "Translational medicine",
+          "language": "English-friendly",
+          "applyUrl": "https://www.international.unina.it/phd/",
+          "notes": "Listed on international PhD page."
+        },
+        {
+          "name": "Neurosciences",
+          "field": "Neurosciences",
+          "language": "English-friendly",
+          "applyUrl": "https://www.international.unina.it/phd/",
+          "notes": "Listed under Neurosciences and Reproductive Sciences and Dentistry area."
+        },
+        {
+          "name": "Mathematics and Applications “Renato Caccioppoli”",
+          "field": "Mathematics",
+          "language": "English-friendly",
+          "applyUrl": "https://www.international.unina.it/phd/",
+          "notes": "Listed on international PhD page."
+        },
+        {
+          "name": "Chemical, Materials and Industrial Production Engineering",
+          "field": "Engineering",
+          "language": "English-friendly",
+          "applyUrl": "https://www.international.unina.it/phd/",
+          "notes": "Listed on international PhD page."
+        },
+        {
+          "name": "Electrical and Information Technology Engineering",
+          "field": "Electrical / ICT engineering",
+          "language": "English-friendly",
+          "applyUrl": "https://www.international.unina.it/phd/",
+          "notes": "Listed on international PhD page."
+        },
+        {
+          "name": "Economy, Management, Institutions",
+          "field": "Economics / Management",
+          "language": "English-friendly",
+          "applyUrl": "https://www.international.unina.it/phd/",
+          "notes": "Listed on international PhD page."
+        },
+        {
+          "name": "Advanced Biomedical Sciences",
+          "field": "Biomedical sciences",
+          "language": "English-friendly",
+          "applyUrl": "https://www.international.unina.it/phd/",
+          "notes": "Listed on international PhD page."
+        }
+      ],
+      "requirements": [
+        "PICA application at https://pica.cineca.it/unina/ by deadline",
+        "Degree certificates with exams/study plan; translate if not English",
+        "Reference letters optional via PICA section before deadline",
+        "Foreign language proficiency demonstration rules per call"
+      ],
+      "selection": "As per Allegato A per PhD: selection modality, seats, scholarships, reserved seats, exam calendar. Some programmes require English oral.",
+      "scholarshipNote": "Number of scholarships and reserved seats listed per programme in Allegato A of XLII bando.",
+      "sources": [
+        "https://www.international.unina.it/phd/",
+        "https://pica.cineca.it/unina/",
+        "https://www.dicea.unina.it/wp-content/uploads/2026/07/DOT_42_ciclo_bando.pdf"
+      ],
+      "confidence": "high"
+    },
+    {
+      "universityId": "university-of-naples-parthenope",
+      "name": "University of Naples Parthenope",
+      "phdHubUrl": "https://www.uniparthenope.it/",
+      "applicationPortal": "https://pica.cineca.it/uniparthenope/dottorato-42-ciclo/",
+      "portalType": "pica",
+      "cycleNote": "42nd / XLII cycle",
+      "typicalDeadlineWindow": "Closed 10 June 2026 00:01 – 31 July 2026 23:59 (extended seats via DR 541/2026)",
+      "englishNote": "PICA call title in Italian; no verified fully English-taught PhD catalogue found. Confirm interview language in course annexes.",
+      "programmes": [],
+      "requirements": [
+        "Online PICA application, signature (manual or digital), and submission",
+        "If signing manually, start signature step well before deadline"
+      ],
+      "selection": "As specified in Parthenope XLII bando (not fully extracted here).",
+      "scholarshipNote": "Seat increases referenced in DR 541/2026 notice on PICA page.",
+      "sources": [
+        "https://pica.cineca.it/uniparthenope/dottorato-42-ciclo/",
+        "https://pica.cineca.it/uniparthenope/",
+        "https://www.uniparthenope.it/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "universityId": "university-of-palermo",
+      "name": "University of Palermo",
+      "phdHubUrl": "https://www.unipa.it/didattica/dottorati/",
+      "applicationPortal": "https://www.unipa.it/didattica/dottorati/dottorato-xlii/bando-di-accesso-ciclo-42/",
+      "portalType": "own",
+      "cycleNote": "Primo bando Dottorato ciclo XLII – A.A. 2026/2027",
+      "typicalDeadlineWindow": "Closed 12 August 2026, 14:59 Italian time (published 13 July 2026); orals ~7 Sep–12 Oct 2026",
+      "englishNote": "Call page bilingual for deadlines/interview window. Schede corsi 1–33 attached. Fully English-taught list not separately verified; many STEM/topic codes suggest English-capable research—check each scheda.",
+      "programmes": [],
+      "requirements": [
+        "Follow XLII bando + errata corrige on Unipa page",
+        "Course sheets 1–33 and annexes A–D",
+        "University PhD regulations apply"
+      ],
+      "selection": "Qualifications/project as per schede; oral interviews in the published window.",
+      "scholarshipNote": "Position codes and funding types detailed in XLII schede (including CNR co-funded and themed positions).",
+      "sources": [
+        "https://www.unipa.it/didattica/dottorati/dottorato-xlii/bando-di-accesso-ciclo-42/",
+        "https://www.unipa.it/didattica/dottorati/",
+        "https://www.unipa.it/amministrazione/areaqualita/settoreservizialladidattica/u.o.dottoratidiricerca/",
+        "https://pica.cineca.it/unipa/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "universityId": "university-of-salento",
+      "name": "University of Salento",
+      "phdHubUrl": "https://www.unisalento.it/ricerca/dottorati",
+      "applicationPortal": "https://studenti.unisalento.it",
+      "portalType": "esse3",
+      "cycleNote": "XLII cycle a.y. 2026/2027 — 12 PhD courses (DR 597/2026) plus national industrial PhD call (DR 600/2026)",
+      "typicalDeadlineWindow": "Main 12-course call closed 5 Aug 2026 23:59; national industrial PhD call closed 6 Aug 2026 23:59",
+      "englishNote": "Hub publishes bilingual PhD Call labels. National industrial PhD title in English: Regulation, Management and law of Public Sector Organizations. Most home programmes not verified as fully English-taught.",
+      "programmes": [
+        {
+          "name": "Regulation, Management and law of Public Sector Organizations (National PhD with industrial characterisation)",
+          "field": "Public sector regulation / Law / Management",
+          "language": "English title; verify delivery language in scheda",
+          "applyUrl": "https://www.unisalento.it/ricerca/dottorati",
+          "notes": "XLII national industrial PhD call DR 600/2026."
+        }
+      ],
+      "requirements": [
+        "Online application only via https://studenti.unisalento.it (SPID or registration)",
+        "€20 PagoPA fee per PhD course applied to",
+        "Separate application per competition",
+        "Deadline = 30th day from day after albo publication (operational deadlines shown on hub)"
+      ],
+      "selection": "Per Regolamento dottorati and course annexes A–N; typically titles and interview/exams.",
+      "scholarshipNote": "ISUFI College pathway may add free housing and abroad-support contribution for selected winners (separate later call ~Sep 2026).",
+      "sources": [
+        "https://www.unisalento.it/ricerca/dottorati",
+        "https://studenti.unisalento.it",
+        "https://international.unisalento.it/",
+        "https://trasparenza.unisalento.it/download/1980940.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "universityId": "university-of-salerno",
+      "name": "University of Salerno",
+      "phdHubUrl": "https://web.unisa.it/didattica/dottorati",
+      "applicationPortal": "https://web.unisa.it/didattica/dottorati/bandi",
+      "portalType": "esse3",
+      "cycleNote": "XLII cycle — public selection for 74 places of which 62 with scholarship (Rep. 1264/2026)",
+      "typicalDeadlineWindow": "Applications open from 6 July 2026; closed 6 August 2026, 15:00",
+      "englishNote": "Several XLII courses use English titles (e.g. Data Science, Accounting & Management; Educational and Social Research). Confirm teaching/interview language on each scheda. ESSE3 student area used for university services.",
+      "programmes": [
+        {
+          "name": "Data Science, Accounting & Management",
+          "field": "Data science / Accounting / Management",
+          "language": "English title; verify scheda",
+          "applyUrl": "https://web.unisa.it/didattica/dottorati/bandi",
+          "notes": "Code DOT227NLPN on XLII bandi page."
+        },
+        {
+          "name": "Educational and Social Research. Society and Teaching-Learning Studies",
+          "field": "Education / Social research",
+          "language": "English title; verify scheda",
+          "applyUrl": "https://web.unisa.it/didattica/dottorati/bandi",
+          "notes": "Code DOT22JCJHW."
+        },
+        {
+          "name": "Economia e politiche dei mercati e delle imprese",
+          "field": "Economics",
+          "language": "Italian (verify)",
+          "applyUrl": "https://web.unisa.it/didattica/dottorati/bandi",
+          "notes": "Code DOT1328382."
+        },
+        {
+          "name": "Fisica e tecnologie emergenti",
+          "field": "Physics",
+          "language": "Italian/English-friendly (verify)",
+          "applyUrl": "https://web.unisa.it/didattica/dottorati/bandi",
+          "notes": "Code DOT22E5Y2H."
+        },
+        {
+          "name": "Scienze giuridiche",
+          "field": "Law",
+          "language": "Italian (verify)",
+          "applyUrl": "https://web.unisa.it/didattica/dottorati/bandi",
+          "notes": "Code DOT1328447."
+        },
+        {
+          "name": "Studi letterari, linguistici e storici",
+          "field": "Humanities",
+          "language": "Italian (verify)",
+          "applyUrl": "https://web.unisa.it/didattica/dottorati/bandi",
+          "notes": "Code DOT1328978."
+        }
+      ],
+      "requirements": [
+        "Follow XLII Ateneo bando PDF and course sheets on Bandi e Circolari",
+        "Titles and interview selection for 74 places"
+      ],
+      "selection": "Public selection by qualifications and interview (titoli e colloquio).",
+      "scholarshipNote": "74 places total, 62 with scholarship across listed PhD courses.",
+      "sources": [
+        "https://web.unisa.it/didattica/dottorati",
+        "https://web.unisa.it/didattica/dottorati/bandi",
+        "https://pica.cineca.it/unisa/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "universityId": "university-of-sassari",
+      "name": "University of Sassari",
+      "phdHubUrl": "https://www.uniss.it/en",
+      "applicationPortal": "https://pica.cineca.it/uniss/",
+      "portalType": "mixed",
+      "cycleNote": "XLII cycle — at least PhD in Chemical Sciences and Technologies call published Aug 2026",
+      "typicalDeadlineWindow": "Chemical Sciences XLII call closing 8 September 2026, 13:00 (other Uniss XLII courses: verify central bandi)",
+      "englishNote": "English university portal exists. No verified fully English-taught PhD catalogue found; STEM chemistry programme may allow English research—confirm in bando.",
+      "programmes": [
+        {
+          "name": "Scienze e Tecnologie Chimiche",
+          "field": "Chemistry",
+          "language": "Italian (English-friendly research possible; verify bando)",
+          "applyUrl": "https://dcf.uniss.it/it/avvisi/pubblicato-il-bando-di-concorso-lammissione-al-xlii-ciclo-dottorato-scienze-e-tecnologie",
+          "notes": "XLII call published 13 Aug 2026; deadline 8 Sep 2026 13:00."
+        }
+      ],
+      "requirements": [
+        "Follow programme-specific XLII bando linked from department notice",
+        "Second-cycle degree / eligibility as in call"
+      ],
+      "selection": "As per Chemical Sciences XLII bando (details on linked bando page).",
+      "scholarshipNote": "Not fully extracted; see programme bando.",
+      "sources": [
+        "https://dcf.uniss.it/it/avvisi/pubblicato-il-bando-di-concorso-lammissione-al-xlii-ciclo-dottorato-scienze-e-tecnologie",
+        "https://pica.cineca.it/uniss/",
+        "https://www.uniss.it/en"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "universityId": "university-of-teramo",
+      "name": "University of Teramo",
+      "phdHubUrl": "https://www.unite.it/English/Research/PhD_Courses",
+      "applicationPortal": "https://pica.cineca.it/unite/phd42/",
+      "portalType": "pica",
+      "cycleNote": "42nd cycle a.y. 2026/2027",
+      "typicalDeadlineWindow": "Closed 27 April 2026 11:00 – 27 May 2026 11:00 (early among southern calls)",
+      "englishNote": "English Research/PhD Courses page exists for international students. Fully English-taught programme list not verified from the short EN page snapshot; check Italian bandi/PICA annexes.",
+      "programmes": [],
+      "requirements": [
+        "PICA application (codes phd42 / unite-phd-2026 observed on portal)",
+        "Eligibility as in XLII bando"
+      ],
+      "selection": "As per Unite XLII bando (not fully extracted).",
+      "scholarshipNote": "Not fully extracted from PICA listing.",
+      "sources": [
+        "https://www.unite.it/English/Research/PhD_Courses",
+        "https://pica.cineca.it/unite/phd42/",
+        "https://pica.cineca.it/unite/"
+      ],
+      "confidence": "medium"
+    }
+  ]
+}

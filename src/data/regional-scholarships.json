@@ -1,0 +1,885 @@
+{
+  "lastUpdated": "2026-09-08",
+  "intake": "2026/2027 and 2027/2028",
+  "generalGuide": {
+    "steps": [
+      "Shortlist the university and note its region / DSU agency (DiSCo, ERSU, ADISU, Edisu, ARDSU, ESU, Opera Universitaria, provincial office, or university-run DSU).",
+      "Track the annual bando on the official agency site (usually published June–September for the academic year starting in autumn).",
+      "Prepare economic documents early: Italian ISEE Università if the household is in Italy; otherwise ISEE Parificato / ISEEUP via a CAF convenzionato with that agency or university.",
+      "Submit the online application within the peremptory deadline (often before final enrollment is complete—check each bando).",
+      "Complete Universitaly pre-enrollment (non-EU) and university enrollment, then upload residence permit / ricevuta and IBAN when required to avoid suspension of payments.",
+      "Monitor provisional and definitive rankings; meet merit (CFU) deadlines to keep the second installment."
+    ],
+    "nationalNotes": [
+      "Regional right-to-study benefits (D.Lgs. 68/2012) are means- and merit-tested. MUR sets national ISEE/ISPE ceilings and minimum scholarship amounts each year; regions may set lower ceilings.",
+      "ISEE Parificato (also called ISEEUP / ISEEU Parificato) is required when the student’s family income/assets are abroad or when a standard INPS ISEE Università cannot be issued (typical for Pakistani and other non-EU students whose household is outside Italy).",
+      "Foreign income/asset certificates must usually be issued by competent authorities in the country of origin, translated into Italian, and legalized (Apostille or Italian Embassy/Consulate). Pakistan: legalization via Italian Embassy/Consulate routes applies.",
+      "Universitaly pre-enrollment is separate from DSU: non-EU students need an admission offer, Universitaly pre-enrollment, and a study visa; DSU applications often allow applying before enrollment is finalized, with a later enrollment deadline in the bando.",
+      "Winning or being idoneo (eligible) for a regional scholarship usually brings exemption/refund of the regional DSU tax and often university tuition reduction or waiver—confirm in each bando.",
+      "Typical benefits package: cash stipend (higher for fuori sede), canteen/meals, housing or housing contribution, sometimes international mobility top-up and graduation prize.",
+      "MAECI / Invest Your Talent and other national/university merit scholarships are separate from regional DSU; check cumulation rules in each call.",
+      "2027/2028 bandi are generally not yet published as of 2026-09-08; expect similar calendars (approx. Jun–Sep openings) unless a region announces otherwise."
+    ]
+  },
+  "regions": [
+    {
+      "id": "lazio",
+      "region": "Lazio",
+      "regionIt": "Lazio",
+      "agencyName": "Lazio DiSCo (formerly Laziodisu)",
+      "portalUrl": "https://laziodisco.it/",
+      "applyUrl": "https://laziodisco.it/bando-diritto-allo-studio-2026-2027/",
+      "typicalBenefits": [
+        "Scholarship stipend (borsa di studio)",
+        "University housing (posto alloggio)",
+        "Discounted / free canteen meals",
+        "International mobility contribution",
+        "Graduation award (premio di laurea)",
+        "Regional tax refund / tuition-related benefits for idonei"
+      ],
+      "typicalDocuments": [
+        "Passport",
+        "Codice fiscale",
+        "ISEEUP (ISEE Parificato) via DiSCo-convenzionato CAF",
+        "Enrollment certificate or declared intended enrollment",
+        "Residence permit or postal kit ricevuta (extra-UE)",
+        "Italian/SEPA IBAN in student’s name",
+        "Housing contract if claiming fuori sede status when required"
+      ],
+      "deadlineNote": "a.y. 2026/2027: applications 10 Jun 2026 – 22 Jul 2026 12:00 (first phase); modification phase 29 Jul – 11 Aug 2026 12:00. ISEEUP for international students must be signed at a convenzionato CAF by 10 Dec 2026. Enrollment may be completed by 10 Feb 2027. Official dates from laziodisco.it.",
+      "openPeriod": "10 Jun 2026 – 22 Jul 2026 (closed for 2026/27)",
+      "status": "closed",
+      "priority": 0,
+      "citiesServed": ["Rome", "Cassino", "Viterbo", "Latina", "Rieti"],
+      "notes": "Priority KS Abroad region. Non-EU students without Italian ID register on DiSCo then identify in person at a convenzionato CAF when computing ISEEUP. International students with ≥50% of household abroad are treated as fuori sede by default (with exceptions for telematic/distance courses). Separate from Universitaly; apply even before enrollment if intending to enroll in a Lazio HEI.",
+      "sources": [
+        "https://laziodisco.it/bando-diritto-allo-studio-2026-2027/",
+        "https://laziodisco.it/bando-diritto-allo-studio-2026-2027/faq-studenti-internazionali/",
+        "https://laziodisco.it/news-en/on-line-il-bando-diritto-allo-studio-2026-2027/?lang=en",
+        "https://laziodisco.it/wp-content/uploads/2026/06/BANDO-DIRITTO-ALLO-STUDIO-26-27-1.pdf"
+      ]
+    },
+    {
+      "id": "abruzzo",
+      "region": "Abruzzo",
+      "regionIt": "Abruzzo",
+      "agencyName": "ADSU Abruzzo (multiple provincial agencies)",
+      "agencies": [
+        {
+          "name": "ADSU L'Aquila",
+          "portalUrl": "https://www.adsuaq.org/",
+          "cities": ["L'Aquila"],
+          "deadlineNote": "a.y. 2026/2027 deadline 31 Aug 2026 (official ADSU L'Aquila bando)."
+        },
+        {
+          "name": "ADSU Chieti-Pescara",
+          "portalUrl": "https://www.adsuchietipescara.it/",
+          "cities": ["Chieti", "Pescara"],
+          "deadlineNote": "a.y. 2026/2027 scholarship/housing deadline reported 1 Sep 2026."
+        },
+        {
+          "name": "ADSU Teramo",
+          "portalUrl": "https://www.adsuteramo.it/",
+          "cities": ["Teramo"],
+          "deadlineNote": "a.y. 2026/2027 online applications by 7 Sep 2026 12:00; ISEE ≤ €24,335.11 / ISPE ≤ €52,902.43 (reported from bando coverage)."
+        }
+      ],
+      "portalUrl": "https://www.adsuaq.org/",
+      "applyUrl": "https://www.adsuaq.org/",
+      "typicalBenefits": [
+        "Scholarship stipend",
+        "Housing (where offered by the local ADSU)",
+        "Canteen / meal services",
+        "Regional tax refund for idonei"
+      ],
+      "typicalDocuments": [
+        "Passport / ID",
+        "Codice fiscale",
+        "ISEE Università 2026 or ISEE Parificato for foreign income",
+        "Enrollment proof for UniAq / UdA / UniTe or AFAM as applicable",
+        "IBAN",
+        "Residence permit (extra-UE)"
+      ],
+      "deadlineNote": "a.y. 2026/2027: L'Aquila 31 Aug 2026; Chieti-Pescara ~1 Sep 2026; Teramo 7 Sep 2026 12:00. All main degree windows closed as of 2026-09-08. Apply to the ADSU tied to your university city—not a single regional portal.",
+      "openPeriod": "Usually Jul–early Sep (closed for 2026/27 main windows)",
+      "status": "closed",
+      "priority": 1,
+      "citiesServed": ["L'Aquila", "Chieti", "Pescara", "Teramo"],
+      "notes": "Three separate ADSU agencies. Pakistani/international students need ISEE Parificato via CAF when household income is abroad. Match the ADSU to the university of enrollment.",
+      "sources": [
+        "https://www.adsuaq.org/",
+        "https://www.adsuchietipescara.it/",
+        "https://www.adsuteramo.it/",
+        "https://www.abruzzoweb.it/adsu-laquila-pubblicato-bando-borse-di-studio-2026-2027-scadenza-dei-termini-fissata-al-31-agosto/",
+        "https://www.studenti.it/borse-di-studio-2026-27-abruzzo-bando-requisiti-e-scadenze.html"
+      ]
+    },
+    {
+      "id": "basilicata",
+      "region": "Basilicata",
+      "regionIt": "Basilicata",
+      "agencyName": "ARDSU Basilicata",
+      "portalUrl": "https://www.ardsubasilicata.it/",
+      "applyUrl": "https://www.ardsubasilicata.it/",
+      "typicalBenefits": [
+        "Scholarship stipend",
+        "University housing (posto alloggio)",
+        "Related DSU services per bando"
+      ],
+      "typicalDocuments": [
+        "Passport",
+        "Codice fiscale",
+        "ISEE Università / ISEE Parificato",
+        "Enrollment or intended enrollment at Università della Basilicata",
+        "IBAN",
+        "Residence permit (extra-UE)"
+      ],
+      "deadlineNote": "a.y. 2026/2027: online applications 24 Aug 2026 09:00 – 2 Oct 2026 23:59. ISEE ≤ €28,339.88 / ISPE ≤ €61,608.48 (national-aligned ceilings reported for this call). Official dates from ARDSU / press coverage of the published bando.",
+      "openPeriod": "24 Aug 2026 – 2 Oct 2026",
+      "status": "open",
+      "priority": 1,
+      "citiesServed": ["Potenza", "Matera"],
+      "notes": "Single regional agency for UniBas students. Confirm ISEE Parificato CAF instructions in the current bando. Portal sometimes shows maintenance—retry or use contacts on the site.",
+      "sources": [
+        "https://www.ardsubasilicata.it/",
+        "https://www.studenti.it/borse-di-studio-2026-27-basilicata-bando-requisiti-e-scadenze.html"
+      ]
+    },
+    {
+      "id": "calabria",
+      "region": "Calabria",
+      "regionIt": "Calabria",
+      "agencyName": "University-managed DSU (no single regional ERSU)",
+      "agencies": [
+        {
+          "name": "Università della Calabria – Diritto allo Studio",
+          "portalUrl": "https://www.unical.it/didattica/diritto-allo-studio/borse-di-studio/",
+          "applyUrl": "https://www.unical.it/didattica/diritto-allo-studio/borse-di-studio/",
+          "cities": ["Rende", "Cosenza"],
+          "deadlineNote": "a.y. 2026/2027: subsequent years by 21 Aug 2026 12:00; first-year LT/LMCU by 6 Aug 2026; LM phase 1 by 31 Jul 2026; LM phase 2 7–30 Sep 2026 12:00."
+        },
+        {
+          "name": "Fondazione UMG (Università Magna Graecia Catanzaro)",
+          "portalUrl": "https://www.fondazioneumg.it/",
+          "applyUrl": "https://dirittoallostudio.fondazioneumg.it/",
+          "cities": ["Catanzaro"],
+          "deadlineNote": "a.y. 2026/2027 applications due 8 Sep 2026 12:00. International students may use FUMG PIN/password registration."
+        },
+        {
+          "name": "Università Mediterranea di Reggio Calabria – DSU",
+          "portalUrl": "https://www.unirc.it/",
+          "applyUrl": "https://www.unirc.it/",
+          "cities": ["Reggio Calabria"],
+          "deadlineNote": "a.y. 2026/2027 unique call open 6 Jul 2026 – 30 Sep 2026 14:00 (also covers local AFAM)."
+        }
+      ],
+      "portalUrl": "https://www.unical.it/didattica/diritto-allo-studio/borse-di-studio/",
+      "applyUrl": "https://www.unical.it/didattica/diritto-allo-studio/borse-di-studio/",
+      "typicalBenefits": [
+        "Scholarship stipend",
+        "Housing / residential services",
+        "Canteen",
+        "International mobility contribution",
+        "Graduation prize (where offered)",
+        "UMG: Reddito di Merito (Calabrian-specific merit measure—check eligibility)"
+      ],
+      "typicalDocuments": [
+        "Passport",
+        "Codice fiscale",
+        "ISEE Università / ISEE Parificato",
+        "University credentials (Unical ID / SPID / FUMG PIN)",
+        "Enrollment proof",
+        "IBAN",
+        "Residence permit (extra-UE)"
+      ],
+      "deadlineNote": "Calabria has no single ERSU: each university/foundation publishes its own bando. As of 2026-09-08: Unical LM phase 2 open to 30 Sep; UniRC open to 30 Sep 14:00; Fondazione UMG closes 8 Sep 2026 12:00. Earlier Unical windows already closed.",
+      "openPeriod": "Jul–Sep (agency-specific; some windows still open)",
+      "status": "open",
+      "priority": 1,
+      "citiesServed": ["Rende", "Cosenza", "Catanzaro", "Reggio Calabria"],
+      "notes": "Apply only to the DSU office of the university you enroll in. International students: ISEE Parificato; Fondazione UMG allows non-SPID access via PIN registration. Unical first-year applicants must already be formally enrolled before applying.",
+      "sources": [
+        "https://www.unical.it/didattica/diritto-allo-studio/borse-di-studio/",
+        "https://www.unical.it/media/medias/2026/Bando-diritto-allo-studio-2026.27_signed.pdf",
+        "https://dirittoallostudio.fondazioneumg.it/",
+        "https://www.unirc.it/sites/default/files/2026-07/BANDO%20DSU%2026_27.pdf",
+        "https://www.studenti.it/borse-di-studio-2026-27-calabria-bando-requisiti-e-scadenze.html"
+      ]
+    },
+    {
+      "id": "campania",
+      "region": "Campania",
+      "regionIt": "Campania",
+      "agencyName": "A.Di.S.U.R.C. (ADISURC)",
+      "portalUrl": "https://www.adisurcampania.it/",
+      "applyUrl": "https://www.adisurcampania.it/",
+      "typicalBenefits": [
+        "Scholarship stipend (up to ~€7,171 fuori sede reported for 2026/27)",
+        "University housing (Napoli, Pozzuoli, Aversa, Fisciano, Baronissi, Benevento)",
+        "International mobility contribution (up to €600/month integrated + travel lump sums)",
+        "Regional tax handling for idonei"
+      ],
+      "typicalDocuments": [
+        "Passport",
+        "Codice fiscale",
+        "ISEE Università (pulled from INPS) or ISEE Parificato via listed CAF (CGIL/MCL locandine published with bando)",
+        "Declared university of enrollment / regional tax payment",
+        "IBAN (by 15 Nov 2026 per reported calendar)",
+        "Residence permit (extra-UE)",
+        "Housing contract for fuori sede when not in ADISU residence"
+      ],
+      "deadlineNote": "a.y. 2026/2027: bando published 24 Jul 2026; applications due 10 Sep 2026 12:00. Provisional rankings ~31 Oct 2026; enrollment deadline for eligibility 31 Mar 2027. Official ADISURC dates.",
+      "openPeriod": "24 Jul 2026 – 10 Sep 2026 12:00",
+      "status": "open",
+      "priority": 1,
+      "citiesServed": ["Naples", "Salerno", "Caserta", "Benevento", "Aversa", "Fisciano", "Baronissi", "Pozzuoli"],
+      "notes": "Single regional agency for Campania HEIs. English version of the bando is published. International students use ISEEUP/Parificato via convenzionato CAF (see locandine). Application auto-includes scholarship; housing and mobility must be explicitly selected.",
+      "sources": [
+        "https://adisurcampania.it/notizie/approvazione-bando-di-concorso-20262027",
+        "https://www.adisurcampania.it/borse-e-contributi/borse-di-studio",
+        "https://www.adisurcampania.it/sites/default/files/2026-07/Bando%20di%20Concorso%20a.a.%202026.27.pdf",
+        "https://www.adisurcampania.it/faq/faq-borse-di-studio"
+      ]
+    },
+    {
+      "id": "emilia-romagna",
+      "region": "Emilia-Romagna",
+      "regionIt": "Emilia-Romagna",
+      "agencyName": "ER.GO",
+      "portalUrl": "https://www.er-go.it/",
+      "applyUrl": "https://www.er-go.it/cosa-fare-per/bandi-di-concorso/leggi-il-bando",
+      "typicalBenefits": [
+        "Scholarship stipend",
+        "Total fee exemption for scholarship applicants (where applicable)",
+        "University housing",
+        "Canteen",
+        "Training vouchers / part-time collaborations (separate windows)",
+        "Extra-EU flat-tax / no-tax area procedures coordinated with some universities (e.g. UNIMORE)"
+      ],
+      "typicalDocuments": [
+        "Passport / ID",
+        "Codice fiscale",
+        "ISEE Università / ISEE Parificato",
+        "University credentials or international access via ergoid@er-go.it if needed",
+        "Enrollment / regional DSU tax",
+        "IBAN",
+        "Residence permit (extra-UE)"
+      ],
+      "deadlineNote": "a.y. 2026/2027: applications from 23 Jun 2026; scholarship deadline 24 Aug 2026 16:00 (CLOSED). Housing: renewals/subsequent years 6 Aug 2026; freshmen housing 24 Aug 2026. Provisional scholarship ranking 20 Oct 2026.",
+      "openPeriod": "23 Jun 2026 – 24 Aug 2026 (scholarship closed)",
+      "status": "closed",
+      "priority": 3,
+      "citiesServed": ["Bologna", "Modena", "Reggio Emilia", "Parma", "Ferrara", "Cesena", "Forlì", "Rimini", "Ravenna", "Piacenza"],
+      "notes": "English guide published on er-go.it. International students without Italian ID can contact ergoid@er-go.it for dossier access. righttostudy.unibo.it often mirrors Unibo-specific guidance but the formal call is ER.GO.",
+      "sources": [
+        "https://www.er-go.it/cosa-fare-per/bandi-di-concorso/leggi-il-bando",
+        "https://www.er-go.it/cosa-fare-per/bandi-di-concorso/graduatorie",
+        "https://www.er-go.it/dossier-utente",
+        "https://www.studenti.it/borse-di-studio-2026-27-emilia-romagna-bando-requisiti-e-scadenze.html"
+      ]
+    },
+    {
+      "id": "friuli-venezia-giulia",
+      "region": "Friuli-Venezia Giulia",
+      "regionIt": "Friuli-Venezia Giulia",
+      "agencyName": "ARDIS FVG",
+      "portalUrl": "https://ardis.fvg.it/",
+      "applyUrl": "https://ardiss-sol.dirittoallostudio.it/apps/V3.1/sol/public/",
+      "typicalBenefits": [
+        "Scholarship stipend",
+        "University housing",
+        "Substitute housing contribution",
+        "International mobility contribution"
+      ],
+      "typicalDocuments": [
+        "SPID / CIE / eIDAS (EU)",
+        "Passport and temporary credentials pathway if needed",
+        "ISEE Università / ISEE Parificato",
+        "Enrollment at UniUD / UniTS / conservatories / ABA Tiepolo",
+        "Paid housing contract data for fuori sede first installment",
+        "IBAN",
+        "Residence permit (extra-UE)"
+      ],
+      "deadlineNote": "a.y. 2026/2027 unique bando; applications from ~15 Jul 2026. Housing windows Jul–Sep; scholarship deadlines include 17 Sep 2026 and 30 Oct 2026 depending on category (see official scadenzario PDF). Confirm exact slot on ardis.fvg.it.",
+      "openPeriod": "From ~15 Jul 2026; scholarship windows into Sep–Oct 2026",
+      "status": "open",
+      "priority": 3,
+      "citiesServed": ["Trieste", "Udine", "Gorizia", "Pordenone", "Gemona del Friuli"],
+      "notes": "Online-only via ARDIS SOL. SPID/CIE required for most; eIDAS for EU. International non-EU students should follow the agency’s registration instructions if SPID is unavailable.",
+      "sources": [
+        "https://ardis.fvg.it/contenuti.php?id=11358&view=news",
+        "https://www.ardis.fvg.it/upload/schede/1782378523.pdf",
+        "https://ardiss-sol.dirittoallostudio.it/apps/V3.1/sol/public/"
+      ]
+    },
+    {
+      "id": "liguria",
+      "region": "Liguria",
+      "regionIt": "Liguria",
+      "agencyName": "ALISEO Liguria",
+      "portalUrl": "https://www.aliseo.liguria.it/",
+      "applyUrl": "https://www.aliseo.liguria.it/benefici-economici-universitari/borsa-di-studio-universitaria/bando-2026-2027-istruzioni-per-luso/",
+      "typicalBenefits": [
+        "Scholarship stipend",
+        "University housing",
+        "Related university benefits per bando"
+      ],
+      "typicalDocuments": [
+        "SPID / CIE or ALISEO accreditation",
+        "Passport",
+        "ISEE Università / ISEEUP Parificato",
+        "Enrollment at UniGe or covered AFAM",
+        "IBAN",
+        "Residence permit (extra-UE)"
+      ],
+      "deadlineNote": "a.y. 2026/2027 main window 15 Jun 2026 – 31 Jul 2026 12:00 (CLOSED). Separate later window for semestre-filtro transfers into UniGe (check ALISEO notices).",
+      "openPeriod": "15 Jun 2026 – 31 Jul 2026 (closed)",
+      "status": "closed",
+      "priority": 3,
+      "citiesServed": ["Genoa", "La Spezia", "Savona", "Imperia"],
+      "notes": "International students without SPID use ALISEO accreditation. ISEEUP required for foreign household income. MUR poor-countries list may affect documentation for some nationalities—verify current annex.",
+      "sources": [
+        "https://www.aliseo.liguria.it/benefici-economici-universitari/borsa-di-studio-universitaria/bando-2026-2027-istruzioni-per-luso/",
+        "https://www.aliseo.liguria.it/"
+      ]
+    },
+    {
+      "id": "lombardia",
+      "region": "Lombardy",
+      "regionIt": "Lombardia",
+      "agencyName": "Regione Lombardia DSU (administered by each university / ISU)",
+      "agencies": [
+        {
+          "name": "Università degli Studi di Milano – Borse regionali",
+          "portalUrl": "https://www.unimi.it/it/studiare/borse-premi-mense-e-alloggi/borse-di-studio-regionali",
+          "applyUrl": "https://www.unimi.it/it/studiare/borse-premi-mense-e-alloggi/borse-di-studio-regionali",
+          "deadlineNote": "a.y. 2026/2027: 10 Jul – 30 Sep 2026; housing earlier (by 7 Aug 2026 for DSU signature related to housing)."
+        },
+        {
+          "name": "Politecnico di Milano – DSU",
+          "portalUrl": "https://www.polimi.it/diritto-allo-studio",
+          "applyUrl": "https://www.polimi.it/fileadmin/user_upload/studenti/tasse-borse-agevolazioni-economiche/dsu/bando_2026-2027/DSU_Call_a.y._2026-2027.pdf",
+          "deadlineNote": "a.y. 2026/2027 call published May 2026; check PoliMi scadenzario in the English/Italian bando for category deadlines."
+        },
+        {
+          "name": "ISU Bocconi",
+          "portalUrl": "https://www.unibocconi.it/it/entrare-bocconi/corsi-di-laurea-triennale-e-giurisprudenza/agevolazioni/borsa-di-studio-isu-bocconi-aa-2026-27-timeline",
+          "deadlineNote": "a.y. 2026/2027 ISU online window reported 25 May – 25 Jun 2026 (tied to admission rounds); ISEEU Parificato via CAF from 1 Dec 2025."
+        },
+        {
+          "name": "Other Lombardy HEIs (Bicocca, Cattolica, Bergamo, Brescia, Insubria, Pavia, etc.)",
+          "portalUrl": "https://www.regione.lombardia.it/istruzione-formazione-e-lavoro/universita-e-formazione-accademica/red-diritto-allo-studio-universitario",
+          "deadlineNote": "Each university publishes its own bando applying Regione Lombardia criteria (DGR XII/6298/2026)."
+        }
+      ],
+      "portalUrl": "https://www.regione.lombardia.it/istruzione-formazione-e-lavoro/universita-e-formazione-accademica/red-diritto-allo-studio-universitario",
+      "applyUrl": "https://www.regione.lombardia.it/istruzione-formazione-e-lavoro/universita-e-formazione-accademica/borse-di-studio-universitarie-2026-2027",
+      "typicalBenefits": [
+        "Regional scholarship stipend (approx. €2,991 in-sede / €4,191 pendolare / €7,172 fuori sede for 2026/27 regional averages)",
+        "Housing where the university offers it",
+        "Canteen / meal benefits where available",
+        "Fee reductions linked to idoneità"
+      ],
+      "typicalDocuments": [
+        "Passport",
+        "Codice fiscale",
+        "ISEE Università or ISEEU/ISPEU Parificato for foreign income",
+        "University portal credentials",
+        "Enrollment / first installment payment",
+        "IBAN or university badge payment channel",
+        "Residence permit (extra-UE)",
+        "Paid rent contract for fuori sede"
+      ],
+      "deadlineNote": "No single regional application portal. Regione Lombardia set 2026/27 criteria (ISEE ≤ €26,887.93; ISPE ≤ €58,452.06). UniMi deadline 30 Sep 2026 (still open). Other HEIs: check each bando—many summer windows already closed.",
+      "openPeriod": "University-specific; UniMi open until 30 Sep 2026",
+      "status": "open",
+      "priority": 3,
+      "citiesServed": ["Milan", "Bergamo", "Brescia", "Pavia", "Varese", "Como", "Cremona", "Mantua"],
+      "notes": "Apply on the university’s DSU/ISU portal after/while applying for admission. Pakistani students typically need ISEE Parificato through the CAF convenzionato with that university. Bocconi ISU is the regional DSU channel for Bocconi students.",
+      "sources": [
+        "https://www.regione.lombardia.it/istruzione-formazione-e-lavoro/universita-e-formazione-accademica/borse-di-studio-universitarie-2026-2027",
+        "https://www.unimi.it/it/studiare/borse-premi-mense-e-alloggi/borse-di-studio-regionali",
+        "https://www.unimi.it/sites/default/files/2026-07/Bando_Borse_regionali%202026-27_IT_0.pdf",
+        "https://www.polimi.it/fileadmin/user_upload/studenti/tasse-borse-agevolazioni-economiche/dsu/bando_2026-2027/DSU_Call_a.y._2026-2027.pdf",
+        "https://www.unibocconi.it/it/studenti-iscritti/agevolazioni/attestazione-iseeu-parificato-aa-2026-27"
+      ]
+    },
+    {
+      "id": "marche",
+      "region": "Marche",
+      "regionIt": "Marche",
+      "agencyName": "ERDIS Marche",
+      "portalUrl": "https://erdis.it/",
+      "applyUrl": "https://erdis.it/servizi/servizio-dettaglio/3161252",
+      "typicalBenefits": [
+        "Scholarship stipend",
+        "Housing / other DSU services per bando",
+        "Canteen where available"
+      ],
+      "typicalDocuments": [
+        "Passport / SPID",
+        "Codice fiscale",
+        "ISEE Università / ISEE Parificato",
+        "Enrollment at a Marche HEI",
+        "IBAN",
+        "Residence permit (extra-UE)"
+      ],
+      "deadlineNote": "a.y. 2026/2027 scholarship applications due 28 Aug 2026 (CLOSED). Separate rules/possible later bando for semestre aperto medicine-related transfers.",
+      "openPeriod": "Until 28 Aug 2026 (closed)",
+      "status": "closed",
+      "priority": 2,
+      "citiesServed": ["Ancona", "Urbino", "Camerino", "Macerata", "Ascoli Piceno", "Pesaro"],
+      "notes": "Single regional ERDIS portal for Marche universities. International students: prepare ISEE Parificato before the summer deadline.",
+      "sources": [
+        "https://erdis.it/servizi/servizio-dettaglio/3161252",
+        "https://erdis.it/"
+      ]
+    },
+    {
+      "id": "molise",
+      "region": "Molise",
+      "regionIt": "Molise",
+      "agencyName": "ESU Molise",
+      "portalUrl": "https://www.esu.molise.it/",
+      "applyUrl": "https://www.esu.molise.it/",
+      "typicalBenefits": [
+        "Scholarship stipend",
+        "Canteen / meal service",
+        "Housing / housing contribution when offered",
+        "Regional tax refund for winners and idonei non beneficiari"
+      ],
+      "typicalDocuments": [
+        "Passport",
+        "Codice fiscale",
+        "ISEE Università / ISEE Parificato",
+        "Enrollment at Università degli Studi del Molise",
+        "IBAN",
+        "Residence permit (extra-UE)"
+      ],
+      "deadlineNote": "a.y. 2026/2027 bando NOT YET PUBLISHED as of 2026-09-08. Region activated FSE+ funding (det. 4740/6 Aug 2026) for ~900 scholarships over 2026/27–2028/29; ESU to publish the annual notice with rankings targeted by November. a.y. 2025/2026 bando was published 19 Sep 2025—expect a similar late-Sep/Oct pattern (estimated).",
+      "openPeriod": "Estimated Sep–Oct for 2026/27; prior year from mid-Sep",
+      "status": "soon",
+      "priority": 1,
+      "citiesServed": ["Campobasso", "Termoli", "Pesche"],
+      "notes": "Monitor esu.molise.it. 2025/26 application links still shown; do not confuse with 2026/27. International students will need ISEE Parificato once the new bando opens.",
+      "sources": [
+        "https://www.esu.molise.it/",
+        "https://prfesrfse2127.regione.molise.it/diritto-allo-studio-universitario-6-milioni-di-euro-per-900-borse-di-studio-nel-triennio-2026-2029/",
+        "https://www.esu.molise.it/bandi-di-concorso/bando-di-concorso-per-l-assegnazione-di-borse-di-studio-provvidenze-e-servizi-per-il-diritto-allo-studio-universitario-a-a-2025-2026.html"
+      ]
+    },
+    {
+      "id": "piemonte",
+      "region": "Piedmont",
+      "regionIt": "Piemonte",
+      "agencyName": "Edisu Piemonte",
+      "portalUrl": "https://www.edisu.piemonte.it/",
+      "applyUrl": "https://www.edisu.piemonte.it/borse-e-contributi/benefici-economici/borsa-di-studio",
+      "typicalBenefits": [
+        "Scholarship stipend (FSE+ co-financed)",
+        "University housing (servizio abitativo)",
+        "Graduation prize",
+        "Disability-related contributions per bando"
+      ],
+      "typicalDocuments": [
+        "SPID / CIE or Temporary Access Code for international students",
+        "Passport",
+        "ISEE Università / ISEE Parificato (see Guida ISEE 2026)",
+        "Enrollment or intended enrollment at Piemonte HEI/AFAM",
+        "IBAN",
+        "Residence permit (extra-UE)"
+      ],
+      "deadlineNote": "a.y. 2026/2027: degrees 22 Jul – 4 Sep 2026 12:00 (CLOSED). PhD/specialization schools 28 Oct – 27 Nov 2026 12:00 (upcoming). Housing requested in the same application.",
+      "openPeriod": "22 Jul – 4 Sep 2026 (degrees closed); PhD 28 Oct – 27 Nov 2026",
+      "status": "closed",
+      "priority": 3,
+      "citiesServed": ["Turin", "Novara", "Alessandria", "Vercelli", "Cuneo", "Asti"],
+      "notes": "Non-resident international students request a Temporary Access Code (valid until following 30 June). New international-student rules appear in the 2026/27 bando—read carefully. Status 'closed' refers to main bachelor/master window; PhD window still upcoming (soon).",
+      "sources": [
+        "https://www.edisu.piemonte.it/borse-e-contributi/benefici-economici/borsa-di-studio",
+        "https://www.edisu.piemonte.it/",
+        "https://habacus.com/it/bando-edisu-piemonte-2026-2027/"
+      ]
+    },
+    {
+      "id": "puglia",
+      "region": "Apulia",
+      "regionIt": "Puglia",
+      "agencyName": "ADISU Puglia",
+      "portalUrl": "https://adisupuglia.it/",
+      "applyUrl": "https://adisupuglia.it/pagina116395_portale-studenti.html",
+      "typicalBenefits": [
+        "Scholarship stipend",
+        "Housing",
+        "Canteen / catering",
+        "Graduation prize",
+        "International mobility contribution",
+        "Support for dual enrollment where provided"
+      ],
+      "typicalDocuments": [
+        "SPID / CIE / CNS",
+        "Passport",
+        "ISEE Università 2026 / ISEE Parificato",
+        "Enrollment at a Puglia university",
+        "IBAN",
+        "Residence permit (extra-UE)",
+        "Rent contract for fuori sede"
+      ],
+      "deadlineNote": "a.y. 2026/2027 Benefici e Servizi: LT/LM/LMCU 14 Jul 2026 08:00 – 13 Aug 2026 12:00 (CLOSED). PhD/specialization 1–30 Oct 2026 12:00 (upcoming). ISEE ≤ €26,000 / ISPE ≤ €56,000 reported.",
+      "openPeriod": "14 Jul – 13 Aug 2026 (degrees closed); PhD 1–30 Oct 2026",
+      "status": "closed",
+      "priority": 1,
+      "citiesServed": ["Bari", "Lecce", "Foggia", "Taranto", "Brindisi"],
+      "notes": "Apply via MyAdisu app or student portal. Main degree window closed; doctoral window still ahead. International students without SPID should follow ADISU FAQ for alternative identification.",
+      "sources": [
+        "https://adisupuglia.it/pagina116395_portale-studenti.html",
+        "https://adisupuglia.it/",
+        "https://www.studenti.it/borse-di-studio-2026-27-puglia-bando-requisiti-e-scadenze.html"
+      ]
+    },
+    {
+      "id": "sardegna",
+      "region": "Sardinia",
+      "regionIt": "Sardegna",
+      "agencyName": "ERSU Sardegna (Cagliari and Sassari)",
+      "agencies": [
+        {
+          "name": "ERSU Cagliari",
+          "portalUrl": "https://www.ersucagliari.it/",
+          "applyUrl": "https://www.ersucagliari.it/",
+          "cities": ["Cagliari"],
+          "deadlineNote": "a.y. 2026/2027: 15 Jul – 28 Aug 2026 13:00 (CLOSED)."
+        },
+        {
+          "name": "ERSU Sassari",
+          "portalUrl": "https://ersusassari.it/",
+          "applyUrl": "https://ersusassari.it/",
+          "cities": ["Sassari"],
+          "deadlineNote": "a.y. 2026/2027: 27 Jul – 7 Sep 2026 13:00 (CLOSED). Extra-UE students use temporary code authentication."
+        }
+      ],
+      "portalUrl": "https://www.ersucagliari.it/",
+      "applyUrl": "https://www.ersucagliari.it/",
+      "typicalBenefits": [
+        "Scholarship stipend",
+        "Housing (servizi abitativi)",
+        "Canteen / related services"
+      ],
+      "typicalDocuments": [
+        "SPID / CIE or temporary code (extra-UE at Sassari)",
+        "Passport",
+        "ISEE 2026 for university DSU without anomalies",
+        "ISEE Parificato if income abroad",
+        "Enrollment at UniCa or UniSS",
+        "IBAN",
+        "Residence permit (extra-UE)"
+      ],
+      "deadlineNote": "Both main 2026/27 windows closed as of 2026-09-08 (Cagliari 28 Aug; Sassari 7 Sep). Apply to the ERSU of the university city.",
+      "openPeriod": "Usually mid-Jul – late Aug/early Sep (closed for 2026/27)",
+      "status": "closed",
+      "priority": 1,
+      "citiesServed": ["Cagliari", "Sassari"],
+      "notes": "Two separate ERSU entities. Transferring after the deadline generally loses benefits unless transfer rules in the bando are met. Pakistani students: ISEE Parificato + legalized income docs.",
+      "sources": [
+        "https://www.ersucagliari.it/novita/pubblicato-il-bando-di-concorso-unico-per-borse-di-studio-e-posto-alloggio-anno-accademico-2026-2027/",
+        "https://www.ersucagliari.it/domande-frequenti/",
+        "https://ersusassari.it/it/novita/notizia/Pubblicazione-Bando-Borse-di-Studio-e-Servizi-Abitativi-a.a.-2026-2027/"
+      ]
+    },
+    {
+      "id": "sicilia",
+      "region": "Sicily",
+      "regionIt": "Sicilia",
+      "agencyName": "ERSU Sicilia (Palermo, Catania, Messina, Enna)",
+      "agencies": [
+        {
+          "name": "ERSU Palermo",
+          "portalUrl": "https://www.ersupalermo.it/",
+          "applyUrl": "https://studenti.ersupalermo.it/",
+          "cities": ["Palermo"],
+          "deadlineNote": "a.y. 2026/2027: 5 Jun 2026 09:00 – 22 Jul 2026 14:00 (CLOSED). ISEE ≤ €23,000 / ISPE ≤ €52,500. CAF UIL Palermo for free ISEEU Parificato."
+        },
+        {
+          "name": "ERSU Catania",
+          "portalUrl": "https://www.ersucatania.it/",
+          "applyUrl": "https://www.ersucatania.it/",
+          "cities": ["Catania"],
+          "deadlineNote": "a.y. 2026/2027: from 24 Jun 2026 – 10 Aug 2026 14:00 (CLOSED)."
+        },
+        {
+          "name": "ERSU Messina",
+          "portalUrl": "https://www.ersumessina.it/",
+          "applyUrl": "https://www.ersumessina.it/",
+          "cities": ["Messina"],
+          "deadlineNote": "a.y. 2026/2027: 1 Jul – 18 Aug 2026 14:00 (CLOSED). ISEE ≤ €22,500 / ISPE ≤ €53,000 reported."
+        },
+        {
+          "name": "ERSU Enna",
+          "portalUrl": "https://www.ersuenna.it/",
+          "applyUrl": "https://www.ersuenna.it/",
+          "cities": ["Enna"],
+          "deadlineNote": "a.y. 2026/2027: from 21 Jul 2026 – 7 Sep 2026 14:00 (CLOSED as of 2026-09-08)."
+        }
+      ],
+      "portalUrl": "https://www.ersupalermo.it/",
+      "applyUrl": "https://studenti.ersupalermo.it/",
+      "typicalBenefits": [
+        "Scholarship stipend",
+        "Housing / residential services",
+        "Canteen / catering",
+        "Rent contribution / other economic benefits per local bando",
+        "Graduation prize (where offered)"
+      ],
+      "typicalDocuments": [
+        "Passport",
+        "Codice fiscale",
+        "ISEE Università or ISEEU/ISPEU Parificato via local CAF",
+        "Enrollment certificate",
+        "IBAN",
+        "Residence permit (extra-UE)",
+        "Additional uploads during regolarizzazione windows"
+      ],
+      "deadlineNote": "All four ERSU main 2026/27 application windows closed by 7 Sep 2026. Always apply to the ERSU of the university city (Palermo/Catania/Messina/Enna).",
+      "openPeriod": "Usually Jun–Aug/early Sep (closed for 2026/27)",
+      "status": "closed",
+      "priority": 1,
+      "citiesServed": ["Palermo", "Catania", "Messina", "Enna"],
+      "notes": "Sicily has four independent ERSU agencies with different ISEE ceilings and portals. Palermo publishes English video guides and free Parificato via CAF UIL. Shared notify hub: ersusiciliani.it.",
+      "sources": [
+        "https://www.ersupalermo.it/2026/06/05/bando-di-concorso-per-lattribuzione-di-borse-di-studio-altri-contributi-economici-e-servizi-per-il-diritto-allo-studio-universitario/",
+        "https://www.ersucatania.it/avviso-pubblicazione-bando-di-concorso-per-lattribuzione-di-borse-di-studio-altri-contributi-economici-e-servizi-per-il-diritto-allo-studio-universitario-per-lanno-accademico-2026/",
+        "https://www.ersumessina.it/wp-content/uploads/2026/07/Bando-di-concorso-2026_2027_signed.pdf",
+        "https://www.ersuenna.it/wp-content/uploads/2026/07/Bando-2026-27-definitivo.pdf",
+        "https://www.ersusiciliani.it/notify/pagina-dedicata-al-concorso-benefici-per-la-a-2026-2027/"
+      ]
+    },
+    {
+      "id": "toscana",
+      "region": "Tuscany",
+      "regionIt": "Toscana",
+      "agencyName": "ARDSU / DSU Toscana",
+      "portalUrl": "https://www.dsu.toscana.it/",
+      "applyUrl": "https://www.dsu.toscana.it/-/borsa-di-studio-e-posto-alloggio-a.a.-2026-2027",
+      "typicalBenefits": [
+        "Scholarship stipend",
+        "University housing (posto alloggio)",
+        "Related DSU services"
+      ],
+      "typicalDocuments": [
+        "Passport / SPID",
+        "Codice fiscale",
+        "DSU/ISEE Università signed by the scholarship deadline (or Parificato pathway)",
+        "Enrollment or intended enrollment at a Tuscan HEI",
+        "IBAN",
+        "Residence permit (extra-UE)"
+      ],
+      "deadlineNote": "a.y. 2026/2027: LT/LM/LMCU 20 Jul 2026 12:00 – 7 Sep 2026 13:00 (CLOSED). PhD/specialization 25 Sep – 16 Nov 2026 13:00 (upcoming). DSU for ISEE must be signed by 7 Sep 2026. Bando also available in English, Arabic, Chinese, French.",
+      "openPeriod": "20 Jul – 7 Sep 2026 (degrees closed); PhD 25 Sep – 16 Nov 2026",
+      "status": "closed",
+      "priority": 2,
+      "citiesServed": ["Florence", "Pisa", "Siena", "Arezzo", "Lucca", "Carrara", "Livorno"],
+      "notes": "Promoted within Regione Toscana Giovanisì. Multilingual bando useful for international applicants. Status closed for bachelor/master; PhD window opens 25 Sep 2026.",
+      "sources": [
+        "https://www.dsu.toscana.it/-/borsa-di-studio-e-posto-alloggio-a.a.-2026-2027",
+        "https://www.dsu.toscana.it/borsa-di-studio/-/asset_publisher/57356pf53MOd/"
+      ]
+    },
+    {
+      "id": "trentino",
+      "region": "Trentino (Trento)",
+      "regionIt": "Provincia autonoma di Trento",
+      "agencyName": "Opera Universitaria di Trento",
+      "portalUrl": "https://www.operauni.tn.it/",
+      "applyUrl": "https://www.operauni.tn.it/",
+      "typicalBenefits": [
+        "Scholarship stipend (ISEE-G based)",
+        "Fee exemption linked to scholarship",
+        "University housing",
+        "Related student services"
+      ],
+      "typicalDocuments": [
+        "Passport / SPID",
+        "Codice fiscale",
+        "ISEE / economic documentation per Opera Universitaria rules (ISEE-G)",
+        "Enrollment at University of Trento or covered institutions",
+        "Housing contract PDF if required",
+        "IBAN",
+        "Residence permit (extra-UE)"
+      ],
+      "deadlineNote": "a.y. 2026/2027: applications from 13 Jul 2026; housing confirmation by 5 Aug; new housing by 19 Aug; scholarship + fee waiver only by 7 Sep 2026 (CLOSED for main scholarship window).",
+      "openPeriod": "13 Jul – 7 Sep 2026 (scholarship closed)",
+      "status": "closed",
+      "priority": 3,
+      "citiesServed": ["Trento", "Rovereto"],
+      "notes": "Autonomous province system (not a regional ERSU). Read the Opera Universitaria bando for international/Parificato equivalents. Separate from Bolzano provincial aid.",
+      "sources": [
+        "https://www.operauni.tn.it/",
+        "https://www.operauni.tn.it/wp-content/uploads/Bando-2026-2027-2.pdf"
+      ]
+    },
+    {
+      "id": "alto-adige",
+      "region": "South Tyrol (Alto Adige / Bolzano)",
+      "regionIt": "Provincia autonoma di Bolzano – Alto Adige",
+      "agencyName": "Ufficio per il diritto allo studio universitario (Provincia di Bolzano)",
+      "portalUrl": "https://diritto-allo-studio.provincia.bz.it/",
+      "applyUrl": "https://mycivis.civis.bz.it/",
+      "typicalBenefits": [
+        "Ordinary need-based university scholarship (borsa ordinaria)",
+        "Partial tuition reimbursement for ordinary scholarship winners",
+        "Student housing in Bolzano/Bressanone residences",
+        "Separate merit scholarships"
+      ],
+      "typicalDocuments": [
+        "Passport / eIDAS / certified myCIVIS account",
+        "Codice fiscale",
+        "DURP / VSE economic declaration (provincial system—ISEE alone is often not accepted)",
+        "Enrollment proof",
+        "Residence permit (extra-UE; original often required by deadline)",
+        "IBAN"
+      ],
+      "deadlineNote": "a.y. 2026/2027 ordinary scholarship dates NOT YET PUBLISHED as of 2026-09-08. Estimated from 2025/26 pattern: ~22 Sep – 3 Nov (estimated). Housing 2026/27 already ran Jun–Jul 2026. Merit scholarships 2026 window was 16 Mar – 24 Apr 2026 (closed).",
+      "openPeriod": "Estimated late Sep – early Nov (2026/27 ordinary call TBA)",
+      "status": "soon",
+      "priority": 3,
+      "citiesServed": ["Bolzano", "Bressanone", "Brunico"],
+      "notes": "Strict residence rules for non-EU applicants (long-term permit OR temporary permit + ≥1 year residence in the province for in-province track). Uses DURP/VSE rather than standard ISEE. Apply via myCIVIS. Distinct from Trento Opera Universitaria.",
+      "sources": [
+        "https://mycivis.civis.bz.it/",
+        "https://muabz.it/guida-alla-domanda-di-borsa-di-studio-universitaria/",
+        "https://muabz.it/da-giugno-puoi-fare-domanda-di-alloggio-in-studentato-per-lanno-accademico-2026-2027/",
+        "https://diritto-allo-studio.provincia.bz.it/"
+      ]
+    },
+    {
+      "id": "umbria",
+      "region": "Umbria",
+      "regionIt": "Umbria",
+      "agencyName": "A.Di.S.U. Umbria",
+      "portalUrl": "https://www.adisu.umbria.it/",
+      "applyUrl": "https://www.adisu.umbria.it/concorso-borsa-di-studio/bando/2026-2027/bando-di-concorso-lassegnazione-di-borse-di-studio-e-altri",
+      "typicalBenefits": [
+        "Scholarship stipend by ISEE band and sede status",
+        "Free canteen for idonei",
+        "Free housing for fuori sede (age limits apply)",
+        "International mobility contribution",
+        "Regional tax refund (€140 reported in bando text)"
+      ],
+      "typicalDocuments": [
+        "Passport / SPID",
+        "Codice fiscale",
+        "ISEE Università / ISEE Parificato",
+        "Enrollment at UniPG / UniStranieri Perugia / Umbria HEIs",
+        "IBAN",
+        "Residence permit (extra-UE)"
+      ],
+      "deadlineNote": "a.y. 2026/2027: applications 15 Jul 2026 12:00 – 2 Sep 2026 12:00 (CLOSED). Additional housing-related checkpoints 30 Oct 2026 for later assignment.",
+      "openPeriod": "15 Jul – 2 Sep 2026 (closed)",
+      "status": "closed",
+      "priority": 2,
+      "citiesServed": ["Perugia", "Terni"],
+      "notes": "Single regional ADISU. International students should complete Parificato early; age caps may apply to free housing.",
+      "sources": [
+        "https://www.adisu.umbria.it/concorso-borsa-di-studio/bando/2026-2027/bando-di-concorso-lassegnazione-di-borse-di-studio-e-altri",
+        "https://www.adisu.umbria.it/sites/default/files/2026-07/Bando_borse_di_studio_Adisu_2026_2027_1.pdf"
+      ]
+    },
+    {
+      "id": "valle-daosta",
+      "region": "Aosta Valley",
+      "regionIt": "Valle d'Aosta",
+      "agencyName": "Regione Autonoma Valle d'Aosta – Ufficio borse di studio",
+      "portalUrl": "https://gestionewww.regione.vda.it/istruzione/dirittostudio/borse_universita_valdostane/default_i.aspx",
+      "applyUrl": "https://gestionewww.regione.vda.it/istruzione/dirittostudio/borse_universita_valdostane/default_i.aspx",
+      "typicalBenefits": [
+        "Study grant (assegno di studio)",
+        "Housing contribution",
+        "Tuition refund (Primo bando idonei)",
+        "International mobility top-ups",
+        "Graduation prize"
+      ],
+      "typicalDocuments": [
+        "Passport / SPID (or agency credentials for foreigners without digital ID)",
+        "Codice fiscale",
+        "ISEE-Universitario",
+        "Enrollment at Université de la Vallée d'Aoste / local music institute / Torino nursing seat in Aosta",
+        "Housing payment proof for housing contribution",
+        "IBAN",
+        "Residence permit (extra-UE)"
+      ],
+      "deadlineNote": "a.y. 2026/2027 bandi not yet published as of 2026-09-08. Pattern: two calls (Primo/Secondo bando) usually from mid-October; 2025/26 both closed 19 Dec 2025 12:00. Estimated open from mid-Oct 2026.",
+      "openPeriod": "Usually mid-Oct – mid-Dec (2026/27 TBA)",
+      "status": "soon",
+      "priority": 3,
+      "citiesServed": ["Aosta"],
+      "notes": "Primo bando: stricter ISEE/ISPE, higher amounts + tuition exemption. Secondo bando: higher ISEE ceiling (€44,000 in 2025/26), lower amounts. Nursing students at UniTo Aosta seat generally use Secondo bando (Primo overlaps Edisu Piemonte). Contact office for non-SPID foreign access.",
+      "sources": [
+        "https://gestionewww.regione.vda.it/istruzione/dirittostudio/borse_universita_valdostane/default_i.aspx"
+      ]
+    },
+    {
+      "id": "veneto",
+      "region": "Veneto",
+      "regionIt": "Veneto",
+      "agencyName": "Veneto DSU (university + ESU network)",
+      "agencies": [
+        {
+          "name": "Università di Padova – Borse regionali",
+          "portalUrl": "https://www.unipd.it/borse-studio-regionali",
+          "applyUrl": "https://www.unipd.it/borse-studio-regionali",
+          "cities": ["Padua"],
+          "deadlineNote": "a.y. 2026/2027 regional scholarship steps due 30 Sep 2026 (OPEN). ISEE ≤ €26,306.25 / ISPE ≤ €43,125.94."
+        },
+        {
+          "name": "ESU Padova (AFAM/SSML/SID)",
+          "portalUrl": "https://www.esu.pd.it/",
+          "applyUrl": "https://www.esu.pd.it/news/category/borse-e-bandi/bando-borse-di-studio/",
+          "cities": ["Padua"],
+          "deadlineNote": "Housing to 7 Sep 2026; scholarships to 5 Oct 2026 10:00."
+        },
+        {
+          "name": "ESU Venezia / Ca' Foscari & IUAV channels",
+          "portalUrl": "https://www.esu.ve.it/",
+          "cities": ["Venice"],
+          "deadlineNote": "Housing and benefit calls published per a.y.; coordinate with Ca' Foscari/IUAV right-to-study pages and ISEE Parificato CAF portals."
+        },
+        {
+          "name": "ESU Verona",
+          "portalUrl": "https://www.esu.vr.it/",
+          "cities": ["Verona"],
+          "deadlineNote": "AFAM/conservatory scholarship call for 2026/27 published; university students mainly via UniVr procedures aligning with Regione Veneto DGR 763/2026."
+        }
+      ],
+      "portalUrl": "https://www.unipd.it/borse-studio-regionali",
+      "applyUrl": "https://www.unipd.it/borse-studio-regionali",
+      "typicalBenefits": [
+        "Regional scholarship stipend",
+        "Housing via ESU residences",
+        "Canteen",
+        "Fee benefits for idonei"
+      ],
+      "typicalDocuments": [
+        "Passport",
+        "Codice fiscale",
+        "ISEE Università / ISEE Parificato (Ca' Foscari publishes dedicated Parificato guidance)",
+        "Enrollment + first fee installment",
+        "IBAN",
+        "Residence permit (extra-UE)",
+        "Distance/sede status documentation"
+      ],
+      "deadlineNote": "Regione Veneto approved Piano DSU 2026/27 (DGR 763/21 Jul 2026). UniPD deadline 30 Sep 2026 (open). Other cities/ESUs have separate calendars—verify the portal of the university city.",
+      "openPeriod": "Usually Jul–Sep/Oct; UniPD open until 30 Sep 2026",
+      "status": "open",
+      "priority": 3,
+      "citiesServed": ["Padua", "Venice", "Verona", "Vicenza", "Treviso", "Rovigo"],
+      "notes": "Veneto splits administration across universities and ESUs. International students at Ca' Foscari/IUAV must follow that university’s ISEE Parificato CAF process. Non-EU master’s entrants with foreign bachelor may face bonus-credit restrictions—check UniPD notes.",
+      "sources": [
+        "https://www.unipd.it/borse-studio-regionali",
+        "https://www.esu.pd.it/news/category/borse-e-bandi/bando-borse-di-studio/",
+        "https://spazio-operatori.regione.veneto.it/istruzione/borsadistudio-universitaria",
+        "https://www.iuav.it/it/diritto-allo-studio/isee-parificato",
+        "https://www.studenti.it/borse-di-studio-2026-27-veneto-bando-requisiti-e-scadenze.html"
+      ]
+    }
+  ]
+}

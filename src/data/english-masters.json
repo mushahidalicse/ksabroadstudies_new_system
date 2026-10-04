@@ -1,0 +1,3930 @@
+{
+  "lastUpdated": "2026-09-08",
+  "note": "English-taught 2-year master's (Laurea Magistrale) programmes compiled from official university .it catalogue pages, English programme lists, and admission portals (Sep 2026). Includes programmes taught entirely in English and official English curricula/tracks of bilingual degrees where listed on university English catalogues. Excludes single-cycle (ciclo unico) Medicine/Dentistry/Pharmacy and 1st/2nd-level specializing Masters. URLs prefer programme detail or official English catalogue pages. Verify current calls on each portal.",
+  "masters": [
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Comparative International Relations",
+      "field": "Political Science",
+      "applyUrl": "https://www.unive.it/international-programmes"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Computer Science and Information Technology",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unive.it/international-programmes"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Conservation Science and Technology for Cultural Heritage",
+      "field": "Humanities",
+      "applyUrl": "https://www.unive.it/international-programmes"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Data Analytics for Business and Society",
+      "field": "Business",
+      "applyUrl": "https://www.unive.it/international-programmes"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Digital and Public Humanities",
+      "field": "Humanities",
+      "applyUrl": "https://www.unive.it/international-programmes"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Economics and Management of Arts and Cultural Activities",
+      "field": "Business",
+      "applyUrl": "https://www.unive.it/international-programmes"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Economics, Finance and Sustainability",
+      "field": "Business",
+      "applyUrl": "https://www.unive.it/international-programmes"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Engineering Physics",
+      "field": "Engineering",
+      "applyUrl": "https://www.unive.it/international-programmes"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Environmental Engineering for the Green Transition",
+      "field": "Engineering",
+      "applyUrl": "https://www.unive.it/international-programmes"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Environmental Humanities",
+      "field": "Humanities",
+      "applyUrl": "https://www.unive.it/international-programmes"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Environmental Sciences",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unive.it/international-programmes"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "European, American and Postcolonial Languages and Literatures",
+      "field": "Humanities",
+      "applyUrl": "https://www.unive.it/international-programmes"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Global Accounting and Finance",
+      "field": "Business",
+      "applyUrl": "https://www.unive.it/international-programmes"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Global Development and Entrepreneurship",
+      "field": "Business",
+      "applyUrl": "https://www.unive.it/international-programmes"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Innovation and Management for Culture and Creativity",
+      "field": "Business",
+      "applyUrl": "https://www.unive.it/international-programmes"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "International Management",
+      "field": "Business",
+      "applyUrl": "https://www.unive.it/international-programmes"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Language Sciences",
+      "field": "Humanities",
+      "applyUrl": "https://www.unive.it/international-programmes"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Languages of Asia and North Africa for Business and International Cooperation",
+      "field": "Business",
+      "applyUrl": "https://www.unive.it/international-programmes"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Science and Technology of Bio and Nanomaterials",
+      "field": "Natural Sciences",
+      "applyUrl": "https://www.unive.it/international-programmes"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Sustainable Chemistry and Technologies",
+      "field": "Natural Sciences",
+      "applyUrl": "https://www.unive.it/international-programmes"
+    },
+    {
+      "universityId": "ca-foscari-venice",
+      "name": "Tourism Management and Sustainability",
+      "field": "Business",
+      "applyUrl": "https://www.unive.it/international-programmes"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Accounting and Finance",
+      "field": "Business",
+      "applyUrl": "https://www.unibz.it/en/faculties/economics-management/master-accounting-finance"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Computing for Data Science",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unibz.it/en/faculties/engineering/master-computing-data-science"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Critical Creative Practices",
+      "field": "Design",
+      "applyUrl": "https://www.unibz.it/en/faculties/design-art/master-critical-creative-practices"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Data Analytics for Economics and Management",
+      "field": "Business",
+      "applyUrl": "https://www.unibz.it/en/faculties/economics-management/master-data-analytics-economics-management"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Eco-Social Design",
+      "field": "Design",
+      "applyUrl": "https://www.unibz.it/en/faculties/design-art/master-eco-social-design"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Energy Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unibz.it/en/faculties/engineering/master-energy-engineering"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Entrepreneurship and Innovation",
+      "field": "Business",
+      "applyUrl": "https://www.unibz.it/en/faculties/economics-management/master-entrepreneurship-innovation"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Environmental Management of Mountain Areas",
+      "field": "Business",
+      "applyUrl": "https://www.unibz.it/en/faculties/agricultural-environmental-food-sciences/master-environmental-management-mountain-areas"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Food Sciences for Innovation and Authenticity",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unibz.it/en/faculties/agricultural-environmental-food-sciences/master-food-sciences-innovation-authenticity"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Horticultural Science",
+      "field": "Humanities",
+      "applyUrl": "https://www.unibz.it/en/faculties/agricultural-environmental-food-sciences/master-horticultural-science"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Industrial Mechanical Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unibz.it/en/faculties/engineering/master-industrial-mechanical-engineering"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Primary Education",
+      "field": "Education",
+      "applyUrl": "https://www.unibz.it/en/faculties/education/master-primary-education"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Public Policy and Innovative Governance",
+      "field": "Law",
+      "applyUrl": "https://www.unibz.it/en/faculties/economics-management/master-public-policy-innovative-governance"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Smart Sustainable Agriculture Systems in Mountain Areas",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unibz.it/en/faculties/agricultural-environmental-food-sciences/master-smart-sustainable-agriculture-systems-mountain-a"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Smart Technologies for Sports and Health",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unibz.it/en/faculties/engineering/master-smart-technologies-sports-health"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Social Work and Social Policy",
+      "field": "Education",
+      "applyUrl": "https://www.unibz.it/en/faculties/education/master-social-work-social-policy"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Software Engineering",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unibz.it/en/faculties/engineering/master-software-engineering"
+    },
+    {
+      "universityId": "free-university-of-bozen-bolzano",
+      "name": "Tourism Management",
+      "field": "Business",
+      "applyUrl": "https://www.unibz.it/en/faculties/economics-management/master-tourism-management"
+    },
+    {
+      "universityId": "marche-polytechnic",
+      "name": "Biomedical Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.univpm.it/Entra/"
+    },
+    {
+      "universityId": "marche-polytechnic",
+      "name": "Environmental Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.univpm.it/Entra/"
+    },
+    {
+      "universityId": "marche-polytechnic",
+      "name": "International Economics and Business",
+      "field": "Business",
+      "applyUrl": "https://www.univpm.it/Entra/"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Aeronautical Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/aeronautical-engineering"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Agricultural Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/agricultural-engineering"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Architectural Design and History",
+      "field": "Architecture",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/architectural-design-and-history"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Architectural Engineering",
+      "field": "Architecture",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/architectural-engineering"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Automation and Control Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/automation-and-control-engineering"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Bioinformatics for Computational Genomics",
+      "field": "Computer Science",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/bioinformatics-for-computational-genomics"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Biomedical Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/biomedical-engineering-1"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Building Engineering for Sustainability",
+      "field": "Architecture",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/building-engineering-for-sustainability"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Chemical Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/chemical-engineering-1"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Civil Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/civil-engineering-1"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Civil Engineering for Risk Mitigation",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/civil-engineering-for-risk-mitigation"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Communication Design",
+      "field": "Design",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/communication-design-1"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Computer Science and Engineering",
+      "field": "Computer Science",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/computer-science-and-engineering"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Cyber Risk Strategy and Governance",
+      "field": "Computer Science",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/cyber-risk-strategy-and-governance"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Design Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/design-engineering"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Design for the Fashion System",
+      "field": "Design",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/design-for-the-fashion-system"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Digital and Interaction Design",
+      "field": "Design",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/digital-and-interaction-design"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Electrical Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/electrical-engineering-m"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Electronics Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/electronics-engineering"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Energy Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/energy-engineering-1"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Engineering Physics",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/engineering-physics"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Environmental and Land Planning Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/environmental-and-land-planning-engineering-1"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Food Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/food-engineering"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Geoinformatics Engineering",
+      "field": "Computer Science",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/geoinformatics-engineering"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Health Informatics",
+      "field": "Computer Science",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/health-informatics"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "High Performance Computing Engineering",
+      "field": "Computer Science",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/high-performance-computing-engineering"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Industrial Safety and Risk Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/industrial-safety-and-risk-engineering"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Integrated Product Design",
+      "field": "Design",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/integrated-product-design"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Interior and Spatial Design",
+      "field": "Architecture",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/interior-and-spatial-design"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Landscape Architecture. Land Landscape Heritage",
+      "field": "Architecture",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/landscape-architecture-land-landscape-heritage"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Management Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/management-engineering"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Management of Built Environment",
+      "field": "Business",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/management-of-built-environment"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Materials Engineering and Nanotechnology",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/materials-engineering-and-nanotechnology"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Mathematical Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/mathematical-engineering-1"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Mechanical Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/mechanical-engineering-1"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Mobility Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/mobility-engineering"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Music and Acoustic Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/music-and-acoustic-engineering"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Nuclear Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/nuclear-engineering"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Product Service System Design",
+      "field": "Design",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/product-service-system-design"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Space Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/space-engineering"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Sustainable Architecture and Landscape Design",
+      "field": "Architecture",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/sustainable-architecture-and-landscape-design"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Telecommunication Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/telecommunication-engineering"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Transformative Sustainability",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/transformative-sustainability"
+    },
+    {
+      "universityId": "politecnico-di-milano",
+      "name": "Urban Planning and Policy Design",
+      "field": "Architecture",
+      "applyUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/urban-planning-and-policy-design"
+    },
+    {
+      "universityId": "polytechnic-university-of-bari",
+      "name": "Computer Engineering",
+      "field": "Computer Science",
+      "applyUrl": "https://www.poliba.it/en"
+    },
+    {
+      "universityId": "polytechnic-university-of-bari",
+      "name": "Industrial Design",
+      "field": "Design",
+      "applyUrl": "https://www.poliba.it/en"
+    },
+    {
+      "universityId": "polytechnic-university-of-bari",
+      "name": "Mechanical Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.poliba.it/en"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Architecture Construction City",
+      "field": "Architecture",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/architecture-construction-city"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Architecture for Heritage",
+      "field": "Architecture",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/architecture-for-heritage"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Architecture for Sustainability",
+      "field": "Architecture",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/architecture-for-sustainability"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Automotive Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/automotive-engineering"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Building Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/building-engineering"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Chemical and Sustainable Processes Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/chemical-and-sustainable-processes-engineering"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Civil Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/civil-engineering"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Communications Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/communications-engineering"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Computer Engineering",
+      "field": "Computer Science",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/computer-engineering"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Cybersecurity Engineering",
+      "field": "Computer Science",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/cybersecurity-engineering"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Data Science and Engineering",
+      "field": "Computer Science",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/data-science-and-engineering"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Digital Skills for Sustainable Societal Transitions",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/digital-skills-for-sustainable-societal-transitions"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Electrical Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/electrical-engineering"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Electronic Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/electronic-engineering"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Energy and Nuclear Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/energy-and-nuclear-engineering"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Engineering and Management",
+      "field": "Engineering",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/engineering-and-management"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Environmental and Land Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/environmental-and-land-engineering"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Georesources and Geoenergy Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/georesources-and-geoenergy-engineering"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "ICT Engineering for Smart Societies",
+      "field": "Computer Science",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/ict-engineering-for-smart-societies"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Materials Engineering for Industry 4.0",
+      "field": "Engineering",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/materials-engineering-for-industry-40"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Mechanical Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/mechanical-engineering"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Mechatronic Engineering",
+      "field": "Computer Science",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/mechatronic-engineering"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Nanotechnologies for ICTs",
+      "field": "Engineering",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/nanotechnologies-for-icts"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Physics of Complex Systems",
+      "field": "Natural Sciences",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/physics-of-complex-systems"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Quantum Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/quantum-engineering"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Systemic Design",
+      "field": "Design",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/systemic-design"
+    },
+    {
+      "universityId": "polytechnic-university-of-turin",
+      "name": "Urban and Regional Planning",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/urban-and-regional-planning"
+    },
+    {
+      "universityId": "roma-tre",
+      "name": "Biomedical Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.uniroma3.it/en/"
+    },
+    {
+      "universityId": "roma-tre",
+      "name": "Computer Science",
+      "field": "Computer Science",
+      "applyUrl": "https://www.uniroma3.it/en/"
+    },
+    {
+      "universityId": "roma-tre",
+      "name": "International Studies",
+      "field": "Political Science",
+      "applyUrl": "https://www.uniroma3.it/en/"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Actuarial and Financial Sciences",
+      "field": "Mathematics",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33638/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Aeronautical engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33483/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Applied Dynamic and Clinical Psychology",
+      "field": "Psychology",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33573/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Archaeological Materials Science",
+      "field": "Natural Sciences",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33600/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Architecture (Conservation)",
+      "field": "Architecture",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33430/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Architecture - Urban Regeneration",
+      "field": "Architecture",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33431/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Artificial Intelligence",
+      "field": "Computer Science",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33513/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Artificial Intelligence and Robotics",
+      "field": "Computer Science",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33514/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Astrophysics and Cosmology",
+      "field": "Natural Sciences",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33607/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Biochemistry",
+      "field": "Natural Sciences",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33459/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Business Management",
+      "field": "Business",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33447/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Chemical Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33486/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Civil Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33487/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Cognitive Forensic Sciences",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33583/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Cognitive neuroscience",
+      "field": "Life Sciences",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33574/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Computer Science",
+      "field": "Computer Science",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33508/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Control Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33509/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Cultural Heritage in the Near and Middle East, and in Africa",
+      "field": "Humanities",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33541/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Cybersecurity",
+      "field": "Computer Science",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33516/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Data Science",
+      "field": "Computer Science",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33519/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Design, Multimedia and Visual Communication",
+      "field": "Design",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33432/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Development and International Cooperation Studies",
+      "field": "Political Science",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33629/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Economics",
+      "field": "Economics",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33440/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Economics and communication for management and innovation",
+      "field": "Business",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33444/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Electrical Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33492/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Electronics Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33511/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Energy and Nuclear Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/34181/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Engineering in Computer Science and Artificial Intelligence",
+      "field": "Computer Science",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33515/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "English and Anglo-American Studies",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33548/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Environmental and Sustainable Building Engineering (Rieti Campus)",
+      "field": "Engineering",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33489/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Environmental Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33495/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "European studies",
+      "field": "Political Science",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33468/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Fashion theory and practices - delivered in blended mode",
+      "field": "Design",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33553/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Finance and insurance",
+      "field": "Business",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33439/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Financial institutions, international finance and risk management",
+      "field": "Business",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33446/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Genetics and Molecular Biology",
+      "field": "Life Sciences",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33597/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Green Industrial Engineering for Sustainable Development (Campus Latina)",
+      "field": "Engineering",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33490/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Health Economics",
+      "field": "Economics",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33441/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Landscape Architecture",
+      "field": "Architecture",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33429/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Management Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33512/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Management of technologies, innovation and sustainability",
+      "field": "Business",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33448/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Mechanical Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33494/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Mediterranean Archaeology",
+      "field": "Humanities",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33542/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Nanotechnology Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33496/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Neurobiology",
+      "field": "Life Sciences",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33598/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Oriental Languages and Cultures",
+      "field": "Humanities",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33547/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Philology, literatures and history of the ancient world",
+      "field": "Humanities",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/34183/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Physics",
+      "field": "Natural Sciences",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33602/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Product and Service Design",
+      "field": "Design",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33433/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Safety and Civil Protection Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33491/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Science and Technology for the Conservation of Cultural Heritage",
+      "field": "Humanities",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33601/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Sciences and Teaching of Natural Systems",
+      "field": "Education",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33608/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Sociology for sustainability and analysis of global processes",
+      "field": "Political Science",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33632/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Space and astronautical engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33484/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Statistical Methods and Applications",
+      "field": "Mathematics",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33517/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Statistical Sciences",
+      "field": "Mathematics",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33518/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Sustainable Transportation and Electric Power Systems",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/34096/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Telecommunication Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/33510/home"
+    },
+    {
+      "universityId": "sapienza-university-of-rome",
+      "name": "Transport Systems Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsidilaurea.uniroma1.it/en/corso/2025/34180/home"
+    },
+    {
+      "universityId": "university-of-bari",
+      "name": "Computer Science",
+      "field": "Computer Science",
+      "applyUrl": "https://www.uniba.it/en"
+    },
+    {
+      "universityId": "university-of-bari",
+      "name": "Economics of Tourism",
+      "field": "Economics",
+      "applyUrl": "https://www.uniba.it/en"
+    },
+    {
+      "universityId": "university-of-bari",
+      "name": "Medical Biotechnology and Nanobiotechnology",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.uniba.it/en"
+    },
+    {
+      "universityId": "university-of-bari",
+      "name": "Physics",
+      "field": "Natural Sciences",
+      "applyUrl": "https://www.uniba.it/en"
+    },
+    {
+      "universityId": "university-of-basilicata",
+      "name": "Environmental Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://portale.unibas.it/site/home.html"
+    },
+    {
+      "universityId": "university-of-basilicata",
+      "name": "Petroleum Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://portale.unibas.it/site/home.html"
+    },
+    {
+      "universityId": "university-of-bergamo",
+      "name": "Clinical Psychology for Individuals, Families and Organizations",
+      "field": "Psychology",
+      "applyUrl": "https://apply.unibg.it/"
+    },
+    {
+      "universityId": "university-of-bergamo",
+      "name": "Engineering and Management for Health",
+      "field": "Engineering",
+      "applyUrl": "https://apply.unibg.it/"
+    },
+    {
+      "universityId": "university-of-bergamo",
+      "name": "International Management, Entrepreneurship and Finance",
+      "field": "Business",
+      "applyUrl": "https://apply.unibg.it/"
+    },
+    {
+      "universityId": "university-of-bergamo",
+      "name": "Management, Marketing and Finance",
+      "field": "Business",
+      "applyUrl": "https://apply.unibg.it/"
+    },
+    {
+      "universityId": "university-of-bergamo",
+      "name": "Planning and Management of Tourism Systems",
+      "field": "Business",
+      "applyUrl": "https://apply.unibg.it/"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Advanced Automotive Electronic Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Advanced Automotive Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Advanced Cosmetic Sciences",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Advanced mathematics for applications",
+      "field": "Natural Sciences",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Advanced Methods In Particle Physics",
+      "field": "Natural Sciences",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Advanced Spectroscopy In Chemistry",
+      "field": "Natural Sciences",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Aerospace Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Applied Economics And Markets",
+      "field": "Economics",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Architectural engineering",
+      "field": "Architecture",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Architecture And Creative Practices For The City And Landscape",
+      "field": "Architecture",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Artificial Intelligence",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Arts, Museology and Curatorship (AMaC)",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Astrophysics And Cosmology",
+      "field": "Natural Sciences",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Automation Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Bioinformatics",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Biomedical Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Business Administration And Sustainability",
+      "field": "Business",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Business Analytics",
+      "field": "Business",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Business And Administration",
+      "field": "Business",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Chemical Innovation And Regulation",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Civil Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Digital Humanities And Digital Knowledge",
+      "field": "Humanities",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Digital Transformation Management",
+      "field": "Business",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Earth Resources Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "East European And Eurasian Studies",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Economics",
+      "field": "Economics",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Economics And Econometrics",
+      "field": "Economics",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Economics And Market Policy",
+      "field": "Economics",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Economics And Public Policy",
+      "field": "Economics",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Electric Vehicle Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Electrical Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Electronic Engineering For Intelligent Vehicles",
+      "field": "Engineering",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Electronics For Intelligent Systems, Big-Data And Internet Of Things",
+      "field": "Engineering",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Fashion Studies",
+      "field": "Design",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Food Safety And Food Risk Management",
+      "field": "Business",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Food System Management",
+      "field": "Business",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Global Change Ecology And Sustainable Development Goals",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Global Cultures",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Greening Energy Market And Finance",
+      "field": "Engineering",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Health Economics And Management",
+      "field": "Business",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Health Economics, Management And Policy",
+      "field": "Business",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Historic buildings Rehabilitation",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Intelligent Embedded Systems",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Interdisciplinary Research And Studies On Eastern Europe",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "International Horticultural Science",
+      "field": "Humanities",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "International Management",
+      "field": "Business",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "International Politics And Economics",
+      "field": "Economics",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "International Politics And Markets",
+      "field": "Political Science",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "International Relations",
+      "field": "Political Science",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Interpreting and Technologies for Communication",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Language, Society And Communication",
+      "field": "Humanities",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Law And Economics Of Insurance And Finance",
+      "field": "Business",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Law and Economics of International Finance (LEIF)",
+      "field": "Business",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Law, Economics And Governance",
+      "field": "Economics",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Legal Studies",
+      "field": "Law",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Low Carbon Technologies And Sustainable Chemistry",
+      "field": "Natural Sciences",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Mechanical Engineering For Sustainability",
+      "field": "Engineering",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Medical Biotechnology",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Offshore Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Offshore Engineering For Energy Transition",
+      "field": "Engineering",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Pharmaceutical Biotechnology",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Physics",
+      "field": "Natural Sciences",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Psychology Of Wellbeing And Social Inclusivity",
+      "field": "Psychology",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Public Affairs",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Quantitative Finance",
+      "field": "Business",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Raw Material Exploration and Sustainability",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Resource Economics And Sustainable Development",
+      "field": "Economics",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Science Of Climate",
+      "field": "Natural Sciences",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Service Management",
+      "field": "Business",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Specialized Translation",
+      "field": "Humanities",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Statistical Sciences",
+      "field": "Mathematics",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Sustainable Technologies And Biotechnologies For Energy And Materials",
+      "field": "Engineering",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Telecommunications Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Tourism Economics And Management",
+      "field": "Business",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Transnational Challenges and Global Governance",
+      "field": "Law",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Water And Coastal Management",
+      "field": "Business",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Wellness, Sport And Health",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-bologna",
+      "name": "Work, Organizational And Personnel Psychology",
+      "field": "Psychology",
+      "applyUrl": "https://www.unibo.it/en/teaching/degree-programmes"
+    },
+    {
+      "universityId": "university-of-brescia",
+      "name": "Civil and Environmental Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unibs.it/en"
+    },
+    {
+      "universityId": "university-of-brescia",
+      "name": "Communication Technologies and Multimedia",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unibs.it/en"
+    },
+    {
+      "universityId": "university-of-brescia",
+      "name": "Management Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unibs.it/en"
+    },
+    {
+      "universityId": "university-of-brescia",
+      "name": "Science and Technology for Population Health and Wealth",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unibs.it/en"
+    },
+    {
+      "universityId": "university-of-cagliari",
+      "name": "Computer Engineering, Cybersecurity and Artificial Intelligence",
+      "field": "Computer Science",
+      "applyUrl": "https://unica.dreamapply.com/"
+    },
+    {
+      "universityId": "university-of-cagliari",
+      "name": "Electronic Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://unica.dreamapply.com/"
+    },
+    {
+      "universityId": "university-of-cagliari",
+      "name": "International Relations",
+      "field": "Political Science",
+      "applyUrl": "https://unica.dreamapply.com/"
+    },
+    {
+      "universityId": "university-of-cagliari",
+      "name": "Management",
+      "field": "Business",
+      "applyUrl": "https://unica.dreamapply.com/"
+    },
+    {
+      "universityId": "university-of-calabria",
+      "name": "Computer Engineering",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unical.it/"
+    },
+    {
+      "universityId": "university-of-calabria",
+      "name": "Health Biotechnology",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unical.it/"
+    },
+    {
+      "universityId": "university-of-calabria",
+      "name": "Robotics and Automation Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unical.it/"
+    },
+    {
+      "universityId": "university-of-calabria",
+      "name": "Telecommunication Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unical.it/"
+    },
+    {
+      "universityId": "university-of-camerino",
+      "name": "Architectural Design",
+      "field": "Architecture",
+      "applyUrl": "https://international.unicam.it/"
+    },
+    {
+      "universityId": "university-of-camerino",
+      "name": "Chemistry and Advanced Chemical Methodologies",
+      "field": "Natural Sciences",
+      "applyUrl": "https://international.unicam.it/"
+    },
+    {
+      "universityId": "university-of-camerino",
+      "name": "Computer Science",
+      "field": "Computer Science",
+      "applyUrl": "https://international.unicam.it/"
+    },
+    {
+      "universityId": "university-of-camerino",
+      "name": "Geoenvironmental Resources and Risks",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://international.unicam.it/"
+    },
+    {
+      "universityId": "university-of-campania-luigi-vanvitelli",
+      "name": "Architecture",
+      "field": "Architecture",
+      "applyUrl": "https://www.unicampania.it/"
+    },
+    {
+      "universityId": "university-of-campania-luigi-vanvitelli",
+      "name": "Civil Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unicampania.it/"
+    },
+    {
+      "universityId": "university-of-cassino",
+      "name": "Civil and Environmental Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unicas.it/international-unicas/international-office/international-welcome-service/prospective-international-students-unicas/pre-admission-admission-enrollment/"
+    },
+    {
+      "universityId": "university-of-cassino",
+      "name": "Global Economy and Business",
+      "field": "Business",
+      "applyUrl": "https://www.unicas.it/international-unicas/international-office/international-welcome-service/prospective-international-students-unicas/pre-admission-admission-enrollment/"
+    },
+    {
+      "universityId": "university-of-cassino",
+      "name": "Telecommunications Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unicas.it/international-unicas/international-office/international-welcome-service/prospective-international-students-unicas/pre-admission-admission-enrollment/"
+    },
+    {
+      "universityId": "university-of-catania",
+      "name": "Agricultural Science and Technology",
+      "field": "Humanities",
+      "applyUrl": "https://studenti.smartedu.unict.it/"
+    },
+    {
+      "universityId": "university-of-catania",
+      "name": "Automation Engineering and Control of Complex Systems",
+      "field": "Engineering",
+      "applyUrl": "https://studenti.smartedu.unict.it/"
+    },
+    {
+      "universityId": "university-of-catania",
+      "name": "Chemical Engineering for Industrial Sustainability",
+      "field": "Engineering",
+      "applyUrl": "https://studenti.smartedu.unict.it/"
+    },
+    {
+      "universityId": "university-of-catania",
+      "name": "Construction Management and Safety",
+      "field": "Business",
+      "applyUrl": "https://studenti.smartedu.unict.it/"
+    },
+    {
+      "universityId": "university-of-catania",
+      "name": "Data Science",
+      "field": "Computer Science",
+      "applyUrl": "https://studenti.smartedu.unict.it/"
+    },
+    {
+      "universityId": "university-of-catania",
+      "name": "Electrical Engineering for Sustainable Green Energy Transition",
+      "field": "Engineering",
+      "applyUrl": "https://studenti.smartedu.unict.it/"
+    },
+    {
+      "universityId": "university-of-catania",
+      "name": "Electronic Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://studenti.smartedu.unict.it/"
+    },
+    {
+      "universityId": "university-of-catania",
+      "name": "Global Politics and Euro Mediterranean Relations",
+      "field": "Political Science",
+      "applyUrl": "https://studenti.smartedu.unict.it/"
+    },
+    {
+      "universityId": "university-of-catania",
+      "name": "Physics",
+      "field": "Natural Sciences",
+      "applyUrl": "https://studenti.smartedu.unict.it/"
+    },
+    {
+      "universityId": "university-of-eastern-piedmont",
+      "name": "Biology",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.uniupo.it/en/international"
+    },
+    {
+      "universityId": "university-of-eastern-piedmont",
+      "name": "Food Health and Environment",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.uniupo.it/en/international"
+    },
+    {
+      "universityId": "university-of-eastern-piedmont",
+      "name": "Medical Biotechnologies",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.uniupo.it/en/international"
+    },
+    {
+      "universityId": "university-of-ferrara",
+      "name": "Economics, Management and Policies for Global Challenges",
+      "field": "Business",
+      "applyUrl": "https://apply.unife.it/"
+    },
+    {
+      "universityId": "university-of-ferrara",
+      "name": "Electronics for ICT",
+      "field": "Engineering",
+      "applyUrl": "https://apply.unife.it/"
+    },
+    {
+      "universityId": "university-of-ferrara",
+      "name": "Green Technologies and Sustainable Processes",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://apply.unife.it/"
+    },
+    {
+      "universityId": "university-of-ferrara",
+      "name": "Physics",
+      "field": "Natural Sciences",
+      "applyUrl": "https://apply.unife.it/"
+    },
+    {
+      "universityId": "university-of-florence",
+      "name": "Advanced Chemical Sciences & Technologies",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://apply.unifi.it/courses/course/122-advanced-chemical-sciences-technologies-lm-54"
+    },
+    {
+      "universityId": "university-of-florence",
+      "name": "Architecture (Architectural design curriculum)",
+      "field": "Architecture",
+      "applyUrl": "https://apply.unifi.it/courses/course/23-architettura-curriculum-architectural-design"
+    },
+    {
+      "universityId": "university-of-florence",
+      "name": "Artificial Intelligence",
+      "field": "Computer Science",
+      "applyUrl": "https://apply.unifi.it/courses/course/80-intelligenza-artificiale"
+    },
+    {
+      "universityId": "university-of-florence",
+      "name": "Data Science, Scientific Computing and Artificial Intelligence",
+      "field": "Computer Science",
+      "applyUrl": "https://apply.unifi.it/courses/course/98-data-science-calcolo-scientifico-intelligenza-artificiale"
+    },
+    {
+      "universityId": "university-of-florence",
+      "name": "Design of Sustainable Tourism Systems",
+      "field": "Design",
+      "applyUrl": "https://apply.unifi.it/courses/course/26-design-sustainable-tourism-systems"
+    },
+    {
+      "universityId": "university-of-florence",
+      "name": "Economics and Development",
+      "field": "Economics",
+      "applyUrl": "https://apply.unifi.it/courses/course/27-economics-and-development"
+    },
+    {
+      "universityId": "university-of-florence",
+      "name": "Economics Institutions Sustainability",
+      "field": "Economics",
+      "applyUrl": "https://apply.unifi.it/courses/course/114-economia-istituzioni-sostenibilita-economics-institutions-sustainability"
+    },
+    {
+      "universityId": "university-of-florence",
+      "name": "Finance and Risk Management",
+      "field": "Business",
+      "applyUrl": "https://apply.unifi.it/courses/course/28-finance-and-risk-management"
+    },
+    {
+      "universityId": "university-of-florence",
+      "name": "Geoengineering",
+      "field": "Engineering",
+      "applyUrl": "https://apply.unifi.it/courses/course/75-geoengineering"
+    },
+    {
+      "universityId": "university-of-florence",
+      "name": "Geography, Spatial Management, Heritage for International Cooperation",
+      "field": "Business",
+      "applyUrl": "https://apply.unifi.it/courses/course/72-geography-spatial-management-heritage-international-cooperation"
+    },
+    {
+      "universityId": "university-of-florence",
+      "name": "Mechanical Engineering for Sustainability",
+      "field": "Engineering",
+      "applyUrl": "https://apply.unifi.it/courses/course/90-mechanical-engineering-sustainability"
+    },
+    {
+      "universityId": "university-of-florence",
+      "name": "Physical and Astrophysical Sciences",
+      "field": "Natural Sciences",
+      "applyUrl": "https://apply.unifi.it/courses/course/74-physical-and-astrophysical-sciences"
+    },
+    {
+      "universityId": "university-of-florence",
+      "name": "Robotics, Automation and Electrical Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://apply.unifi.it/courses/course/107-robotics-automation-and-electrical-engineering"
+    },
+    {
+      "universityId": "university-of-florence",
+      "name": "Software: Science and Technology",
+      "field": "Computer Science",
+      "applyUrl": "https://apply.unifi.it/courses/course/97-software-science-and-technology"
+    },
+    {
+      "universityId": "university-of-florence",
+      "name": "Tropical and Subtropical Agriculture",
+      "field": "Life Sciences",
+      "applyUrl": "https://apply.unifi.it/courses/course/109-tropical-and-subtropical-agriculture"
+    },
+    {
+      "universityId": "university-of-florence",
+      "name": "Urban and Regional Planning and Design for Sustainability",
+      "field": "Design",
+      "applyUrl": "https://apply.unifi.it/courses/course/104-urban-and-regional-planning-and-design-sustainability"
+    },
+    {
+      "universityId": "university-of-foggia",
+      "name": "Economics and Finance",
+      "field": "Business",
+      "applyUrl": "https://www.unifg.it/en"
+    },
+    {
+      "universityId": "university-of-foggia",
+      "name": "Food Science and Technology",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unifg.it/en"
+    },
+    {
+      "universityId": "university-of-genoa",
+      "name": "Advanced Materials Science and Technology",
+      "field": "Natural Sciences",
+      "applyUrl": "https://corsi.unige.it/en/corsidilaurea"
+    },
+    {
+      "universityId": "university-of-genoa",
+      "name": "Architectural Composition",
+      "field": "Architecture",
+      "applyUrl": "https://corsi.unige.it/en/corsidilaurea"
+    },
+    {
+      "universityId": "university-of-genoa",
+      "name": "Bioengineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsi.unige.it/en/corsidilaurea"
+    },
+    {
+      "universityId": "university-of-genoa",
+      "name": "Building Engineering - Building Retrofitting",
+      "field": "Engineering",
+      "applyUrl": "https://corsi.unige.it/en/corsidilaurea"
+    },
+    {
+      "universityId": "university-of-genoa",
+      "name": "Computer Engineering",
+      "field": "Computer Science",
+      "applyUrl": "https://corsi.unige.it/en/corsidilaurea"
+    },
+    {
+      "universityId": "university-of-genoa",
+      "name": "Computer Science",
+      "field": "Computer Science",
+      "applyUrl": "https://corsi.unige.it/en/corsidilaurea"
+    },
+    {
+      "universityId": "university-of-genoa",
+      "name": "Digital Humanities - Interactive Systems and Digital Media",
+      "field": "Humanities",
+      "applyUrl": "https://corsi.unige.it/en/corsidilaurea"
+    },
+    {
+      "universityId": "university-of-genoa",
+      "name": "Economics and Data Science",
+      "field": "Computer Science",
+      "applyUrl": "https://corsi.unige.it/en/corsidilaurea"
+    },
+    {
+      "universityId": "university-of-genoa",
+      "name": "Electrical Engineering for Energy Transition",
+      "field": "Engineering",
+      "applyUrl": "https://corsi.unige.it/en/corsidilaurea"
+    },
+    {
+      "universityId": "university-of-genoa",
+      "name": "Electronic Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsi.unige.it/en/corsidilaurea"
+    },
+    {
+      "universityId": "university-of-genoa",
+      "name": "Energy Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsi.unige.it/en/corsidilaurea"
+    },
+    {
+      "universityId": "university-of-genoa",
+      "name": "Engineering for Natural Risk Management",
+      "field": "Engineering",
+      "applyUrl": "https://corsi.unige.it/en/corsidilaurea"
+    },
+    {
+      "universityId": "university-of-genoa",
+      "name": "Engineering Technology for Strategy and Security",
+      "field": "Engineering",
+      "applyUrl": "https://corsi.unige.it/en/corsidilaurea"
+    },
+    {
+      "universityId": "university-of-genoa",
+      "name": "Environmental Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsi.unige.it/en/corsidilaurea"
+    },
+    {
+      "universityId": "university-of-genoa",
+      "name": "International Relations (Security and International Relations)",
+      "field": "Political Science",
+      "applyUrl": "https://corsi.unige.it/en/corsidilaurea"
+    },
+    {
+      "universityId": "university-of-genoa",
+      "name": "Internet and Multimedia Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsi.unige.it/en/corsidilaurea"
+    },
+    {
+      "universityId": "university-of-genoa",
+      "name": "Management for Energy and Environmental Transition (MEET)",
+      "field": "Engineering",
+      "applyUrl": "https://corsi.unige.it/en/corsidilaurea"
+    },
+    {
+      "universityId": "university-of-genoa",
+      "name": "Medical-Pharmaceutical Biotechnology",
+      "field": "Life Sciences",
+      "applyUrl": "https://corsi.unige.it/en/corsidilaurea"
+    },
+    {
+      "universityId": "university-of-genoa",
+      "name": "Robotics Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsi.unige.it/en/corsidilaurea"
+    },
+    {
+      "universityId": "university-of-genoa",
+      "name": "Safe Transport and Logistics Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsi.unige.it/en/corsidilaurea"
+    },
+    {
+      "universityId": "university-of-genoa",
+      "name": "Sustainable Polymer and Process Chemistry (SMART)",
+      "field": "Natural Sciences",
+      "applyUrl": "https://corsi.unige.it/en/corsidilaurea"
+    },
+    {
+      "universityId": "university-of-genoa",
+      "name": "Yacht Design",
+      "field": "Design",
+      "applyUrl": "https://corsi.unige.it/en/corsidilaurea"
+    },
+    {
+      "universityId": "university-of-insubria",
+      "name": "Biomedical Sciences",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.uninsubria.eu/"
+    },
+    {
+      "universityId": "university-of-insubria",
+      "name": "Computer Science",
+      "field": "Computer Science",
+      "applyUrl": "https://www.uninsubria.eu/"
+    },
+    {
+      "universityId": "university-of-insubria",
+      "name": "Economics",
+      "field": "Economics",
+      "applyUrl": "https://www.uninsubria.eu/"
+    },
+    {
+      "universityId": "university-of-insubria",
+      "name": "Global Entrepreneurship Economics and Management",
+      "field": "Business",
+      "applyUrl": "https://www.uninsubria.eu/"
+    },
+    {
+      "universityId": "university-of-laquila",
+      "name": "Applied Data Science",
+      "field": "Computer Science",
+      "applyUrl": "https://www.univaq.it/en/"
+    },
+    {
+      "universityId": "university-of-laquila",
+      "name": "Atmospheric Science and Technology",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.univaq.it/en/"
+    },
+    {
+      "universityId": "university-of-laquila",
+      "name": "Computer and Systems Engineering",
+      "field": "Computer Science",
+      "applyUrl": "https://www.univaq.it/en/"
+    },
+    {
+      "universityId": "university-of-laquila",
+      "name": "Mathematical Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.univaq.it/en/"
+    },
+    {
+      "universityId": "university-of-laquila",
+      "name": "Telecommunications Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.univaq.it/en/"
+    },
+    {
+      "universityId": "university-of-macerata",
+      "name": "Global Politics and International Relations",
+      "field": "Political Science",
+      "applyUrl": "https://www.unimc.it/en"
+    },
+    {
+      "universityId": "university-of-macerata",
+      "name": "International Relations",
+      "field": "Political Science",
+      "applyUrl": "https://www.unimc.it/en"
+    },
+    {
+      "universityId": "university-of-messina",
+      "name": "Cognitive Science and Theory of Communication",
+      "field": "Psychology",
+      "applyUrl": "https://international.unime.it/study-us/english-taught-programmes"
+    },
+    {
+      "universityId": "university-of-messina",
+      "name": "Data Science",
+      "field": "Computer Science",
+      "applyUrl": "https://international.unime.it/study-us/english-taught-programmes"
+    },
+    {
+      "universityId": "university-of-messina",
+      "name": "Engineering in Computer Science",
+      "field": "Computer Science",
+      "applyUrl": "https://international.unime.it/study-us/english-taught-programmes"
+    },
+    {
+      "universityId": "university-of-messina",
+      "name": "Geophysical Sciences for Seismic Risk",
+      "field": "Natural Sciences",
+      "applyUrl": "https://international.unime.it/study-us/english-taught-programmes"
+    },
+    {
+      "universityId": "university-of-messina",
+      "name": "Global Security Studies: Environment, Energy and Conflicts",
+      "field": "Engineering",
+      "applyUrl": "https://international.unime.it/study-us/english-taught-programmes"
+    },
+    {
+      "universityId": "university-of-messina",
+      "name": "Physics: Material Physics and Devices",
+      "field": "Natural Sciences",
+      "applyUrl": "https://international.unime.it/study-us/english-taught-programmes"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Artificial intelligence for science and technology",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Bioinformatics for computational genomics",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Biomedical Omics (BO)",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Biotechnology for the Bioeconomy",
+      "field": "Economics",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Chemistry",
+      "field": "Natural Sciences",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Computational Social and Political Science",
+      "field": "Political Science",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Computer Science",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Cosmetic Industrial Science",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Crops and Plant Sciences",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Cultural, Intellectual and Visual History",
+      "field": "Humanities",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Data Science for Economics and Health",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Earth Sciences",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Economics and Political Science (EPS)",
+      "field": "Economics",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Environmental and Food Economics",
+      "field": "Engineering",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Environmental Change and Global Sustainability (ECGS)",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Finance and Economics (MEF)",
+      "field": "Business",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Food Science and Technology",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Geophysics",
+      "field": "Natural Sciences",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Global Environment and Development",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Global Politics and Society (GPS)",
+      "field": "Political Science",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Human-Centered Artificial Intelligence",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "International Relations (REL)",
+      "field": "Political Science",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Law and Sustainable Development",
+      "field": "Law",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Management of human resources: people, data and intelligent technologies",
+      "field": "Business",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Management of Innovation and Entrepreneurship (MIE)",
+      "field": "Business",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Medical Biotechnology and Molecular Medicine",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Migration Studies and New Societies",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Molecular Biology of the Cell",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Molecular Biotechnology and Bioinformatics",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Pharmaceutical Biotechnology",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Philosophical Sciences",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Plant Science",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Politics, Philosophy and Public Affairs (PPPA)",
+      "field": "Political Science",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Public and Corporate Communication (COM)",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Quantitative Biology",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Safety Assessment of Xenobiotics and Biotechnological Products",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Sustainable Industrial Chemistry",
+      "field": "Natural Sciences",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Sustainable natural resource management",
+      "field": "Business",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Theatre, Arts, Literatures. International Studies in Intermediality",
+      "field": "Political Science",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milan",
+      "name": "Valorization and sustainable development of mountain areas",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unimi.it/en/education/master-programme"
+    },
+    {
+      "universityId": "university-of-milano-bicocca",
+      "name": "Applied Experimental Psychological Sciences",
+      "field": "Psychology",
+      "applyUrl": "https://en.unimib.it/graduate/applied-experimental-psychological-sciences"
+    },
+    {
+      "universityId": "university-of-milano-bicocca",
+      "name": "Artificial Intelligence for Science and Technology",
+      "field": "Computer Science",
+      "applyUrl": "https://apply.unimib.it/en_GB/courses/course/72-artificial-intelligence-science-and-technology"
+    },
+    {
+      "universityId": "university-of-milano-bicocca",
+      "name": "Data Science",
+      "field": "Computer Science",
+      "applyUrl": "https://apply.unimib.it/en_GB/courses/course/75-data-science"
+    },
+    {
+      "universityId": "university-of-milano-bicocca",
+      "name": "International Economics",
+      "field": "Economics",
+      "applyUrl": "https://en.unimib.it/graduate/international-economics"
+    },
+    {
+      "universityId": "university-of-milano-bicocca",
+      "name": "Marine Sciences",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://en.unimib.it/graduate/marine-sciences"
+    },
+    {
+      "universityId": "university-of-milano-bicocca",
+      "name": "Marketing and Global Markets (Global Management curriculum)",
+      "field": "Business",
+      "applyUrl": "https://apply.unimib.it/en_GB/courses/course/102-marketing-and-global-markets"
+    },
+    {
+      "universityId": "university-of-milano-bicocca",
+      "name": "Materials Science and Nanotechnology",
+      "field": "Engineering",
+      "applyUrl": "https://apply.unimib.it/en_GB/courses/course/80-materials-science-and-nanotechnology"
+    },
+    {
+      "universityId": "university-of-modena-and-reggio-emilia",
+      "name": "Advanced Automotive Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unimore.it/en/education/degree-programmes/advanced-automotive-engineering"
+    },
+    {
+      "universityId": "university-of-modena-and-reggio-emilia",
+      "name": "Artificial Intelligence Engineering",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unimore.it/en/education/degree-programmes/artificial-intelligence-engineering"
+    },
+    {
+      "universityId": "university-of-modena-and-reggio-emilia",
+      "name": "Electronics Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unimore.it/en/education/degree-programmes"
+    },
+    {
+      "universityId": "university-of-modena-and-reggio-emilia",
+      "name": "Physics",
+      "field": "Natural Sciences",
+      "applyUrl": "https://www.unimore.it/en/education/degree-programmes"
+    },
+    {
+      "universityId": "university-of-naples-federico-ii",
+      "name": "Architecture and Heritage",
+      "field": "Architecture",
+      "applyUrl": "https://www.corsi.unina.it/?lang=inglese"
+    },
+    {
+      "universityId": "university-of-naples-federico-ii",
+      "name": "Autonomous Vehicle Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.corsi.unina.it/?lang=inglese"
+    },
+    {
+      "universityId": "university-of-naples-federico-ii",
+      "name": "Biology of Extreme Environments",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.corsi.unina.it/?lang=inglese"
+    },
+    {
+      "universityId": "university-of-naples-federico-ii",
+      "name": "Data Science",
+      "field": "Computer Science",
+      "applyUrl": "https://www.corsi.unina.it/?lang=inglese"
+    },
+    {
+      "universityId": "university-of-naples-federico-ii",
+      "name": "Design for the Built Environment",
+      "field": "Design",
+      "applyUrl": "https://www.corsi.unina.it/?lang=inglese"
+    },
+    {
+      "universityId": "university-of-naples-federico-ii",
+      "name": "Digital Society, Social Innovation and Global Citizenship",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.corsi.unina.it/?lang=inglese"
+    },
+    {
+      "universityId": "university-of-naples-parthenope",
+      "name": "Applied Computer Science (Machine Learning and Big Data)",
+      "field": "Computer Science",
+      "applyUrl": "https://www.uniparthenope.it/en"
+    },
+    {
+      "universityId": "university-of-naples-parthenope",
+      "name": "Fashion, Art & Food Management",
+      "field": "Design",
+      "applyUrl": "https://www.uniparthenope.it/en"
+    },
+    {
+      "universityId": "university-of-naples-parthenope",
+      "name": "Fashion, Art and Food Management",
+      "field": "Design",
+      "applyUrl": "https://www.uniparthenope.it/en"
+    },
+    {
+      "universityId": "university-of-naples-parthenope",
+      "name": "Management Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.uniparthenope.it/en"
+    },
+    {
+      "universityId": "university-of-naples-parthenope",
+      "name": "Marketing and International Management",
+      "field": "Business",
+      "applyUrl": "https://www.uniparthenope.it/en"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Accounting, Finance and Business Consulting",
+      "field": "Business",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/accounting-finance-and-business-consulting"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Aerospace Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/aerospace-engineering"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Applied Child and Adolescent Psychology",
+      "field": "Psychology",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/applied-child-and-adolescent-psychology"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Applied Economics",
+      "field": "Economics",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/applied-economics"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Applied sciences to cultural heritage, materials and sites",
+      "field": "Humanities",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/applied-sciences-to-cultural-heritage-materials-and-sites"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Astrophysics and Cosmology",
+      "field": "Natural Sciences",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/astrophysics-and-cosmology"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Biotechnologies for food science",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/biotechnologies-for-food-science"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Chemical and process engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/chemical-and-process-engineering"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Clinical, social and intercultural psychology",
+      "field": "Psychology",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/clinical-social-and-intercultural-psychology"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Cognitive neuroscience and clinical neuropsychology",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/cognitive-neuroscience-and-clinical-neuropsychology"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Cognitive sciences for human-centric technologies",
+      "field": "Psychology",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/cognitive-sciences-for-human-centric-technologies"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Communication Strategies",
+      "field": "Humanities",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/communication-strategies"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Complex and data driven chemistry",
+      "field": "Natural Sciences",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/complex-and-data-driven-chemistry"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Computational Finance",
+      "field": "Business",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/computational-finance"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Computer Engineering",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/computer-engineering"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Computer Science",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/computer-science"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Control Systems Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/control-systems-engineering"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Cybersecurity",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/cybersecurity"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Data Science",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/data-science"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Earth Dynamics",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/earth-dynamics"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Electrical Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/electrical-engineering"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Electronic Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/electronic-engineering"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Energy Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/energy-engineering"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "English Studies",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/english-studies"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Environmental engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/environmental-engineering"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Environmental sciences for the ecological transition",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/environmental-sciences-for-the-ecological-transition"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Environmental Sustainability and Education",
+      "field": "Education",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/environmental-sustainability-and-education"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "European and Global Studies",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/european-and-global-studies"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Evolutionary biology",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/evolutionary-biology"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Food and Health",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/food-and-health"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Food Industry Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/food-industry-engineering"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Food, Nutrition and Health",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/food-nutrition-and-health"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Forest sciences",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/forest-sciences"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Geophysics for Earth and Climate Processes, Risks and Resources",
+      "field": "Natural Sciences",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/geophysics-for-earth-and-climate-processes-risks-and-resources"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Human Rights and Multi-level Governance",
+      "field": "Law",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/human-rights-and-multi-level-governance"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "ICT for Internet and multimedia",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/ict-for-internet-and-multimedia"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Intelligent Civil Infrastructures Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/intelligent-civil-infrastructures-engineering"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Italian food and wine",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/italian-food-and-wine"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Local development",
+      "field": "Social Sciences",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/local-development"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Management Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/management-engineering"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Management for Sustainable Firms",
+      "field": "Business",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/management-for-sustainable-firms"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Marine Biology",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/marine-biology"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Materials Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/materials-engineering"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Materials Science",
+      "field": "Natural Sciences",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/materials-science"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Mathematical Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/mathematical-engineering"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Mathematics",
+      "field": "Natural Sciences",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/mathematics"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Mechanical Engineering for Product Innovation",
+      "field": "Engineering",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/mechanical-engineering-for-product-innovation"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Mechatronics Engineering",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/mechatronics-engineering"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Medical Biotechnologies",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/medical-biotechnologies"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Mobility Studies",
+      "field": "Social Sciences",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/mobility-studies"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Molecular Biology",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/molecular-biology"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Pharmaceutical Biotechnologies",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/pharmaceutical-biotechnologies"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Physics",
+      "field": "Natural Sciences",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/physics"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Physics of Data",
+      "field": "Natural Sciences",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/physics-of-data"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Planetary Geosciences",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/planetary-geosciences"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Quantitative and computational biosciences",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/quantitative-and-computational-biosciences"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Quantum Science and Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/quantum-science-and-engineering"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Social Sciences and Digital Data",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/social-sciences-and-digital-data"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Sustainable agriculture",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/sustainable-agriculture"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Sustainable chemistry and technologies for circular economy",
+      "field": "Economics",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/sustainable-chemistry-and-technologies-for-circular-economy"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Viticulture, Enology and Wine Marketing",
+      "field": "Business",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/viticulture-enology-and-wine-marketing"
+    },
+    {
+      "universityId": "university-of-padua",
+      "name": "Water and Geological Risk Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unipd.it/en/corsi-di-laurea/water-and-geological-risk-engineering"
+    },
+    {
+      "universityId": "university-of-palermo",
+      "name": "Electronics Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unipa.it/english/"
+    },
+    {
+      "universityId": "university-of-palermo",
+      "name": "Management Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unipa.it/english/"
+    },
+    {
+      "universityId": "university-of-palermo",
+      "name": "Migrations, Diversity, Coexistence",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unipa.it/english/"
+    },
+    {
+      "universityId": "university-of-parma",
+      "name": "Economics and management of sustainable food environment",
+      "field": "Business",
+      "applyUrl": "https://corsi.unipr.it/en/cdlm-emsas"
+    },
+    {
+      "universityId": "university-of-parma",
+      "name": "Economics and Management of Sustainable Food Systems",
+      "field": "Business",
+      "applyUrl": "https://corsi.unipr.it/en/cdlm-emsas"
+    },
+    {
+      "universityId": "university-of-parma",
+      "name": "Engineering for the food industry",
+      "field": "Engineering",
+      "applyUrl": "https://corsi.unipr.it/en/cdlm-iimia"
+    },
+    {
+      "universityId": "university-of-parma",
+      "name": "Food system: management, sustainability and technologies",
+      "field": "Business",
+      "applyUrl": "https://corsi.unipr.it/en/cdl-salim"
+    },
+    {
+      "universityId": "university-of-pavia",
+      "name": "Artificial Intelligence for Science and Technology",
+      "field": "Computer Science",
+      "applyUrl": "https://portale.unipv.it/en/didattica/corsi-di-laurea"
+    },
+    {
+      "universityId": "university-of-pavia",
+      "name": "Bioengineering",
+      "field": "Engineering",
+      "applyUrl": "https://portale.unipv.it/en/didattica/corsi-di-laurea"
+    },
+    {
+      "universityId": "university-of-pavia",
+      "name": "Civil Engineering for Mitigation of Risk from Natural Hazards",
+      "field": "Engineering",
+      "applyUrl": "https://portale.unipv.it/en/didattica/corsi-di-laurea"
+    },
+    {
+      "universityId": "university-of-pavia",
+      "name": "Computer Engineering",
+      "field": "Computer Science",
+      "applyUrl": "https://portale.unipv.it/en/didattica/corsi-di-laurea"
+    },
+    {
+      "universityId": "university-of-pavia",
+      "name": "Economics, Finance and International Integration",
+      "field": "Business",
+      "applyUrl": "https://portale.unipv.it/en/didattica/corsi-di-laurea"
+    },
+    {
+      "universityId": "university-of-pavia",
+      "name": "Electrical Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://portale.unipv.it/en/didattica/corsi-di-laurea"
+    },
+    {
+      "universityId": "university-of-pavia",
+      "name": "Electronic Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://portale.unipv.it/en/didattica/corsi-di-laurea"
+    },
+    {
+      "universityId": "university-of-pavia",
+      "name": "Finance",
+      "field": "Business",
+      "applyUrl": "https://portale.unipv.it/en/didattica/corsi-di-laurea"
+    },
+    {
+      "universityId": "university-of-pavia",
+      "name": "Human-Centered Artificial Intelligence",
+      "field": "Computer Science",
+      "applyUrl": "https://portale.unipv.it/en/didattica/corsi-di-laurea"
+    },
+    {
+      "universityId": "university-of-pavia",
+      "name": "Industrial Nanobiotechnologies for Pharmaceuticals",
+      "field": "Life Sciences",
+      "applyUrl": "https://portale.unipv.it/en/didattica/corsi-di-laurea"
+    },
+    {
+      "universityId": "university-of-pavia",
+      "name": "International Business and Entrepreneurship",
+      "field": "Business",
+      "applyUrl": "https://portale.unipv.it/en/didattica/corsi-di-laurea"
+    },
+    {
+      "universityId": "university-of-pavia",
+      "name": "Medical and Pharmaceutical Biotechnologies",
+      "field": "Life Sciences",
+      "applyUrl": "https://portale.unipv.it/en/didattica/corsi-di-laurea"
+    },
+    {
+      "universityId": "university-of-pavia",
+      "name": "Molecular Biology and Genetics",
+      "field": "Life Sciences",
+      "applyUrl": "https://portale.unipv.it/en/didattica/corsi-di-laurea"
+    },
+    {
+      "universityId": "university-of-pavia",
+      "name": "Psychology, Neuroscience and Human Sciences",
+      "field": "Life Sciences",
+      "applyUrl": "https://portale.unipv.it/en/didattica/corsi-di-laurea"
+    },
+    {
+      "universityId": "university-of-pavia",
+      "name": "The Ancient Mediterranean World. History, Archaeology and Art",
+      "field": "Humanities",
+      "applyUrl": "https://portale.unipv.it/en/didattica/corsi-di-laurea"
+    },
+    {
+      "universityId": "university-of-pavia",
+      "name": "World Politics and International Relations",
+      "field": "Political Science",
+      "applyUrl": "https://portale.unipv.it/en/didattica/corsi-di-laurea"
+    },
+    {
+      "universityId": "university-of-perugia",
+      "name": "Agriculture",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unipg.it/en"
+    },
+    {
+      "universityId": "university-of-perugia",
+      "name": "Engineering Management",
+      "field": "Engineering",
+      "applyUrl": "https://www.unipg.it/en"
+    },
+    {
+      "universityId": "university-of-perugia",
+      "name": "International Relations",
+      "field": "Political Science",
+      "applyUrl": "https://www.unipg.it/en"
+    },
+    {
+      "universityId": "university-of-pisa",
+      "name": "Aerospace Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unipi.it/en/international-students/programmes-taught-in-english"
+    },
+    {
+      "universityId": "university-of-pisa",
+      "name": "Artificial Intelligence and Data Engineering",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unipi.it/en/international-students/programmes-taught-in-english"
+    },
+    {
+      "universityId": "university-of-pisa",
+      "name": "Bionics Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unipi.it/en/international-students/programmes-taught-in-english"
+    },
+    {
+      "universityId": "university-of-pisa",
+      "name": "Biotechnologies and Applied Artificial Intelligence for Health",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unipi.it/en/international-students/programmes-taught-in-english"
+    },
+    {
+      "universityId": "university-of-pisa",
+      "name": "Communications Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unipi.it/en/international-students/programmes-taught-in-english"
+    },
+    {
+      "universityId": "university-of-pisa",
+      "name": "Computer Engineering",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unipi.it/en/international-students/programmes-taught-in-english"
+    },
+    {
+      "universityId": "university-of-pisa",
+      "name": "Computer Science",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unipi.it/en/international-students/programmes-taught-in-english"
+    },
+    {
+      "universityId": "university-of-pisa",
+      "name": "Cybersecurity",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unipi.it/en/international-students/programmes-taught-in-english"
+    },
+    {
+      "universityId": "university-of-pisa",
+      "name": "Data Science and Business Informatics",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unipi.it/en/international-students/programmes-taught-in-english"
+    },
+    {
+      "universityId": "university-of-pisa",
+      "name": "Digital Intelligence and Change Management",
+      "field": "Business",
+      "applyUrl": "https://www.unipi.it/en/international-students/programmes-taught-in-english"
+    },
+    {
+      "universityId": "university-of-pisa",
+      "name": "Economics",
+      "field": "Economics",
+      "applyUrl": "https://www.unipi.it/en/international-students/programmes-taught-in-english"
+    },
+    {
+      "universityId": "university-of-pisa",
+      "name": "Exploration and Applied Geophysics",
+      "field": "Natural Sciences",
+      "applyUrl": "https://www.unipi.it/en/international-students/programmes-taught-in-english"
+    },
+    {
+      "universityId": "university-of-pisa",
+      "name": "Informatics for Digital Health",
+      "field": "Computer Science",
+      "applyUrl": "https://www.unipi.it/en/international-students/programmes-taught-in-english"
+    },
+    {
+      "universityId": "university-of-pisa",
+      "name": "Materials and Nanotechnology",
+      "field": "Engineering",
+      "applyUrl": "https://www.unipi.it/en/international-students/programmes-taught-in-english"
+    },
+    {
+      "universityId": "university-of-pisa",
+      "name": "Neuroscience",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unipi.it/en/international-students/programmes-taught-in-english"
+    },
+    {
+      "universityId": "university-of-pisa",
+      "name": "Nuclear Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://www.unipi.it/en/international-students/programmes-taught-in-english"
+    },
+    {
+      "universityId": "university-of-pisa",
+      "name": "Technology and Production of Paper and Cardboard",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.unipi.it/en/international-students/programmes-taught-in-english"
+    },
+    {
+      "universityId": "university-of-salento",
+      "name": "Aerospace Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://international.unisalento.it/studying/international-degree-programmes/-/dettaglio/corso/LM52/"
+    },
+    {
+      "universityId": "university-of-salento",
+      "name": "Coastal and Marine Biology and Ecology",
+      "field": "Life Sciences",
+      "applyUrl": "https://international.unisalento.it/en/studying/international-degree-programmes/"
+    },
+    {
+      "universityId": "university-of-salento",
+      "name": "Communication Engineering and Electronic Technologies",
+      "field": "Engineering",
+      "applyUrl": "https://international.unisalento.it/en/studying/international-degree-programmes/"
+    },
+    {
+      "universityId": "university-of-salento",
+      "name": "Digital Heritage",
+      "field": "Humanities",
+      "applyUrl": "https://international.unisalento.it/en/studying/international-degree-programmes/"
+    },
+    {
+      "universityId": "university-of-salento",
+      "name": "Energy Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://international.unisalento.it/admission/scholarships-grants/invest-your-talent-in-italy/energy"
+    },
+    {
+      "universityId": "university-of-salento",
+      "name": "Engineering for Safety and Resilience of Critical Infrastructures and Structures",
+      "field": "Engineering",
+      "applyUrl": "https://international.unisalento.it/admission/scholarships-grants/invest-your-talent-in-italy/engine"
+    },
+    {
+      "universityId": "university-of-salento",
+      "name": "Management Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://international.unisalento.it/en/studying/international-degree-programmes/"
+    },
+    {
+      "universityId": "university-of-salento",
+      "name": "Materials Engineering and Nanotechnologies",
+      "field": "Engineering",
+      "applyUrl": "https://international.unisalento.it/en/studying/international-degree-programmes/"
+    },
+    {
+      "universityId": "university-of-salerno",
+      "name": "Chemistry",
+      "field": "Natural Sciences",
+      "applyUrl": "https://web.unisa.it/en"
+    },
+    {
+      "universityId": "university-of-salerno",
+      "name": "Computer Science",
+      "field": "Computer Science",
+      "applyUrl": "https://web.unisa.it/en"
+    },
+    {
+      "universityId": "university-of-salerno",
+      "name": "Data Science and Machine Learning",
+      "field": "Computer Science",
+      "applyUrl": "https://web.unisa.it/en"
+    },
+    {
+      "universityId": "university-of-sassari",
+      "name": "International Tourism Management",
+      "field": "Business",
+      "applyUrl": "https://www.uniss.it/en"
+    },
+    {
+      "universityId": "university-of-siena",
+      "name": "Applied Mathematics",
+      "field": "Natural Sciences",
+      "applyUrl": "https://applied-mathematics.unisi.it/en"
+    },
+    {
+      "universityId": "university-of-siena",
+      "name": "Artificial Intelligence and Automation Engineering",
+      "field": "Computer Science",
+      "applyUrl": "https://artificial-intelligence-automation.unisi.it/en"
+    },
+    {
+      "universityId": "university-of-siena",
+      "name": "Biodiversity, Conservation and Environmental Quality",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://bceq.unisi.it/en"
+    },
+    {
+      "universityId": "university-of-siena",
+      "name": "Biotech Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://biotech-engineering.unisi.it/en"
+    },
+    {
+      "universityId": "university-of-siena",
+      "name": "Biotechnologies of Human Reproduction",
+      "field": "Life Sciences",
+      "applyUrl": "https://biotechnologies-humrep.unisi.it/en"
+    },
+    {
+      "universityId": "university-of-siena",
+      "name": "Chemistry",
+      "field": "Natural Sciences",
+      "applyUrl": "https://chemistry.unisi.it/en"
+    },
+    {
+      "universityId": "university-of-siena",
+      "name": "Economics",
+      "field": "Economics",
+      "applyUrl": "https://economics.unisi.it/en"
+    },
+    {
+      "universityId": "university-of-siena",
+      "name": "Economics and Management",
+      "field": "Business",
+      "applyUrl": "https://economics-management.unisi.it/en"
+    },
+    {
+      "universityId": "university-of-siena",
+      "name": "Electronics and Communications Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://electronics-communications.unisi.it/en"
+    },
+    {
+      "universityId": "university-of-siena",
+      "name": "Engineering Management",
+      "field": "Engineering",
+      "applyUrl": "https://engineering-management.unisi.it/en"
+    },
+    {
+      "universityId": "university-of-siena",
+      "name": "Finance",
+      "field": "Business",
+      "applyUrl": "https://finance.unisi.it/en"
+    },
+    {
+      "universityId": "university-of-siena",
+      "name": "Genetic Counsellors",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://genetic-counsellors.unisi.it/en"
+    },
+    {
+      "universityId": "university-of-siena",
+      "name": "International Accounting and Management",
+      "field": "Business",
+      "applyUrl": "https://iama.unisi.it/en"
+    },
+    {
+      "universityId": "university-of-siena",
+      "name": "International Studies (European Studies curriculum)",
+      "field": "Political Science",
+      "applyUrl": "https://scienze-internazionali.unisi.it/it/studiare/curricula/curriculum-european-studies-held-engli"
+    },
+    {
+      "universityId": "university-of-siena",
+      "name": "Language and Mind",
+      "field": "Humanities",
+      "applyUrl": "https://language-mind.unisi.it/en"
+    },
+    {
+      "universityId": "university-of-siena",
+      "name": "Medical Biotechnologies",
+      "field": "Life Sciences",
+      "applyUrl": "https://medical-biotechnologies.unisi.it/en"
+    },
+    {
+      "universityId": "university-of-siena",
+      "name": "Public and Cultural Diplomacy",
+      "field": "Political Science",
+      "applyUrl": "https://public-cultural-diplomacy.unisi.it/en"
+    },
+    {
+      "universityId": "university-of-siena",
+      "name": "Sustainable Industrial Pharmaceutical Biotechnology",
+      "field": "Life Sciences",
+      "applyUrl": "https://sustainable-biotechnology.unisi.it"
+    },
+    {
+      "universityId": "university-of-teramo",
+      "name": "Food Science and Technology",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unite.it/English/"
+    },
+    {
+      "universityId": "university-of-teramo",
+      "name": "Reproductive Biotechnologies",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unite.it/English/"
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "name": "Art History in Rome, from Late Antiquity to the Present",
+      "field": "Humanities",
+      "applyUrl": "https://web.uniroma2.it/en/contenuto/art_history_in_rome__from_late_antiquity_to_the_present"
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "name": "Astrophysics and Space Science",
+      "field": "Natural Sciences",
+      "applyUrl": "https://web.uniroma2.it/en/contenuto/astrophysics"
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "name": "Biotechnology for Industry and Health",
+      "field": "Life Sciences",
+      "applyUrl": "https://web.uniroma2.it/en/contenuto/biotechnology-56817"
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "name": "Business Administration",
+      "field": "Business",
+      "applyUrl": "https://web.uniroma2.it/en/contenuto/business_administration-91733"
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "name": "Chemistry for Nano-Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://web.uniroma2.it/en/contenuto/chemistry_for_nano-engineering-28519"
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "name": "Clinical Psychosexology",
+      "field": "Medicine",
+      "applyUrl": "https://web.uniroma2.it/en/contenuto/clinical_psychosexology"
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "name": "Economics",
+      "field": "Economics",
+      "applyUrl": "https://web.uniroma2.it/en/contenuto/economics-42227"
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "name": "European Economy and Business Law",
+      "field": "Business",
+      "applyUrl": "https://web.uniroma2.it/en/contenuto/european_economy_and_business_law-85105"
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "name": "European History (Scienze della Storia e del Documento)",
+      "field": "Humanities",
+      "applyUrl": "https://web.uniroma2.it/en/contenuto/european_history_scienze_della_storia_e_del_documento"
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "name": "Finance and Banking",
+      "field": "Business",
+      "applyUrl": "https://web.uniroma2.it/en/contenuto/finance_and_banking-3133"
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "name": "ICT and Internet Engineering",
+      "field": "Computer Science",
+      "applyUrl": "https://web.uniroma2.it/en/contenuto/ict_and_internet_engineering-60574"
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "name": "Management Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://web.uniroma2.it/en/contenuto/management-engineering"
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "name": "Mechatronics Engineering",
+      "field": "Computer Science",
+      "applyUrl": "https://web.uniroma2.it/en/contenuto/mechatronics_engineering-29180"
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "name": "Physics of Complex Systems and Big Data",
+      "field": "Natural Sciences",
+      "applyUrl": "https://web.uniroma2.it/en/contenuto/physics_of_complex_systems_and_big_data"
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "name": "Physics of Fundamental Interactions and Experimental Techniques",
+      "field": "Natural Sciences",
+      "applyUrl": "https://web.uniroma2.it/en/contenuto/physics_of_fundamental_interactions_and_experimental_techniques"
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "name": "Sport and Health Promotion",
+      "field": "Life Sciences",
+      "applyUrl": "https://web.uniroma2.it/en/contenuto/Sport-and-Health-Promotion"
+    },
+    {
+      "universityId": "university-of-tor-vergata",
+      "name": "Tourism Strategy, Cultural Heritage and Made in Italy",
+      "field": "Humanities",
+      "applyUrl": "https://web.uniroma2.it/en/contenuto/tourism_strategy__cultural_heritage_and_made_in_italy"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Agrifood Innovation Management",
+      "field": "Business",
+      "applyUrl": "https://corsi.unitn.it/en/agrifood-innovation-management"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Artificial Intelligence Systems",
+      "field": "Computer Science",
+      "applyUrl": "https://corsi.unitn.it/en/artificial-intelligence-systems"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Behavioural and Applied Economics",
+      "field": "Economics",
+      "applyUrl": "https://corsi.unitn.it/en/behavioural-and-applied-economics"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Bioengineering for Personalized Medicine",
+      "field": "Engineering",
+      "applyUrl": "https://corsi.unitn.it/en/bioengineering-for-personalized-medicine"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Cellular and Molecular Biotechnology",
+      "field": "Life Sciences",
+      "applyUrl": "https://corsi.unitn.it/en/cellular-and-molecular-biotechnology"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Civil Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsi.unitn.it/en/civil-engineering"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Cognitive Science",
+      "field": "Psychology",
+      "applyUrl": "https://corsi.unitn.it/en/cognitive-science"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Computer Science",
+      "field": "Computer Science",
+      "applyUrl": "https://corsi.unitn.it/en/computer-science"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Data Science",
+      "field": "Computer Science",
+      "applyUrl": "https://corsi.unitn.it/en/data-science"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Energy Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsi.unitn.it/en/energy-engineering"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Environmental Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsi.unitn.it/en/environmental-engineering"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Environmental Meteorology and Climate Physics",
+      "field": "Natural Sciences",
+      "applyUrl": "https://corsi.unitn.it/en/environmental-meteorology-and-climate-physics"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "European and International Studies",
+      "field": "Political Science",
+      "applyUrl": "https://corsi.unitn.it/en/european-and-international-studies"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Global Affairs: Geopolitics and Sustainability",
+      "field": "Political Science",
+      "applyUrl": "https://corsi.unitn.it/en/global-affairs-geopolitics-and-sustainability"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Global Law Making",
+      "field": "Law",
+      "applyUrl": "https://corsi.unitn.it/en/global-law-making"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Human-Computer Interaction",
+      "field": "Computer Science",
+      "applyUrl": "https://corsi.unitn.it/en/human-computer-interaction"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Information Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsi.unitn.it/en/information-engineering"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Innovation Management",
+      "field": "Business",
+      "applyUrl": "https://corsi.unitn.it/en/innovation-management"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Intelligent Mechatronics Engineering",
+      "field": "Computer Science",
+      "applyUrl": "https://corsi.unitn.it/en/intelligent-mechatronics-engineering"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "International Management",
+      "field": "Business",
+      "applyUrl": "https://corsi.unitn.it/en/international-management"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "International Security Studies",
+      "field": "Political Science",
+      "applyUrl": "https://corsi.unitn.it/en/international-security-studies"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Management - EMBS",
+      "field": "Business",
+      "applyUrl": "https://corsi.unitn.it/en/management-embs"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Management and Industrial Systems Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsi.unitn.it/en/management-and-industrial-systems-engineering"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Materials Engineering",
+      "field": "Engineering",
+      "applyUrl": "https://corsi.unitn.it/en/materials-engineering"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Mathematics",
+      "field": "Natural Sciences",
+      "applyUrl": "https://corsi.unitn.it/en/mathematics"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Physics",
+      "field": "Natural Sciences",
+      "applyUrl": "https://corsi.unitn.it/en/physics"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Quantitative and Computational Biology",
+      "field": "Life Sciences",
+      "applyUrl": "https://corsi.unitn.it/en/quantitative-and-computational-biology"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Security, Intelligence and Strategic Studies",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://corsi.unitn.it/en/security-intelligence-and-strategic-studies"
+    },
+    {
+      "universityId": "university-of-trento",
+      "name": "Sociology and Social Research",
+      "field": "Political Science",
+      "applyUrl": "https://corsi.unitn.it/en/sociology-and-social-research"
+    },
+    {
+      "universityId": "university-of-trieste",
+      "name": "Computer Engineering",
+      "field": "Computer Science",
+      "applyUrl": "https://lauree.units.it/en/0320107303300001/course"
+    },
+    {
+      "universityId": "university-of-trieste",
+      "name": "Data Science and Scientific Computing",
+      "field": "Computer Science",
+      "applyUrl": "https://www.units.it/en"
+    },
+    {
+      "universityId": "university-of-trieste",
+      "name": "Neuroscience",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.units.it/en"
+    },
+    {
+      "universityId": "university-of-trieste",
+      "name": "Production Engineering and Management",
+      "field": "Engineering",
+      "applyUrl": "https://www.units.it/en"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Animal nutrition and Feed Safety",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://en.san.unito.it/do/home.pl"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Area and Global Studies for International Cooperation",
+      "field": "Political Science",
+      "applyUrl": "http://www.agic.unito.it/do/home.pl"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Artificial Intelligence and High Performance Computing Technologies",
+      "field": "Computer Science",
+      "applyUrl": "https://apply.unito.it/en_GB/courses/course/709-artificial-intelligence-and-high-performance-computing-technologies"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Artificial Intelligence for Biomedicine and Healthcare",
+      "field": "Computer Science",
+      "applyUrl": "https://www.aibh.unito.it/do/home.pl"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Biotechnological and Chemical Sciences in Diagnostics",
+      "field": "Life Sciences",
+      "applyUrl": "https://bcsd.campusnet.unito.it/do/home.pl"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Biotechnology for Neuroscience",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.biotechnologyneuroscience.unito.it/do/home.pl"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Business Administration",
+      "field": "Business",
+      "applyUrl": "http://www.business-administration.unito.it/do/home.pl"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Cellular and Molecular Biology",
+      "field": "Life Sciences",
+      "applyUrl": "http://cmb.campusnet.unito.it/do/home.pl"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Cultural Heritage and Creativity for tourism and territorial development",
+      "field": "Humanities",
+      "applyUrl": "https://www.culturalheritage.unito.it/do/home.pl"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Digital Skills for Sustainable Societal Transition",
+      "field": "Interdisciplinary",
+      "applyUrl": "https://www.polito.it/en/education/master-s-degree-programmes/digital-skills-for-sustainable-societal-transitions"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Economic Analysis and Policy",
+      "field": "Economics",
+      "applyUrl": "https://www.eap.unito.it/do/home.pl"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Economics",
+      "field": "Economics",
+      "applyUrl": "http://www.economics.unito.it/do/home.pl"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Economics of Innovation for Sustainable Development",
+      "field": "Economics",
+      "applyUrl": "https://www.eisd.unito.it/do/home.pl"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "English and American Studies",
+      "field": "Interdisciplinary",
+      "applyUrl": "http://www.lingue.unito.it/do/home.pl/View?doc=/Lauree_Magistrali/english_and_american_studies.html"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "European Legal Studies",
+      "field": "Law",
+      "applyUrl": "http://www.europeanlegalstudies.unito.it/do/home.pl"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Food Science and Technology",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.mfs.unito.it/do/home.pl"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Language technologies and digital humanities",
+      "field": "Humanities",
+      "applyUrl": "https://www.digitalhumanities.unito.it/do/home.pl"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Materials Science",
+      "field": "Natural Sciences",
+      "applyUrl": "https://scienzadeimateriali.campusnet.unito.it/do/home.pl"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Molecular Biotechnology",
+      "field": "Life Sciences",
+      "applyUrl": "http://www.molecularbiotechnology.unito.it/do/home.pl"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Philosophy",
+      "field": "Humanities",
+      "applyUrl": "https://www.pic.unito.it/do/home.pl"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Quantitative Finance and Insurance",
+      "field": "Business",
+      "applyUrl": "http://www.finance-insurance.unito.it/do/home.pl"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Smart agriculture",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.sa.unito.it/do/home.pl/View?doc=agricultural_science.html"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Stochastics and Data Science",
+      "field": "Computer Science",
+      "applyUrl": "http://www.master-sds.unito.it/do/home.pl"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Urban And Political Geography",
+      "field": "Political Science",
+      "applyUrl": "https://www.geography.unito.it/do/home.pl"
+    },
+    {
+      "universityId": "university-of-turin",
+      "name": "Viticulture and Enology Sciences",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.sve.unito.it/do/home.pl/View?doc=viticulture_and_enology_sciences.html"
+    },
+    {
+      "universityId": "university-of-tuscia",
+      "name": "Circular Economy",
+      "field": "Economics",
+      "applyUrl": "https://www.unitus.it/en/"
+    },
+    {
+      "universityId": "university-of-tuscia",
+      "name": "Forestry and Environmental Sciences",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.unitus.it/en/"
+    },
+    {
+      "universityId": "university-of-tuscia",
+      "name": "Security and Human Rights",
+      "field": "Political Science",
+      "applyUrl": "https://www.unitus.it/en/"
+    },
+    {
+      "universityId": "university-of-udine",
+      "name": "Computer Science",
+      "field": "Computer Science",
+      "applyUrl": "https://www.uniud.it/en"
+    },
+    {
+      "universityId": "university-of-udine",
+      "name": "International Marketing, Management and Organization",
+      "field": "Business",
+      "applyUrl": "https://www.uniud.it/en"
+    },
+    {
+      "universityId": "university-of-udine",
+      "name": "Multimedia Communication and Information Technology",
+      "field": "Computer Science",
+      "applyUrl": "https://www.uniud.it/en"
+    },
+    {
+      "universityId": "university-of-verona",
+      "name": "Artificial Intelligence",
+      "field": "Computer Science",
+      "applyUrl": "https://www.corsi.univr.it/?ent=cs&id=1355&lang=en"
+    },
+    {
+      "universityId": "university-of-verona",
+      "name": "Biology for Translational Research and Precision Medicine",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.corsi.univr.it/?ent=cs&id=1337&lang=en"
+    },
+    {
+      "universityId": "university-of-verona",
+      "name": "Computer Engineering for Intelligent Systems",
+      "field": "Computer Science",
+      "applyUrl": "https://www.corsi.univr.it/?ent=cs&id=1291&lang=en"
+    },
+    {
+      "universityId": "university-of-verona",
+      "name": "Data Science",
+      "field": "Computer Science",
+      "applyUrl": "https://www.corsi.univr.it/?ent=cs&id=1175&lang=en"
+    },
+    {
+      "universityId": "university-of-verona",
+      "name": "Economics and Data Analysis",
+      "field": "Economics",
+      "applyUrl": "https://www.corsi.univr.it/?ent=cs&id=1307&lang=en"
+    },
+    {
+      "universityId": "university-of-verona",
+      "name": "International Economics and Business",
+      "field": "Business",
+      "applyUrl": "https://www.corsi.univr.it/?ent=cs&id=1308&lang=en"
+    },
+    {
+      "universityId": "university-of-verona",
+      "name": "Languages for Global Business, Trade and Tourism",
+      "field": "Business",
+      "applyUrl": "https://www.corsi.univr.it/?ent=cs&id=1429&lang=en"
+    },
+    {
+      "universityId": "university-of-verona",
+      "name": "Languages, Literatures and Digital Culture",
+      "field": "Humanities",
+      "applyUrl": "https://www.corsi.univr.it/?ent=cs&id=1326&lang=en"
+    },
+    {
+      "universityId": "university-of-verona",
+      "name": "Linguistics",
+      "field": "Humanities",
+      "applyUrl": "https://www.corsi.univr.it/?ent=cs&id=1318&lang=en"
+    },
+    {
+      "universityId": "university-of-verona",
+      "name": "Mathematics",
+      "field": "Natural Sciences",
+      "applyUrl": "https://www.corsi.univr.it/?ent=cs&id=1352&lang=en"
+    },
+    {
+      "universityId": "university-of-verona",
+      "name": "Medical Bioinformatics",
+      "field": "Computer Science",
+      "applyUrl": "https://www.corsi.univr.it/?ent=cs&id=1353&lang=en"
+    },
+    {
+      "universityId": "university-of-verona",
+      "name": "Molecular and Medical Biotechnology",
+      "field": "Life Sciences",
+      "applyUrl": "https://www.corsi.univr.it/?ent=cs&id=1292&lang=en"
+    },
+    {
+      "universityId": "university-of-verona",
+      "name": "Viticulture, Enology and Wine Marketing",
+      "field": "Business",
+      "applyUrl": "https://www.corsi.univr.it/?ent=cs&id=1362&lang=en"
+    }
+  ]
+}
